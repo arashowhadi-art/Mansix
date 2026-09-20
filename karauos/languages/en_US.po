@@ -1,0 +1,6277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: karauos 4.0.0\n"
+"POT-Creation-Date: 2021-08-28 16:51+0430\n"
+"PO-Revision-Date: 2021-08-28 16:51+0430\n"
+"Last-Translator: \n"
+"Language-Team: Themento\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:32
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:32
+msgid "1 Response"
+msgstr ""
+
+#: comments.php:32
+msgid "% Responses"
+msgstr ""
+
+#: comments.php:39
+msgid "Reply"
+msgstr ""
+
+#: comments.php:45
+msgid "Previous"
+msgstr ""
+
+#: comments.php:46
+msgid "Next"
+msgstr ""
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:63
+msgid "Write your own comment ..."
+msgstr ""
+
+#: comments.php:64 comments.php:66
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:71
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:72
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:77
+msgid "Enter Your Name"
+msgstr ""
+
+#: comments.php:82
+msgid "Enter Your Email"
+msgstr ""
+
+#: functions.php:72 inc/elements/navbar.php:1093
+msgid "Main Menu"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:26
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:31
+msgid "Add Font Weight"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:36
+msgid "Customizer Font"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:202
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:241
+msgid "Delete Font"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:251
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:272
+msgid "EOT File"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:275
+msgid "Upload EOT"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:283
+msgid "TTF File"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:286
+msgid "Upload TTF"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:294
+msgid "WOFF File"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:297
+msgid "Upload WOFF"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:305
+msgid "WOFF2 File"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:308
+msgid "Upload WOFF2"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:316
+msgid "SVG File"
+msgstr ""
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:319
+msgid "Upload SVG"
+msgstr ""
+
+#: inc/customizer/customizer.php:91
+msgid "karauos Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:97
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:104
+msgid "Header Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:105 inc/customizer/customizer.php:137
+#: inc/customizer/customizer.php:155 inc/customizer/customizer.php:166
+#: inc/customizer/customizer.php:178 inc/customizer/customizer.php:198
+#: inc/customizer/customizer.php:209 inc/customizer/customizer.php:221
+#: inc/customizer/customizer.php:233 inc/customizer/customizer.php:252
+msgid "Choose a template created in Theme Panel > My Library."
+msgstr ""
+
+#: inc/customizer/customizer.php:117
+msgid "Absolute Header"
+msgstr ""
+
+#: inc/customizer/customizer.php:124
+msgid "Absolute Header (Mobile)"
+msgstr ""
+
+#: inc/customizer/customizer.php:129
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:136
+msgid "Footer Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:147
+msgid "Archive Page Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:154
+msgid "Archive Page Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:165
+msgid "Archive Project Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:177
+msgid "Archive Shop Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:190
+msgid "Single Page Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:197
+msgid "Single Post Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:208
+msgid "Single Project Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:220
+msgid "Single Shop Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:232
+msgid "Static Page Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:244
+msgid "404 Error Page Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:251
+msgid "Error Page Select Template"
+msgstr ""
+
+#: inc/customizer/customizer.php:264
+msgid "WP Login"
+msgstr ""
+
+#: inc/customizer/customizer.php:270
+msgid "Login Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:277
+msgid "Login Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:282
+msgid "Login Background image"
+msgstr ""
+
+#: inc/customizer/customizer.php:289
+msgid "Login Color Links"
+msgstr ""
+
+#: inc/customizer/customizer.php:294
+msgid "Login Background Color Submit"
+msgstr ""
+
+#: inc/customizer/customizer.php:299
+msgid "Login Color Text Submit"
+msgstr ""
+
+#: inc/customizer/customizer.php:304
+msgid "Login Background Color Submit Hover"
+msgstr ""
+
+#: inc/customizer/customizer.php:309
+msgid "Login Text Color Submit Hover"
+msgstr ""
+
+#: inc/customizer/customizer.php:316 inc/elements/info-box.php:1274
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:323
+msgid "Select Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:328
+msgid "Select Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:333 inc/elements/info-box.php:1260
+#: inc/elements/shop/product-rating.php:65
+#: inc/elements/single/breadcrumb.php:94 inc/elements/single/content.php:91
+#: inc/elements/single/yoast-breadcrumb.php:129
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:338
+msgid "Mobile Tab Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:347
+msgid "Template Fonts"
+msgstr ""
+
+#: inc/customizer/customizer.php:358
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer/customizer.php:368
+msgid "Custom codes"
+msgstr ""
+
+#: inc/customizer/customizer.php:376
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer/customizer.php:387
+msgid "Custom JS"
+msgstr ""
+
+#: inc/customizer/customizer.php:398
+msgid "Before Closing Head Tag"
+msgstr ""
+
+#: inc/customizer/customizer.php:409
+msgid "Before Closing Body Tag"
+msgstr ""
+
+#: inc/elements/accordion.php:14 inc/elements/accordion.php:32
+msgid "Accordion"
+msgstr ""
+
+#: inc/elements/accordion.php:39 inc/elements/tabs.php:47
+msgid "Accordion Items"
+msgstr ""
+
+#: inc/elements/accordion.php:43 inc/elements/tabs.php:51
+msgid "Accordion #1"
+msgstr ""
+
+#: inc/elements/accordion.php:44 inc/elements/accordion.php:48
+#: inc/elements/accordion.php:52 inc/elements/tabs.php:52
+#: inc/elements/tabs.php:56 inc/elements/tabs.php:60
+msgid ""
+"I am item content. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/elements/accordion.php:47 inc/elements/tabs.php:55
+msgid "Accordion #2"
+msgstr ""
+
+#: inc/elements/accordion.php:51 inc/elements/tabs.php:59
+msgid "Accordion #3"
+msgstr ""
+
+#: inc/elements/accordion.php:58 inc/elements/tabs.php:66
+msgid "Title & Content"
+msgstr ""
+
+#: inc/elements/accordion.php:61 inc/elements/accordion.php:233
+#: inc/elements/flip-box.php:781 inc/elements/flip-box.php:964
+#: inc/elements/gravity-forms.php:51 inc/elements/icon-tab.php:62
+#: inc/elements/info-box-advanced.php:1331 inc/elements/info-box.php:62
+#: inc/elements/info-box.php:578 inc/elements/login.php:227
+#: inc/elements/member.php:105 inc/elements/price.php:97
+#: inc/elements/price.php:128 inc/elements/price.php:546
+#: inc/elements/shop/archive-product.php:398 inc/elements/shop/basket.php:235
+#: inc/elements/shop/product-classic.php:557
+#: inc/elements/shop/product-related.php:89
+#: inc/elements/shop/product-related.php:411 inc/elements/shop/product.php:264
+#: inc/elements/shop/product.php:476 inc/elements/shop/shop-elements.php:860
+#: inc/elements/single/title.php:15 inc/elements/slider.php:687
+#: inc/elements/tabs.php:69 inc/elements/testimonial.php:80
+#: inc/elements/tmt-heading.php:203
+msgid "Title"
+msgstr ""
+
+#: inc/elements/accordion.php:66 inc/elements/slider.php:54
+#: inc/elements/tabs.php:79
+msgid "Select Source"
+msgstr ""
+
+#: inc/elements/accordion.php:70 inc/elements/slider.php:58
+#: inc/elements/tabs.php:83
+msgid "Custom Content"
+msgstr ""
+
+#: inc/elements/accordion.php:71 inc/elements/slider.php:59
+#: inc/elements/tabs.php:84
+msgid "Elementor Template"
+msgstr ""
+
+#: inc/elements/accordion.php:76 inc/elements/accordion.php:79
+#: inc/elements/accordion.php:513 inc/elements/flip-box.php:40
+#: inc/elements/flip-box.php:208 inc/elements/icon-tab.php:38
+#: inc/elements/icon-tab.php:46 inc/elements/icon-tab.php:71
+#: inc/elements/icon-tab.php:301 inc/elements/info-box-advanced.php:1308
+#: inc/elements/list.php:91 inc/elements/scroll-to-top.php:144
+#: inc/elements/shop/product-meta.php:32
+#: inc/elements/single/before-after.php:41
+#: inc/elements/single/before-after.php:183
+#: inc/elements/single/comments.php:938 inc/elements/single/content.php:15
+#: inc/elements/slider.php:227 inc/elements/svg.php:29 inc/elements/tabs.php:39
+#: inc/elements/tabs.php:89 inc/elements/tabs.php:92 inc/elements/tabs.php:425
+#: inc/elements/tag-cloud.php:87 inc/elements/testimonial.php:485
+#: inc/elements/tmt-heading.php:41 inc/elements/video.php:37
+#: inc/elements/whatsapp.php:39 inc/elements/whatsapp.php:63
+msgid "Content"
+msgstr ""
+
+#: inc/elements/accordion.php:85 inc/elements/slider.php:66
+#: inc/elements/tabs.php:98
+msgid "Select Template"
+msgstr ""
+
+#: inc/elements/accordion.php:100 inc/elements/flip-box.php:110
+#: inc/elements/gallery.php:132 inc/elements/shop/product-meta.php:180
+#: inc/elements/social-icons.php:349
+msgid "View"
+msgstr ""
+
+#: inc/elements/accordion.php:109 inc/elements/info-box-advanced.php:784
+msgid "Title HTML Tag"
+msgstr ""
+
+#: inc/elements/accordion.php:119 inc/elements/accordion.php:389
+#: inc/elements/flip-box.php:57 inc/elements/flip-box.php:95
+#: inc/elements/flip-box.php:626 inc/elements/icon-tab.php:51
+#: inc/elements/icon-tab.php:190 inc/elements/info-box-advanced.php:47
+#: inc/elements/info-box-advanced.php:61 inc/elements/info-box-advanced.php:327
+#: inc/elements/info-box.php:394 inc/elements/list.php:110
+#: inc/elements/list.php:494 inc/elements/login.php:191
+#: inc/elements/login.php:237 inc/elements/post-carousel.php:521
+#: inc/elements/post-grid.php:1021 inc/elements/post-list.php:605
+#: inc/elements/price.php:48 inc/elements/price.php:68
+#: inc/elements/price.php:137 inc/elements/price.php:406
+#: inc/elements/scroll-to-top.php:46 inc/elements/search.php:76
+#: inc/elements/search.php:98 inc/elements/search.php:199
+#: inc/elements/shop/basket.php:110 inc/elements/shop/basket.php:256
+#: inc/elements/single/before-after.php:51
+#: inc/elements/single/before-after.php:80
+#: inc/elements/single/before-after.php:134
+#: inc/elements/single/before-after.php:240
+#: inc/elements/single/post-info.php:314 inc/elements/single/post-info.php:576
+#: inc/elements/single/social-share.php:216 inc/elements/social-icons.php:103
+#: inc/elements/social-icons.php:361 inc/elements/tabs.php:74
+#: inc/elements/tmt-heading.php:176 inc/elements/whatsapp.php:353
+msgid "Icon"
+msgstr ""
+
+#: inc/elements/accordion.php:132
+msgid "Active Icon"
+msgstr ""
+
+#: inc/elements/accordion.php:150 inc/elements/shop/product.php:248
+msgid "Additional"
+msgstr ""
+
+#: inc/elements/accordion.php:157
+msgid "Multiple Open"
+msgstr ""
+
+#: inc/elements/accordion.php:165 inc/elements/tabs.php:179
+msgid "Active Item No"
+msgstr ""
+
+#: inc/elements/accordion.php:177 inc/elements/language-switcher.php:235
+#: inc/elements/price.php:648 inc/elements/shop/product.php:302
+msgid "Item"
+msgstr ""
+
+#: inc/elements/accordion.php:185 inc/elements/accordion.php:409
+#: inc/elements/cat-archive-description.php:43 inc/elements/flip-box.php:451
+#: inc/elements/flip-box.php:901 inc/elements/gravity-forms.php:118
+#: inc/elements/gravity-forms.php:811 inc/elements/heading-advanced.php:106
+#: inc/elements/heading-advanced.php:153
+#: inc/elements/info-box-advanced.php:1340
+#: inc/elements/info-box-advanced.php:1425
+#: inc/elements/info-box-advanced.php:1708 inc/elements/info-box.php:651
+#: inc/elements/language-switcher.php:73 inc/elements/list.php:255
+#: inc/elements/list.php:548 inc/elements/list.php:573
+#: inc/elements/login.php:119 inc/elements/login.php:171
+#: inc/elements/navbar.php:70 inc/elements/post-grid.php:1441
+#: inc/elements/post-grid.php:1596 inc/elements/price.php:340
+#: inc/elements/price.php:754 inc/elements/scroll-to-top.php:111
+#: inc/elements/search.php:112 inc/elements/search.php:176
+#: inc/elements/shop/archive-description.php:45
+#: inc/elements/shop/archive-product.php:405
+#: inc/elements/shop/archive-product.php:655 inc/elements/shop/basket.php:46
+#: inc/elements/shop/basket.php:90 inc/elements/shop/product-add-to-cart.php:43
+#: inc/elements/shop/product-classic.php:564
+#: inc/elements/shop/product-classic.php:817
+#: inc/elements/shop/product-price.php:45
+#: inc/elements/shop/product-rating.php:133
+#: inc/elements/shop/product-related.php:418
+#: inc/elements/shop/product-related.php:668
+#: inc/elements/shop/product-short-description.php:43
+#: inc/elements/shop/product.php:85 inc/elements/single/before-after.php:102
+#: inc/elements/single/before-after.php:156
+#: inc/elements/single/breadcrumb.php:41 inc/elements/single/comments.php:120
+#: inc/elements/single/comments.php:235 inc/elements/single/content.php:42
+#: inc/elements/single/post-info.php:434 inc/elements/single/short-link.php:41
+#: inc/elements/single/social-share.php:190 inc/elements/single/title.php:50
+#: inc/elements/single/yoast-breadcrumb.php:42
+#: inc/elements/social-icons.php:323 inc/elements/tabs.php:127
+#: inc/elements/tabs.php:153 inc/elements/tabs.php:253
+#: inc/elements/testimonial.php:385 inc/elements/testimonial.php:547
+#: inc/elements/testimonial.php:616 inc/elements/testimonial.php:660
+#: inc/elements/tmt-heading.php:100
+msgid "Alignment"
+msgstr ""
+
+#: inc/elements/accordion.php:189 inc/elements/cat-archive-description.php:47
+#: inc/elements/cf-styler.php:340 inc/elements/cf-styler.php:529
+#: inc/elements/cf-styler.php:537 inc/elements/flip-box.php:397
+#: inc/elements/flip-box.php:456 inc/elements/flip-box.php:464
+#: inc/elements/flip-box.php:906 inc/elements/gravity-forms.php:122
+#: inc/elements/gravity-forms.php:815 inc/elements/header.php:67
+#: inc/elements/heading-advanced.php:110 inc/elements/heading-advanced.php:157
+#: inc/elements/heading.php:253 inc/elements/info-box-advanced.php:158
+#: inc/elements/info-box-advanced.php:166
+#: inc/elements/info-box-advanced.php:345
+#: inc/elements/info-box-advanced.php:1344
+#: inc/elements/info-box-advanced.php:1429
+#: inc/elements/info-box-advanced.php:1712 inc/elements/info-box.php:486
+#: inc/elements/info-box.php:663 inc/elements/info-box.php:783
+#: inc/elements/language-switcher.php:85 inc/elements/list.php:259
+#: inc/elements/list.php:552 inc/elements/list.php:577
+#: inc/elements/login.php:123 inc/elements/login.php:175
+#: inc/elements/member.php:205 inc/elements/navbar.php:74
+#: inc/elements/navbar.php:201 inc/elements/navbar.php:290
+#: inc/elements/navbar.php:328 inc/elements/navbar.php:910
+#: inc/elements/navbar.php:969 inc/elements/post-carousel.php:365
+#: inc/elements/post-grid.php:812 inc/elements/post-grid.php:1179
+#: inc/elements/post-grid.php:1453 inc/elements/post-grid.php:1608
+#: inc/elements/post-list.php:134 inc/elements/post-list.php:142
+#: inc/elements/post-list.php:759 inc/elements/post-list.php:920
+#: inc/elements/price.php:344 inc/elements/price.php:758
+#: inc/elements/scroll-to-top.php:98 inc/elements/scroll-to-top.php:115
+#: inc/elements/search.php:116 inc/elements/search.php:180
+#: inc/elements/search.php:552 inc/elements/shop/archive-description.php:49
+#: inc/elements/shop/archive-product.php:409
+#: inc/elements/shop/archive-product.php:659
+#: inc/elements/shop/archive-product.php:1006 inc/elements/shop/basket.php:50
+#: inc/elements/shop/basket.php:94 inc/elements/shop/product-add-to-cart.php:47
+#: inc/elements/shop/product-classic.php:568
+#: inc/elements/shop/product-classic.php:821
+#: inc/elements/shop/product-classic.php:1171
+#: inc/elements/shop/product-price.php:49
+#: inc/elements/shop/product-rating.php:137
+#: inc/elements/shop/product-related.php:146
+#: inc/elements/shop/product-related.php:422
+#: inc/elements/shop/product-related.php:672
+#: inc/elements/shop/product-short-description.php:47
+#: inc/elements/shop/product.php:90 inc/elements/single/before-after.php:106
+#: inc/elements/single/before-after.php:160
+#: inc/elements/single/breadcrumb.php:45 inc/elements/single/comments.php:124
+#: inc/elements/single/comments.php:239 inc/elements/single/content.php:46
+#: inc/elements/single/post-info.php:589 inc/elements/single/short-link.php:45
+#: inc/elements/single/social-share.php:194
+#: inc/elements/single/thumbnail.php:81 inc/elements/single/title.php:54
+#: inc/elements/single/yoast-breadcrumb.php:46 inc/elements/slider.php:302
+#: inc/elements/slider.php:359 inc/elements/slider.php:607
+#: inc/elements/slider.php:671 inc/elements/social-icons.php:327
+#: inc/elements/tabs.php:119 inc/elements/tabs.php:120
+#: inc/elements/tabs.php:131 inc/elements/tabs.php:139
+#: inc/elements/tabs.php:257 inc/elements/testimonial.php:389
+#: inc/elements/testimonial.php:551 inc/elements/testimonial.php:620
+#: inc/elements/testimonial.php:664 inc/elements/tmt-heading.php:104
+#: inc/elements/tmt-heading.php:714 inc/elements/tmt-heading.php:747
+#: inc/elements/whatsapp.php:197
+msgid "Left"
+msgstr ""
+
+#: inc/elements/accordion.php:193 inc/elements/cat-archive-description.php:51
+#: inc/elements/cf-styler.php:336 inc/elements/cf-styler.php:533
+#: inc/elements/flip-box.php:460 inc/elements/flip-box.php:910
+#: inc/elements/gravity-forms.php:126 inc/elements/gravity-forms.php:819
+#: inc/elements/header.php:63 inc/elements/heading-advanced.php:114
+#: inc/elements/heading-advanced.php:161 inc/elements/heading.php:249
+#: inc/elements/info-box-advanced.php:1348
+#: inc/elements/info-box-advanced.php:1433
+#: inc/elements/info-box-advanced.php:1716 inc/elements/info-box.php:482
+#: inc/elements/info-box.php:659 inc/elements/info-box.php:779
+#: inc/elements/language-switcher.php:81 inc/elements/list.php:263
+#: inc/elements/list.php:556 inc/elements/list.php:581
+#: inc/elements/login.php:127 inc/elements/member.php:209
+#: inc/elements/navbar.php:78 inc/elements/navbar.php:205
+#: inc/elements/navbar.php:973 inc/elements/post-carousel.php:361
+#: inc/elements/post-grid.php:808 inc/elements/post-grid.php:1175
+#: inc/elements/post-grid.php:1449 inc/elements/post-grid.php:1604
+#: inc/elements/post-list.php:755 inc/elements/post-list.php:916
+#: inc/elements/price.php:348 inc/elements/price.php:762
+#: inc/elements/scroll-to-top.php:119 inc/elements/search.php:120
+#: inc/elements/shop/archive-description.php:53
+#: inc/elements/shop/archive-product.php:413
+#: inc/elements/shop/archive-product.php:663
+#: inc/elements/shop/archive-product.php:1002 inc/elements/shop/basket.php:54
+#: inc/elements/shop/product-add-to-cart.php:51
+#: inc/elements/shop/product-classic.php:572
+#: inc/elements/shop/product-classic.php:825
+#: inc/elements/shop/product-classic.php:1167
+#: inc/elements/shop/product-price.php:53
+#: inc/elements/shop/product-rating.php:141
+#: inc/elements/shop/product-related.php:150
+#: inc/elements/shop/product-related.php:426
+#: inc/elements/shop/product-related.php:676
+#: inc/elements/shop/product-short-description.php:51
+#: inc/elements/shop/product.php:94 inc/elements/single/before-after.php:110
+#: inc/elements/single/before-after.php:164
+#: inc/elements/single/breadcrumb.php:49 inc/elements/single/comments.php:128
+#: inc/elements/single/comments.php:243 inc/elements/single/content.php:50
+#: inc/elements/single/post-info.php:442 inc/elements/single/short-link.php:49
+#: inc/elements/single/social-share.php:198
+#: inc/elements/single/thumbnail.php:77 inc/elements/single/title.php:58
+#: inc/elements/single/yoast-breadcrumb.php:50 inc/elements/slider.php:306
+#: inc/elements/slider.php:363 inc/elements/slider.php:611
+#: inc/elements/slider.php:667 inc/elements/social-icons.php:331
+#: inc/elements/tabs.php:135 inc/elements/tabs.php:161
+#: inc/elements/tabs.php:261 inc/elements/testimonial.php:367
+#: inc/elements/testimonial.php:393 inc/elements/testimonial.php:555
+#: inc/elements/testimonial.php:624 inc/elements/testimonial.php:668
+#: inc/elements/tmt-heading.php:108 inc/elements/tmt-heading.php:710
+#: inc/elements/tmt-heading.php:743 inc/template-tags.php:57
+msgid "Center"
+msgstr ""
+
+#: inc/elements/accordion.php:197 inc/elements/cat-archive-description.php:55
+#: inc/elements/cf-styler.php:332 inc/elements/flip-box.php:398
+#: inc/elements/flip-box.php:456 inc/elements/flip-box.php:464
+#: inc/elements/flip-box.php:914 inc/elements/gravity-forms.php:130
+#: inc/elements/gravity-forms.php:823 inc/elements/header.php:59
+#: inc/elements/heading-advanced.php:118 inc/elements/heading-advanced.php:165
+#: inc/elements/heading.php:245 inc/elements/info-box-advanced.php:158
+#: inc/elements/info-box-advanced.php:166
+#: inc/elements/info-box-advanced.php:346
+#: inc/elements/info-box-advanced.php:1352
+#: inc/elements/info-box-advanced.php:1437
+#: inc/elements/info-box-advanced.php:1720 inc/elements/info-box.php:478
+#: inc/elements/info-box.php:655 inc/elements/info-box.php:775
+#: inc/elements/language-switcher.php:77 inc/elements/list.php:267
+#: inc/elements/list.php:560 inc/elements/list.php:585
+#: inc/elements/login.php:131 inc/elements/login.php:179
+#: inc/elements/member.php:213 inc/elements/navbar.php:82
+#: inc/elements/navbar.php:209 inc/elements/navbar.php:289
+#: inc/elements/navbar.php:327 inc/elements/navbar.php:909
+#: inc/elements/navbar.php:977 inc/elements/post-carousel.php:357
+#: inc/elements/post-grid.php:804 inc/elements/post-grid.php:1171
+#: inc/elements/post-grid.php:1445 inc/elements/post-grid.php:1600
+#: inc/elements/post-list.php:134 inc/elements/post-list.php:142
+#: inc/elements/post-list.php:751 inc/elements/post-list.php:912
+#: inc/elements/price.php:352 inc/elements/price.php:766
+#: inc/elements/scroll-to-top.php:97 inc/elements/scroll-to-top.php:123
+#: inc/elements/search.php:124 inc/elements/search.php:184
+#: inc/elements/search.php:548 inc/elements/shop/archive-description.php:57
+#: inc/elements/shop/archive-product.php:417
+#: inc/elements/shop/archive-product.php:667
+#: inc/elements/shop/archive-product.php:998 inc/elements/shop/basket.php:58
+#: inc/elements/shop/basket.php:98 inc/elements/shop/product-add-to-cart.php:55
+#: inc/elements/shop/product-classic.php:576
+#: inc/elements/shop/product-classic.php:829
+#: inc/elements/shop/product-classic.php:1163
+#: inc/elements/shop/product-price.php:57
+#: inc/elements/shop/product-rating.php:145
+#: inc/elements/shop/product-related.php:154
+#: inc/elements/shop/product-related.php:430
+#: inc/elements/shop/product-related.php:680
+#: inc/elements/shop/product-short-description.php:55
+#: inc/elements/shop/product.php:98 inc/elements/single/before-after.php:114
+#: inc/elements/single/before-after.php:168
+#: inc/elements/single/breadcrumb.php:53 inc/elements/single/comments.php:132
+#: inc/elements/single/comments.php:247 inc/elements/single/content.php:54
+#: inc/elements/single/post-info.php:588 inc/elements/single/short-link.php:53
+#: inc/elements/single/social-share.php:202
+#: inc/elements/single/thumbnail.php:73 inc/elements/single/title.php:62
+#: inc/elements/single/yoast-breadcrumb.php:54 inc/elements/slider.php:310
+#: inc/elements/slider.php:367 inc/elements/slider.php:615
+#: inc/elements/slider.php:663 inc/elements/social-icons.php:335
+#: inc/elements/tabs.php:119 inc/elements/tabs.php:120
+#: inc/elements/tabs.php:131 inc/elements/tabs.php:139
+#: inc/elements/tabs.php:265 inc/elements/testimonial.php:397
+#: inc/elements/testimonial.php:559 inc/elements/testimonial.php:628
+#: inc/elements/testimonial.php:672 inc/elements/tmt-heading.php:112
+#: inc/elements/tmt-heading.php:706 inc/elements/tmt-heading.php:739
+#: inc/elements/whatsapp.php:196
+msgid "Right"
+msgstr ""
+
+#: inc/elements/accordion.php:211
+msgid "Item Spacing"
+msgstr ""
+
+#: inc/elements/accordion.php:243 inc/elements/accordion.php:402
+#: inc/elements/category-list.php:247 inc/elements/cf-styler.php:591
+#: inc/elements/flip-box.php:1103 inc/elements/gravity-forms.php:147
+#: inc/elements/gravity-forms.php:655 inc/elements/gravity-forms.php:882
+#: inc/elements/heading-advanced.php:430 inc/elements/heading.php:743
+#: inc/elements/icon-tab.php:246 inc/elements/info-box-advanced.php:831
+#: inc/elements/info-box-advanced.php:1736 inc/elements/info-box.php:119
+#: inc/elements/info-box.php:923 inc/elements/info-box.php:1288
+#: inc/elements/language-switcher.php:110
+#: inc/elements/language-switcher.php:241 inc/elements/list.php:275
+#: inc/elements/login.php:422 inc/elements/login.php:743
+#: inc/elements/login.php:1176 inc/elements/member.php:281
+#: inc/elements/member.php:607 inc/elements/navbar.php:346
+#: inc/elements/navbar.php:639 inc/elements/post-carousel.php:422
+#: inc/elements/post-carousel.php:556 inc/elements/post-carousel.php:685
+#: inc/elements/post-grid.php:704 inc/elements/post-grid.php:926
+#: inc/elements/post-grid.php:1087 inc/elements/post-grid.php:1190
+#: inc/elements/post-grid.php:1524 inc/elements/post-grid.php:1706
+#: inc/elements/post-list.php:425 inc/elements/post-list.php:931
+#: inc/elements/price.php:262 inc/elements/price.php:374
+#: inc/elements/price.php:503 inc/elements/price.php:685
+#: inc/elements/price.php:785 inc/elements/price.php:949
+#: inc/elements/scroll-to-top.php:174 inc/elements/search.php:355
+#: inc/elements/search.php:586 inc/elements/search.php:752
+#: inc/elements/shop/archive-product.php:106
+#: inc/elements/shop/archive-product.php:227
+#: inc/elements/shop/archive-product.php:683
+#: inc/elements/shop/archive-product.php:1017 inc/elements/shop/basket.php:293
+#: inc/elements/shop/basket.php:467
+#: inc/elements/shop/product-add-to-cart.php:107
+#: inc/elements/shop/product-add-to-cart.php:278
+#: inc/elements/shop/product-classic.php:398
+#: inc/elements/shop/product-classic.php:845
+#: inc/elements/shop/product-classic.php:1182
+#: inc/elements/shop/product-classic.php:1340
+#: inc/elements/shop/product-data-tabs.php:44
+#: inc/elements/shop/product-related.php:252
+#: inc/elements/shop/product-related.php:696 inc/elements/shop/product.php:312
+#: inc/elements/shop/product.php:680 inc/elements/shop/shop-elements.php:394
+#: inc/elements/shop/shop-elements.php:719
+#: inc/elements/shop/shop-elements.php:1172
+#: inc/elements/shop/shop-elements.php:1332
+#: inc/elements/single/before-after.php:361
+#: inc/elements/single/comments.php:1044 inc/elements/single/post-info.php:598
+#: inc/elements/single/post-info.php:814
+#: inc/elements/single/social-share.php:250
+#: inc/elements/single/thumbnail.php:185
+#: inc/elements/single/yoast-breadcrumb.php:122 inc/elements/slider.php:865
+#: inc/elements/slider.php:1008 inc/elements/social-icons.php:207
+#: inc/elements/social-icons.php:380 inc/elements/tabs.php:278
+#: inc/elements/tag-cloud.php:120 inc/elements/testimonial.php:758
+msgid "Normal"
+msgstr ""
+
+#: inc/elements/accordion.php:260 inc/elements/accordion.php:341
+#: inc/elements/accordion.php:439 inc/elements/accordion.php:478
+#: inc/elements/accordion.php:531 inc/elements/business-hours.php:241
+#: inc/elements/category-list.php:161 inc/elements/category-list.php:337
+#: inc/elements/gravity-forms.php:665 inc/elements/gravity-forms.php:781
+#: inc/elements/heading-advanced.php:279 inc/elements/heading-advanced.php:437
+#: inc/elements/heading-advanced.php:529 inc/elements/heading-advanced.php:822
+#: inc/elements/heading.php:296 inc/elements/heading.php:306
+#: inc/elements/heading.php:382 inc/elements/heading.php:455
+#: inc/elements/info-box-advanced.php:1386
+#: inc/elements/info-box-advanced.php:1464
+#: inc/elements/info-box-advanced.php:1562 inc/elements/info-box.php:536
+#: inc/elements/info-box.php:610 inc/elements/info-box.php:1166
+#: inc/elements/list.php:475 inc/elements/list.php:502
+#: inc/elements/member.php:434 inc/elements/member.php:480
+#: inc/elements/member.php:529 inc/elements/member.php:625
+#: inc/elements/member.php:733 inc/elements/navbar.php:351
+#: inc/elements/navbar.php:438 inc/elements/navbar.php:509
+#: inc/elements/navbar.php:644 inc/elements/navbar.php:712
+#: inc/elements/navbar.php:780 inc/elements/navbar.php:1098
+#: inc/elements/navbar.php:1160 inc/elements/post-grid.php:2087
+#: inc/elements/post-list.php:775 inc/elements/search.php:592
+#: inc/elements/search.php:625 inc/elements/shop/archive-product.php:240
+#: inc/elements/shop/archive-product.php:430
+#: inc/elements/shop/archive-product.php:485
+#: inc/elements/shop/archive-product.php:591
+#: inc/elements/shop/archive-product.php:621 inc/elements/shop/basket.php:297
+#: inc/elements/shop/basket.php:320
+#: inc/elements/shop/product-add-to-cart.php:439
+#: inc/elements/shop/product-add-to-cart.php:467
+#: inc/elements/shop/product-classic.php:589
+#: inc/elements/shop/product-classic.php:647
+#: inc/elements/shop/product-classic.php:753
+#: inc/elements/shop/product-classic.php:783
+#: inc/elements/shop/product-images.php:152
+#: inc/elements/shop/product-meta.php:251
+#: inc/elements/shop/product-meta.php:279
+#: inc/elements/shop/product-price.php:80
+#: inc/elements/shop/product-price.php:110
+#: inc/elements/shop/product-related.php:123
+#: inc/elements/shop/product-related.php:443
+#: inc/elements/shop/product-related.php:498
+#: inc/elements/shop/product-related.php:604
+#: inc/elements/shop/product-related.php:634 inc/elements/shop/product.php:487
+#: inc/elements/shop/product.php:543 inc/elements/shop/product.php:592
+#: inc/elements/shop/product.php:633 inc/elements/shop/shop-elements.php:93
+#: inc/elements/shop/shop-elements.php:544
+#: inc/elements/single/breadcrumb.php:106 inc/elements/single/comments.php:92
+#: inc/elements/single/comments.php:207 inc/elements/single/comments.php:493
+#: inc/elements/single/comments.php:868 inc/elements/single/comments.php:914
+#: inc/elements/single/comments.php:954 inc/elements/single/comments.php:1048
+#: inc/elements/single/comments.php:1074 inc/elements/single/post-info.php:558
+#: inc/elements/single/post-info.php:603 inc/elements/single/post-info.php:646
+#: inc/elements/single/post-info.php:759 inc/elements/single/post-info.php:819
+#: inc/elements/single/post-info.php:861
+#: inc/elements/single/yoast-breadcrumb.php:150 inc/elements/slider.php:78
+#: inc/elements/slider.php:214 inc/elements/slider.php:1381
+#: inc/elements/social-icons.php:196 inc/elements/social-icons.php:369
+#: inc/elements/tabs.php:291 inc/elements/tabs.php:354
+#: inc/elements/tabs.php:441 inc/elements/tag-cloud.php:216
+#: inc/elements/testimonial.php:528 inc/elements/testimonial.php:580
+#: inc/elements/testimonial.php:650 inc/elements/tmt-heading.php:240
+#: inc/elements/tmt-heading.php:249 inc/elements/tmt-heading.php:315
+#: inc/elements/tmt-heading.php:324 inc/elements/tmt-heading.php:433
+#: inc/elements/tmt-heading.php:557 inc/elements/tmt-heading.php:768
+msgid "Color"
+msgstr ""
+
+#: inc/elements/accordion.php:280 inc/elements/accordion.php:555
+#: inc/elements/category-list.php:95 inc/elements/category-list.php:275
+#: inc/elements/category-list.php:359 inc/elements/cf-styler.php:581
+#: inc/elements/flip-box.php:439 inc/elements/flip-box.php:889
+#: inc/elements/flip-box.php:1162 inc/elements/gravity-forms.php:196
+#: inc/elements/gravity-forms.php:934 inc/elements/heading-advanced.php:459
+#: inc/elements/heading-advanced.php:578 inc/elements/heading-advanced.php:850
+#: inc/elements/heading.php:646 inc/elements/icon-tab.php:386
+#: inc/elements/info-box-advanced.php:862
+#: inc/elements/info-box-advanced.php:1318
+#: inc/elements/info-box-advanced.php:1797
+#: inc/elements/info-box-advanced.php:2012 inc/elements/info-box.php:1416
+#: inc/elements/language-switcher.php:413 inc/elements/list.php:343
+#: inc/elements/login.php:402 inc/elements/login.php:511
+#: inc/elements/login.php:595 inc/elements/login.php:918
+#: inc/elements/login.php:1051 inc/elements/login.php:1119
+#: inc/elements/login.php:1329 inc/elements/member.php:569
+#: inc/elements/member.php:670 inc/elements/navbar.php:107
+#: inc/elements/navbar.php:1024 inc/elements/navbar.php:1126
+#: inc/elements/navbar.php:1199 inc/elements/post-carousel.php:773
+#: inc/elements/post-grid.php:1631 inc/elements/post-grid.php:1840
+#: inc/elements/post-grid.php:2102 inc/elements/post-list.php:376
+#: inc/elements/post-list.php:547 inc/elements/post-list.php:683
+#: inc/elements/post-list.php:884 inc/elements/price.php:365
+#: inc/elements/price.php:664 inc/elements/price.php:776
+#: inc/elements/price.php:926 inc/elements/scroll-to-top.php:203
+#: inc/elements/scroll-to-top.php:294 inc/elements/search.php:296
+#: inc/elements/search.php:516 inc/elements/search.php:680
+#: inc/elements/search.php:839 inc/elements/shop/archive-product.php:272
+#: inc/elements/shop/archive-product.php:543
+#: inc/elements/shop/archive-product.php:744
+#: inc/elements/shop/archive-product.php:912 inc/elements/shop/basket.php:190
+#: inc/elements/shop/basket.php:361 inc/elements/shop/basket.php:550
+#: inc/elements/shop/product-add-to-cart.php:94
+#: inc/elements/shop/product-add-to-cart.php:265
+#: inc/elements/shop/product-classic.php:705
+#: inc/elements/shop/product-classic.php:906
+#: inc/elements/shop/product-classic.php:1074
+#: inc/elements/shop/product-classic.php:1444
+#: inc/elements/shop/product-images.php:175
+#: inc/elements/shop/product-meta.php:201
+#: inc/elements/shop/product-related.php:556
+#: inc/elements/shop/product-related.php:757
+#: inc/elements/shop/product-related.php:925 inc/elements/shop/product.php:734
+#: inc/elements/shop/product.php:859 inc/elements/shop/shop-elements.php:196
+#: inc/elements/shop/shop-elements.php:290
+#: inc/elements/shop/shop-elements.php:456
+#: inc/elements/shop/shop-elements.php:614
+#: inc/elements/shop/shop-elements.php:781
+#: inc/elements/shop/shop-elements.php:889
+#: inc/elements/shop/shop-elements.php:973
+#: inc/elements/shop/shop-elements.php:1091
+#: inc/elements/shop/shop-elements.php:1234
+#: inc/elements/shop/shop-elements.php:1394
+#: inc/elements/single/before-after.php:276
+#: inc/elements/single/comments.php:164 inc/elements/single/comments.php:279
+#: inc/elements/single/comments.php:351 inc/elements/single/comments.php:440
+#: inc/elements/single/comments.php:534 inc/elements/single/comments.php:602
+#: inc/elements/single/comments.php:674 inc/elements/single/comments.php:734
+#: inc/elements/single/comments.php:964 inc/elements/single/comments.php:1000
+#: inc/elements/single/post-info.php:690 inc/elements/single/post-info.php:920
+#: inc/elements/single/short-link.php:121
+#: inc/elements/single/social-share.php:224
+#: inc/elements/single/thumbnail.php:163 inc/elements/slider.php:572
+#: inc/elements/slider.php:848 inc/elements/slider.php:1096
+#: inc/elements/slider.php:1406 inc/elements/social-icons.php:491
+#: inc/elements/tabs.php:397 inc/elements/tabs.php:471
+#: inc/elements/tag-cloud.php:148 inc/elements/tag-cloud.php:238
+#: inc/elements/testimonial.php:298 inc/elements/testimonial.php:454
+#: inc/elements/testimonial.php:516 inc/elements/tmt-heading.php:622
+#: inc/elements/whatsapp.php:318 inc/elements/whatsapp.php:420
+#: inc/sticky/element-extension.php:114 inc/sticky/element-extension.php:298
+msgid "Padding"
+msgstr ""
+
+#: inc/elements/accordion.php:302 inc/elements/accordion.php:371
+#: inc/elements/accordion.php:543 inc/elements/category-list.php:298
+#: inc/elements/category-list.php:382 inc/elements/cf-styler.php:310
+#: inc/elements/cf-styler.php:625 inc/elements/flip-box.php:356
+#: inc/elements/flip-box.php:603 inc/elements/flip-box.php:763
+#: inc/elements/flip-box.php:1150 inc/elements/gallery.php:213
+#: inc/elements/gravity-forms.php:321 inc/elements/gravity-forms.php:726
+#: inc/elements/gravity-forms.php:753 inc/elements/gravity-forms.php:922
+#: inc/elements/heading-advanced.php:892 inc/elements/heading.php:873
+#: inc/elements/icon-tab.php:216 inc/elements/icon-tab.php:364
+#: inc/elements/info-box-advanced.php:1776
+#: inc/elements/info-box-advanced.php:1991 inc/elements/info-box.php:1044
+#: inc/elements/info-box.php:1384 inc/elements/list.php:171
+#: inc/elements/list.php:355 inc/elements/login.php:362
+#: inc/elements/login.php:532 inc/elements/login.php:606
+#: inc/elements/login.php:929 inc/elements/login.php:1069
+#: inc/elements/login.php:1151 inc/elements/login.php:1340
+#: inc/elements/member.php:242 inc/elements/member.php:311
+#: inc/elements/member.php:593 inc/elements/member.php:658
+#: inc/elements/navbar.php:401 inc/elements/navbar.php:473
+#: inc/elements/navbar.php:542 inc/elements/navbar.php:621
+#: inc/elements/navbar.php:667 inc/elements/navbar.php:744
+#: inc/elements/navbar.php:810 inc/elements/navbar.php:1013
+#: inc/elements/post-carousel.php:319 inc/elements/post-carousel.php:492
+#: inc/elements/post-carousel.php:547 inc/elements/post-carousel.php:758
+#: inc/elements/post-carousel.php:958 inc/elements/post-grid.php:731
+#: inc/elements/post-grid.php:999 inc/elements/post-grid.php:1075
+#: inc/elements/post-grid.php:1265 inc/elements/post-grid.php:1642
+#: inc/elements/post-grid.php:1750 inc/elements/post-grid.php:2019
+#: inc/elements/post-grid.php:2126 inc/elements/post-list.php:430
+#: inc/elements/post-list.php:469 inc/elements/post-list.php:578
+#: inc/elements/post-list.php:1006 inc/elements/price.php:267
+#: inc/elements/price.php:298 inc/elements/price.php:940
+#: inc/elements/scroll-to-top.php:232 inc/elements/scroll-to-top.php:317
+#: inc/elements/search.php:282 inc/elements/search.php:498
+#: inc/elements/search.php:662 inc/elements/search.php:853
+#: inc/elements/shop/archive-product.php:134
+#: inc/elements/shop/archive-product.php:291
+#: inc/elements/shop/archive-product.php:372
+#: inc/elements/shop/archive-product.php:562
+#: inc/elements/shop/archive-product.php:724
+#: inc/elements/shop/archive-product.php:955
+#: inc/elements/shop/archive-product.php:1092 inc/elements/shop/basket.php:208
+#: inc/elements/shop/basket.php:379 inc/elements/shop/basket.php:561
+#: inc/elements/shop/product-add-to-cart.php:83
+#: inc/elements/shop/product-add-to-cart.php:254
+#: inc/elements/shop/product-add-to-cart.php:508
+#: inc/elements/shop/product-classic.php:426
+#: inc/elements/shop/product-classic.php:531
+#: inc/elements/shop/product-classic.php:724
+#: inc/elements/shop/product-classic.php:886
+#: inc/elements/shop/product-classic.php:1117
+#: inc/elements/shop/product-classic.php:1257
+#: inc/elements/shop/product-classic.php:1429
+#: inc/elements/shop/product-classic.php:1623
+#: inc/elements/shop/product-data-tabs.php:151
+#: inc/elements/shop/product-data-tabs.php:239
+#: inc/elements/shop/product-images.php:69
+#: inc/elements/shop/product-images.php:111
+#: inc/elements/shop/product-images.php:203
+#: inc/elements/shop/product-related.php:280
+#: inc/elements/shop/product-related.php:385
+#: inc/elements/shop/product-related.php:575
+#: inc/elements/shop/product-related.php:737
+#: inc/elements/shop/product-related.php:968 inc/elements/shop/product.php:342
+#: inc/elements/shop/product.php:451 inc/elements/shop/product.php:722
+#: inc/elements/shop/product.php:896 inc/elements/shop/shop-elements.php:262
+#: inc/elements/shop/shop-elements.php:330
+#: inc/elements/shop/shop-elements.php:436
+#: inc/elements/shop/shop-elements.php:680
+#: inc/elements/shop/shop-elements.php:761
+#: inc/elements/shop/shop-elements.php:1031
+#: inc/elements/shop/shop-elements.php:1132
+#: inc/elements/shop/shop-elements.php:1214
+#: inc/elements/shop/shop-elements.php:1374
+#: inc/elements/single/comments.php:175 inc/elements/single/comments.php:290
+#: inc/elements/single/comments.php:368 inc/elements/single/comments.php:457
+#: inc/elements/single/comments.php:545 inc/elements/single/comments.php:619
+#: inc/elements/single/comments.php:685 inc/elements/single/comments.php:745
+#: inc/elements/single/comments.php:834 inc/elements/single/comments.php:1028
+#: inc/elements/single/short-link.php:133
+#: inc/elements/single/social-share.php:277
+#: inc/elements/single/social-share.php:330
+#: inc/elements/single/thumbnail.php:199 inc/elements/single/thumbnail.php:270
+#: inc/elements/slider.php:590 inc/elements/slider.php:827
+#: inc/elements/slider.php:1081 inc/elements/slider.php:1276
+#: inc/elements/slider.php:1430 inc/elements/social-icons.php:545
+#: inc/elements/tabs.php:329 inc/elements/tabs.php:382
+#: inc/elements/tabs.php:491 inc/elements/tag-cloud.php:177
+#: inc/elements/tag-cloud.php:261 inc/elements/whatsapp.php:329
+#: inc/elements/whatsapp.php:432
+msgid "Border Radius"
+msgstr ""
+
+#: inc/elements/accordion.php:324 inc/elements/accordion.php:471
+#: inc/elements/language-switcher.php:356 inc/elements/navbar.php:504
+#: inc/elements/navbar.php:775 inc/elements/shop/archive-product.php:321
+#: inc/elements/shop/product-data-tabs.php:87 inc/elements/tabs.php:339
+msgid "Active"
+msgstr ""
+
+#: inc/elements/accordion.php:413 inc/elements/accordion.php:417
+#: inc/elements/single/post-info.php:446
+msgid "End"
+msgstr ""
+
+#: inc/elements/accordion.php:413 inc/elements/accordion.php:417
+#: inc/elements/single/post-info.php:438
+msgid "Start"
+msgstr ""
+
+#: inc/elements/accordion.php:430 inc/elements/single/before-after.php:60
+msgid "Reverse"
+msgstr ""
+
+#: inc/elements/accordion.php:451 inc/elements/accordion.php:567
+#: inc/elements/cf-styler.php:911 inc/elements/flip-box.php:522
+#: inc/elements/flip-box.php:636 inc/elements/flip-box.php:791
+#: inc/elements/flip-box.php:974 inc/elements/flip-box.php:1033
+#: inc/elements/gravity-forms.php:178 inc/elements/gravity-forms.php:432
+#: inc/elements/info-box-advanced.php:949
+#: inc/elements/info-box-advanced.php:1369
+#: inc/elements/info-box-advanced.php:1453 inc/elements/member.php:453
+#: inc/elements/member.php:491 inc/elements/post-grid.php:1381
+#: inc/elements/post-grid.php:1477
+#: inc/elements/shop/product-add-to-cart.php:224
+#: inc/elements/shop/product-add-to-cart.php:408
+#: inc/elements/shop/product-images.php:82
+#: inc/elements/shop/product-images.php:123
+#: inc/elements/shop/product-related.php:167 inc/elements/slider.php:694
+#: inc/elements/slider.php:742 inc/elements/social-icons.php:519
+msgid "Spacing"
+msgstr ""
+
+#: inc/elements/accordion.php:492 inc/elements/flip-box.php:689
+#: inc/elements/heading.php:563 inc/elements/icon-tab.php:228
+#: inc/elements/login.php:717 inc/elements/member.php:682
+#: inc/elements/navbar.php:1052 inc/elements/post-grid.php:1047
+#: inc/elements/post-list.php:630 inc/elements/price.php:417
+#: inc/elements/scroll-to-top.php:152 inc/elements/search.php:562
+#: inc/elements/shop/basket.php:442 inc/elements/whatsapp.php:288
+#: inc/elements/whatsapp.php:360
+msgid "Icon Size"
+msgstr ""
+
+#: inc/elements/business-hours.php:14
+msgid "Business Hours"
+msgstr ""
+
+#: inc/elements/business-hours.php:40
+msgid "Business Days & Times"
+msgstr ""
+
+#: inc/elements/business-hours.php:49
+msgid "Enter Day"
+msgstr ""
+
+#: inc/elements/business-hours.php:59
+msgid "Enter Time"
+msgstr ""
+
+#: inc/elements/business-hours.php:69
+msgid "Styling"
+msgstr ""
+
+#: inc/elements/business-hours.php:78
+msgid "Style This Day"
+msgstr ""
+
+#: inc/elements/business-hours.php:89 inc/elements/business-hours.php:306
+msgid "Day Color"
+msgstr ""
+
+#: inc/elements/business-hours.php:105 inc/elements/business-hours.php:326
+msgid "Time Color"
+msgstr ""
+
+#: inc/elements/business-hours.php:121 inc/elements/category-list.php:263
+#: inc/elements/category-list.php:348 inc/elements/cf-styler.php:407
+#: inc/elements/cf-styler.php:607 inc/elements/cf-styler.php:666
+#: inc/elements/flip-box.php:1121 inc/elements/flip-box.php:1203
+#: inc/elements/gravity-forms.php:154 inc/elements/gravity-forms.php:364
+#: inc/elements/gravity-forms.php:889 inc/elements/gravity-forms.php:973
+#: inc/elements/heading-advanced.php:836 inc/elements/heading.php:770
+#: inc/elements/info-box.php:964 inc/elements/info-box.php:1312
+#: inc/elements/language-switcher.php:269
+#: inc/elements/language-switcher.php:320
+#: inc/elements/language-switcher.php:372 inc/elements/list.php:160
+#: inc/elements/list.php:280 inc/elements/login.php:340
+#: inc/elements/login.php:490 inc/elements/login.php:570
+#: inc/elements/login.php:637 inc/elements/login.php:674
+#: inc/elements/login.php:758 inc/elements/login.php:844
+#: inc/elements/login.php:1105 inc/elements/login.php:1306
+#: inc/elements/navbar.php:363 inc/elements/navbar.php:450
+#: inc/elements/navbar.php:656 inc/elements/navbar.php:724
+#: inc/elements/navbar.php:791 inc/elements/navbar.php:1002
+#: inc/elements/navbar.php:1171 inc/elements/post-carousel.php:708
+#: inc/elements/post-carousel.php:742 inc/elements/post-grid.php:1540
+#: inc/elements/post-grid.php:1582 inc/elements/post-grid.php:1729
+#: inc/elements/post-grid.php:1788 inc/elements/post-list.php:449
+#: inc/elements/post-list.php:488 inc/elements/post-list.php:669
+#: inc/elements/scroll-to-top.php:191 inc/elements/scroll-to-top.php:282
+#: inc/elements/search.php:254 inc/elements/search.php:375
+#: inc/elements/search.php:444 inc/elements/search.php:606
+#: inc/elements/search.php:638 inc/elements/search.php:777
+#: inc/elements/search.php:811 inc/elements/shop/archive-product.php:532
+#: inc/elements/shop/archive-product.php:702
+#: inc/elements/shop/archive-product.php:846
+#: inc/elements/shop/archive-product.php:900 inc/elements/shop/basket.php:168
+#: inc/elements/shop/basket.php:307 inc/elements/shop/basket.php:330
+#: inc/elements/shop/basket.php:492 inc/elements/shop/basket.php:526
+#: inc/elements/shop/basket.php:607
+#: inc/elements/shop/product-add-to-cart.php:125
+#: inc/elements/shop/product-add-to-cart.php:167
+#: inc/elements/shop/product-add-to-cart.php:296
+#: inc/elements/shop/product-add-to-cart.php:337
+#: inc/elements/shop/product-add-to-cart.php:478
+#: inc/elements/shop/product-classic.php:694
+#: inc/elements/shop/product-classic.php:864
+#: inc/elements/shop/product-classic.php:1008
+#: inc/elements/shop/product-classic.php:1062
+#: inc/elements/shop/product-classic.php:1363
+#: inc/elements/shop/product-classic.php:1400
+#: inc/elements/shop/product-data-tabs.php:62
+#: inc/elements/shop/product-data-tabs.php:105
+#: inc/elements/shop/product-images.php:164
+#: inc/elements/shop/product-related.php:545
+#: inc/elements/shop/product-related.php:715
+#: inc/elements/shop/product-related.php:859
+#: inc/elements/shop/product-related.php:913 inc/elements/shop/product.php:699
+#: inc/elements/shop/product.php:797 inc/elements/shop/product.php:848
+#: inc/elements/shop/shop-elements.php:161
+#: inc/elements/shop/shop-elements.php:370
+#: inc/elements/shop/shop-elements.php:413
+#: inc/elements/shop/shop-elements.php:499
+#: inc/elements/shop/shop-elements.php:601
+#: inc/elements/shop/shop-elements.php:738
+#: inc/elements/shop/shop-elements.php:824
+#: inc/elements/shop/shop-elements.php:926
+#: inc/elements/shop/shop-elements.php:962
+#: inc/elements/shop/shop-elements.php:1080
+#: inc/elements/shop/shop-elements.php:1191
+#: inc/elements/shop/shop-elements.php:1277
+#: inc/elements/shop/shop-elements.php:1351
+#: inc/elements/shop/shop-elements.php:1437
+#: inc/elements/single/before-after.php:380
+#: inc/elements/single/before-after.php:411
+#: inc/elements/single/comments.php:102 inc/elements/single/comments.php:217
+#: inc/elements/single/comments.php:322 inc/elements/single/comments.php:405
+#: inc/elements/single/comments.php:504 inc/elements/single/comments.php:575
+#: inc/elements/single/comments.php:647 inc/elements/single/comments.php:712
+#: inc/elements/single/comments.php:1059 inc/elements/single/comments.php:1085
+#: inc/elements/single/post-info.php:615 inc/elements/single/post-info.php:658
+#: inc/elements/single/post-info.php:830 inc/elements/single/post-info.php:872
+#: inc/elements/single/short-link.php:84
+#: inc/elements/single/social-share.php:267
+#: inc/elements/single/social-share.php:319 inc/elements/slider.php:1031
+#: inc/elements/slider.php:1065 inc/elements/social-icons.php:227
+#: inc/elements/social-icons.php:259 inc/elements/social-icons.php:400
+#: inc/elements/social-icons.php:433 inc/elements/tag-cloud.php:136
+#: inc/elements/tag-cloud.php:227 inc/elements/testimonial.php:320
+#: inc/elements/testimonial.php:776 inc/elements/testimonial.php:805
+#: inc/elements/whatsapp.php:139 inc/elements/whatsapp.php:255
+#: inc/elements/whatsapp.php:408 inc/sticky/element-extension.php:130
+#: inc/sticky/element-extension.php:314
+msgid "Background Color"
+msgstr ""
+
+#: inc/elements/business-hours.php:140
+msgid "Monday"
+msgstr ""
+
+#: inc/elements/business-hours.php:141 inc/elements/business-hours.php:145
+#: inc/elements/business-hours.php:149 inc/elements/business-hours.php:153
+#: inc/elements/business-hours.php:157 inc/elements/business-hours.php:161
+msgid "10:00 AM - 6:00 PM"
+msgstr ""
+
+#: inc/elements/business-hours.php:144
+msgid "Tuesday"
+msgstr ""
+
+#: inc/elements/business-hours.php:148
+msgid "Wednesday"
+msgstr ""
+
+#: inc/elements/business-hours.php:152
+msgid "Thursday"
+msgstr ""
+
+#: inc/elements/business-hours.php:156
+msgid "Friday"
+msgstr ""
+
+#: inc/elements/business-hours.php:160
+msgid "Saturday"
+msgstr ""
+
+#: inc/elements/business-hours.php:164
+msgid "Sunday"
+msgstr ""
+
+#: inc/elements/business-hours.php:165
+msgid "Closed"
+msgstr ""
+
+#: inc/elements/business-hours.php:166
+msgid "yes"
+msgstr ""
+
+#: inc/elements/business-hours.php:179 inc/elements/cf-styler.php:85
+#: inc/elements/heading.php:43 inc/elements/heading.php:232
+#: inc/elements/info-box.php:44 inc/elements/price.php:235
+#: inc/elements/shop/archive-product.php:57
+#: inc/elements/shop/product-classic.php:349
+#: inc/elements/shop/product-images.php:37
+#: inc/elements/shop/product-related.php:203
+msgid "General"
+msgstr ""
+
+#: inc/elements/business-hours.php:187
+msgid "Row Spacing"
+msgstr ""
+
+#: inc/elements/business-hours.php:203 inc/elements/business-hours.php:211
+#: inc/elements/list.php:368 inc/elements/single/post-info.php:457
+msgid "Divider"
+msgstr ""
+
+#: inc/elements/business-hours.php:221
+#: inc/elements/cat-archive-description.php:35
+#: inc/elements/category-list.php:87 inc/elements/header.php:37
+#: inc/elements/heading-advanced.php:306 inc/elements/heading-advanced.php:679
+#: inc/elements/heading.php:95 inc/elements/heading.php:434
+#: inc/elements/heading.php:670 inc/elements/icon-tab.php:79
+#: inc/elements/info-box.php:277 inc/elements/language-switcher.php:46
+#: inc/elements/list.php:134 inc/elements/list.php:382
+#: inc/elements/login.php:308 inc/elements/search.php:216
+#: inc/elements/shop/archive-description.php:37
+#: inc/elements/shop/basket.php:135 inc/elements/shop/product-meta.php:172
+#: inc/elements/shop/product-rating.php:35
+#: inc/elements/shop/product-short-description.php:35
+#: inc/elements/single/post-info.php:485 inc/elements/single/thumbnail.php:105
+#: inc/elements/slider.php:284 inc/elements/svg.php:36
+#: inc/elements/whatsapp.php:113 inc/elements/whatsapp.php:212
+msgid "Style"
+msgstr ""
+
+#: inc/elements/business-hours.php:224 inc/elements/cf-styler.php:200
+#: inc/elements/gravity-forms.php:487 inc/elements/heading.php:439
+#: inc/elements/heading.php:817 inc/elements/info-box-advanced.php:1545
+#: inc/elements/info-box.php:282 inc/elements/info-box.php:987
+#: inc/elements/info-box.php:1330 inc/elements/list.php:385
+#: inc/elements/post-grid.php:2048 inc/elements/single/post-info.php:488
+#: inc/elements/slider.php:1312 inc/elements/tmt-heading.php:416
+#: inc/elements/tmt-heading.php:685
+msgid "Solid"
+msgstr ""
+
+#: inc/elements/business-hours.php:225 inc/elements/cf-styler.php:202
+#: inc/elements/gravity-forms.php:489 inc/elements/heading.php:441
+#: inc/elements/heading.php:819 inc/elements/info-box-advanced.php:1546
+#: inc/elements/info-box.php:284 inc/elements/info-box.php:989
+#: inc/elements/info-box.php:1332 inc/elements/list.php:387
+#: inc/elements/post-grid.php:2050 inc/elements/single/post-info.php:490
+#: inc/elements/slider.php:1316 inc/elements/tmt-heading.php:419
+#: inc/elements/tmt-heading.php:688
+msgid "Dotted"
+msgstr ""
+
+#: inc/elements/business-hours.php:226 inc/elements/cf-styler.php:203
+#: inc/elements/gravity-forms.php:490 inc/elements/heading.php:440
+#: inc/elements/heading.php:820 inc/elements/info-box-advanced.php:1547
+#: inc/elements/info-box.php:283 inc/elements/info-box.php:990
+#: inc/elements/info-box.php:1333 inc/elements/list.php:388
+#: inc/elements/post-grid.php:2049 inc/elements/single/post-info.php:491
+#: inc/elements/slider.php:1314 inc/elements/tmt-heading.php:417
+#: inc/elements/tmt-heading.php:686
+msgid "Dashed"
+msgstr ""
+
+#: inc/elements/business-hours.php:256 inc/elements/category-list.php:172
+#: inc/elements/info-box-advanced.php:1397
+#: inc/elements/info-box-advanced.php:1475 inc/elements/info-box.php:551
+#: inc/elements/info-box.php:625 inc/elements/info-box.php:708
+#: inc/elements/post-list.php:789 inc/elements/shop/archive-product.php:326
+#: inc/elements/shop/archive-product.php:442
+#: inc/elements/shop/product-classic.php:601
+#: inc/elements/shop/product-related.php:455 inc/elements/shop/product.php:498
+#: inc/elements/single/post-info.php:770
+msgid "Hover Color"
+msgstr ""
+
+#: inc/elements/business-hours.php:271 inc/elements/list.php:404
+msgid "Weight"
+msgstr ""
+
+#: inc/elements/business-hours.php:298
+msgid "Day and Time"
+msgstr ""
+
+#: inc/elements/business-hours.php:317
+msgid "Day Typography"
+msgstr ""
+
+#: inc/elements/business-hours.php:337
+msgid "Time Typography"
+msgstr ""
+
+#: inc/elements/business-hours.php:346
+msgid "Striped Effect"
+msgstr ""
+
+#: inc/elements/business-hours.php:356
+msgid "Striped Odd Rows Color"
+msgstr ""
+
+#: inc/elements/business-hours.php:371
+msgid "Striped Even Rows Color"
+msgstr ""
+
+#: inc/elements/cat-archive-description.php:15
+msgid "Category Archive Description"
+msgstr ""
+
+#: inc/elements/cat-archive-description.php:59
+#: inc/elements/info-box-advanced.php:1356
+#: inc/elements/info-box-advanced.php:1441 inc/elements/member.php:217
+#: inc/elements/shop/archive-description.php:61
+#: inc/elements/shop/product-rating.php:149
+#: inc/elements/shop/product-short-description.php:59
+#: inc/elements/single/content.php:58
+msgid "Justified"
+msgstr ""
+
+#: inc/elements/cat-archive-description.php:72
+#: inc/elements/category-list.php:252 inc/elements/cf-styler.php:595
+#: inc/elements/cf-styler.php:645 inc/elements/flip-box.php:811
+#: inc/elements/flip-box.php:844 inc/elements/flip-box.php:994
+#: inc/elements/flip-box.php:1053 inc/elements/flip-box.php:1110
+#: inc/elements/flip-box.php:1192 inc/elements/gravity-forms.php:88
+#: inc/elements/gravity-forms.php:166 inc/elements/gravity-forms.php:412
+#: inc/elements/gravity-forms.php:461 inc/elements/gravity-forms.php:595
+#: inc/elements/gravity-forms.php:900 inc/elements/gravity-forms.php:984
+#: inc/elements/gravity-forms.php:1048 inc/elements/heading.php:538
+#: inc/elements/info-box-advanced.php:1743
+#: inc/elements/info-box-advanced.php:1840
+#: inc/elements/info-box-advanced.php:1960 inc/elements/info-box.php:1297
+#: inc/elements/language-switcher.php:245
+#: inc/elements/language-switcher.php:310
+#: inc/elements/language-switcher.php:361 inc/elements/list.php:149
+#: inc/elements/list.php:611 inc/elements/login.php:461
+#: inc/elements/login.php:480 inc/elements/login.php:560
+#: inc/elements/login.php:664 inc/elements/login.php:748
+#: inc/elements/login.php:834 inc/elements/login.php:1296
+#: inc/elements/post-grid.php:1429 inc/elements/post-grid.php:1528
+#: inc/elements/post-grid.php:1570 inc/elements/post-list.php:816
+#: inc/elements/price.php:690 inc/elements/price.php:715
+#: inc/elements/price.php:958 inc/elements/price.php:996
+#: inc/elements/search.php:362 inc/elements/search.php:432
+#: inc/elements/search.php:757 inc/elements/search.php:791
+#: inc/elements/shop/archive-description.php:74
+#: inc/elements/shop/archive-product.php:690
+#: inc/elements/shop/archive-product.php:834
+#: inc/elements/shop/archive-product.php:888 inc/elements/shop/basket.php:472
+#: inc/elements/shop/basket.php:506
+#: inc/elements/shop/product-add-to-cart.php:114
+#: inc/elements/shop/product-add-to-cart.php:156
+#: inc/elements/shop/product-add-to-cart.php:285
+#: inc/elements/shop/product-add-to-cart.php:326
+#: inc/elements/shop/product-classic.php:852
+#: inc/elements/shop/product-classic.php:996
+#: inc/elements/shop/product-classic.php:1050
+#: inc/elements/shop/product-data-tabs.php:51
+#: inc/elements/shop/product-data-tabs.php:94
+#: inc/elements/shop/product-data-tabs.php:172
+#: inc/elements/shop/product-data-tabs.php:201
+#: inc/elements/shop/product-related.php:703
+#: inc/elements/shop/product-related.php:847
+#: inc/elements/shop/product-related.php:901
+#: inc/elements/shop/product-short-description.php:72
+#: inc/elements/shop/product.php:687 inc/elements/shop/product.php:786
+#: inc/elements/shop/product.php:836 inc/elements/shop/shop-elements.php:148
+#: inc/elements/shop/shop-elements.php:359
+#: inc/elements/shop/shop-elements.php:401
+#: inc/elements/shop/shop-elements.php:488
+#: inc/elements/shop/shop-elements.php:588
+#: inc/elements/shop/shop-elements.php:726
+#: inc/elements/shop/shop-elements.php:813
+#: inc/elements/shop/shop-elements.php:870
+#: inc/elements/shop/shop-elements.php:915
+#: inc/elements/shop/shop-elements.php:951
+#: inc/elements/shop/shop-elements.php:1069
+#: inc/elements/shop/shop-elements.php:1179
+#: inc/elements/shop/shop-elements.php:1266
+#: inc/elements/shop/shop-elements.php:1339
+#: inc/elements/shop/shop-elements.php:1426
+#: inc/elements/single/before-after.php:198 inc/elements/single/content.php:81
+#: inc/elements/single/short-link.php:73
+#: inc/elements/single/yoast-breadcrumb.php:108 inc/elements/slider.php:714
+#: inc/elements/slider.php:762 inc/elements/slider.php:789
+#: inc/elements/slider.php:870 inc/elements/slider.php:905
+#: inc/elements/tag-cloud.php:125
+msgid "Text Color"
+msgstr ""
+
+#: inc/elements/cat-archive-description.php:84 inc/elements/cf-styler.php:963
+#: inc/elements/cf-styler.php:1009 inc/elements/flip-box.php:824
+#: inc/elements/flip-box.php:858 inc/elements/flip-box.php:1010
+#: inc/elements/flip-box.php:1066 inc/elements/flip-box.php:1175
+#: inc/elements/gravity-forms.php:100 inc/elements/gravity-forms.php:335
+#: inc/elements/gravity-forms.php:424 inc/elements/gravity-forms.php:473
+#: inc/elements/gravity-forms.php:1011 inc/elements/info-box.php:466
+#: inc/elements/login.php:454 inc/elements/login.php:737
+#: inc/elements/login.php:979 inc/elements/login.php:1288
+#: inc/elements/navbar.php:414 inc/elements/navbar.php:486
+#: inc/elements/navbar.php:554 inc/elements/navbar.php:604
+#: inc/elements/navbar.php:689 inc/elements/navbar.php:756
+#: inc/elements/navbar.php:822 inc/elements/navbar.php:874
+#: inc/elements/navbar.php:1119 inc/elements/navbar.php:1192
+#: inc/elements/post-grid.php:1829 inc/elements/post-list.php:737
+#: inc/elements/search.php:744 inc/elements/shop/archive-description.php:86
+#: inc/elements/shop/archive-product.php:233
+#: inc/elements/shop/archive-product.php:467
+#: inc/elements/shop/archive-product.php:604
+#: inc/elements/shop/archive-product.php:634
+#: inc/elements/shop/archive-product.php:816 inc/elements/shop/basket.php:462
+#: inc/elements/shop/product-classic.php:626
+#: inc/elements/shop/product-classic.php:766
+#: inc/elements/shop/product-classic.php:796
+#: inc/elements/shop/product-classic.php:978
+#: inc/elements/shop/product-classic.php:1419
+#: inc/elements/shop/product-data-tabs.php:143
+#: inc/elements/shop/product-data-tabs.php:184
+#: inc/elements/shop/product-data-tabs.php:213
+#: inc/elements/shop/product-images.php:144
+#: inc/elements/shop/product-price.php:93
+#: inc/elements/shop/product-price.php:123
+#: inc/elements/shop/product-related.php:480
+#: inc/elements/shop/product-related.php:617
+#: inc/elements/shop/product-related.php:647
+#: inc/elements/shop/product-related.php:829
+#: inc/elements/shop/product-short-description.php:84
+#: inc/elements/shop/product.php:522 inc/elements/shop/product.php:616
+#: inc/elements/shop/product.php:657 inc/elements/shop/product.php:768
+#: inc/elements/shop/shop-elements.php:116
+#: inc/elements/shop/shop-elements.php:470
+#: inc/elements/shop/shop-elements.php:556
+#: inc/elements/shop/shop-elements.php:795
+#: inc/elements/shop/shop-elements.php:881
+#: inc/elements/shop/shop-elements.php:1248
+#: inc/elements/shop/shop-elements.php:1408 inc/elements/single/comments.php:85
+#: inc/elements/single/comments.php:200 inc/elements/single/comments.php:314
+#: inc/elements/single/comments.php:397 inc/elements/single/comments.php:486
+#: inc/elements/single/comments.php:861 inc/elements/single/comments.php:907
+#: inc/elements/single/comments.php:947 inc/elements/single/comments.php:993
+#: inc/elements/single/content.php:73 inc/elements/single/short-link.php:65
+#: inc/elements/single/title.php:74 inc/elements/testimonial.php:540
+#: inc/elements/testimonial.php:609 inc/elements/testimonial.php:687
+#: inc/elements/tmt-heading.php:229 inc/elements/tmt-heading.php:304
+msgid "Typography"
+msgstr ""
+
+#: inc/elements/category-list.php:15
+msgid "Category List"
+msgstr ""
+
+#: inc/elements/category-list.php:40 inc/elements/scroll-to-top.php:39
+#: inc/elements/single/content.php:34 inc/elements/single/short-link.php:34
+#: inc/elements/single/thumbnail.php:38 inc/elements/single/title.php:34
+#: inc/elements/tag-cloud.php:39
+msgid "Setting"
+msgstr ""
+
+#: inc/elements/category-list.php:48 inc/elements/tag-cloud.php:47
+msgid "Show Elements"
+msgstr ""
+
+#: inc/elements/category-list.php:59 inc/elements/tag-cloud.php:71
+msgid "Show Number Posts"
+msgstr ""
+
+#: inc/elements/category-list.php:61 inc/elements/category-list.php:73
+#: inc/elements/info-box-advanced.php:1811
+#: inc/elements/language-switcher.php:61 inc/elements/language-switcher.php:97
+#: inc/elements/language-switcher.php:124
+#: inc/elements/language-switcher.php:152
+#: inc/elements/language-switcher.php:169
+#: inc/elements/language-switcher.php:193 inc/elements/login.php:296
+#: inc/elements/shop/basket.php:123 inc/elements/shop/product-images.php:47
+#: inc/elements/single/social-share.php:103
+#: inc/elements/single/social-share.php:114
+#: inc/elements/single/social-share.php:125
+#: inc/elements/single/social-share.php:136
+#: inc/elements/single/social-share.php:147
+#: inc/elements/single/social-share.php:158
+#: inc/elements/single/social-share.php:169
+#: inc/elements/single/social-share.php:180 inc/elements/tag-cloud.php:73
+#: inc/elements/tmt-heading.php:657
+msgid "Show"
+msgstr ""
+
+#: inc/elements/category-list.php:62 inc/elements/category-list.php:74
+#: inc/elements/info-box-advanced.php:1812
+#: inc/elements/language-switcher.php:62 inc/elements/language-switcher.php:98
+#: inc/elements/language-switcher.php:125
+#: inc/elements/language-switcher.php:153
+#: inc/elements/language-switcher.php:165
+#: inc/elements/language-switcher.php:189 inc/elements/login.php:297
+#: inc/elements/shop/basket.php:124 inc/elements/shop/product-images.php:48
+#: inc/elements/single/social-share.php:104
+#: inc/elements/single/social-share.php:115
+#: inc/elements/single/social-share.php:126
+#: inc/elements/single/social-share.php:137
+#: inc/elements/single/social-share.php:148
+#: inc/elements/single/social-share.php:159
+#: inc/elements/single/social-share.php:170
+#: inc/elements/single/social-share.php:181 inc/elements/tag-cloud.php:74
+#: inc/elements/tmt-heading.php:658
+msgid "Hide"
+msgstr ""
+
+#: inc/elements/category-list.php:71
+msgid "Hide Empty"
+msgstr ""
+
+#: inc/elements/category-list.php:113 inc/elements/category-list.php:286
+#: inc/elements/category-list.php:370 inc/elements/gravity-forms.php:540
+#: inc/elements/language-switcher.php:402 inc/elements/login.php:351
+#: inc/elements/login.php:500 inc/elements/login.php:584
+#: inc/elements/login.php:906 inc/elements/login.php:1140
+#: inc/elements/login.php:1317 inc/elements/member.php:581
+#: inc/elements/navbar.php:95 inc/elements/navbar.php:1145
+#: inc/elements/navbar.php:1218 inc/elements/post-carousel.php:937
+#: inc/elements/post-grid.php:2005 inc/elements/post-list.php:395
+#: inc/elements/post-list.php:566 inc/elements/scroll-to-top.php:220
+#: inc/elements/scroll-to-top.php:305 inc/elements/search.php:268
+#: inc/elements/search.php:697 inc/elements/search.php:825
+#: inc/elements/shop/archive-product.php:261
+#: inc/elements/shop/archive-product.php:454
+#: inc/elements/shop/archive-product.php:509
+#: inc/elements/shop/archive-product.php:764
+#: inc/elements/shop/archive-product.php:933 inc/elements/shop/basket.php:179
+#: inc/elements/shop/basket.php:343 inc/elements/shop/basket.php:539
+#: inc/elements/shop/product-classic.php:613
+#: inc/elements/shop/product-classic.php:671
+#: inc/elements/shop/product-classic.php:926
+#: inc/elements/shop/product-classic.php:1095
+#: inc/elements/shop/product-classic.php:1609
+#: inc/elements/shop/product-meta.php:221
+#: inc/elements/shop/product-related.php:467
+#: inc/elements/shop/product-related.php:522
+#: inc/elements/shop/product-related.php:777
+#: inc/elements/shop/product-related.php:946 inc/elements/shop/product.php:509
+#: inc/elements/shop/product.php:567 inc/elements/shop/product.php:603
+#: inc/elements/shop/product.php:644 inc/elements/shop/product.php:872
+#: inc/elements/single/before-after.php:208
+#: inc/elements/single/before-after.php:298
+#: inc/elements/single/before-after.php:465
+#: inc/elements/single/comments.php:146 inc/elements/single/comments.php:261
+#: inc/elements/single/comments.php:340 inc/elements/single/comments.php:423
+#: inc/elements/single/comments.php:523 inc/elements/single/comments.php:585
+#: inc/elements/single/comments.php:657 inc/elements/single/comments.php:723
+#: inc/elements/single/comments.php:817 inc/elements/single/comments.php:878
+#: inc/elements/single/comments.php:924 inc/elements/single/comments.php:1017
+#: inc/elements/single/post-info.php:708 inc/elements/single/post-info.php:932
+#: inc/elements/single/social-share.php:241
+#: inc/elements/single/thumbnail.php:174 inc/elements/slider.php:1260
+#: inc/elements/tabs.php:409 inc/elements/tabs.php:503
+#: inc/elements/tag-cloud.php:165 inc/elements/tag-cloud.php:249
+#: inc/elements/testimonial.php:287 inc/elements/testimonial.php:437
+#: inc/elements/testimonial.php:499 inc/elements/testimonial.php:590
+#: inc/elements/tmt-heading.php:282 inc/elements/tmt-heading.php:357
+#: inc/elements/tmt-heading.php:524 inc/elements/whatsapp.php:307
+#: inc/sticky/element-extension.php:92 inc/sticky/element-extension.php:276
+msgid "Margin"
+msgstr ""
+
+#: inc/elements/category-list.php:128
+msgid "Style Text"
+msgstr ""
+
+#: inc/elements/category-list.php:135 inc/elements/category-list.php:222
+#: inc/elements/tag-cloud.php:95
+msgid "Font Size"
+msgstr ""
+
+#: inc/elements/category-list.php:186
+msgid "Style Number"
+msgstr ""
+
+#: inc/elements/category-list.php:196 inc/elements/heading.php:785
+#: inc/elements/info-box.php:895 inc/elements/whatsapp.php:378
+msgid "Background Size"
+msgstr ""
+
+#: inc/elements/category-list.php:317 inc/elements/category-list.php:395
+#: inc/elements/cf-styler.php:616 inc/elements/flip-box.php:1140
+#: inc/elements/gravity-forms.php:309 inc/elements/gravity-forms.php:377
+#: inc/elements/gravity-forms.php:912 inc/elements/heading-advanced.php:881
+#: inc/elements/icon-tab.php:199 inc/elements/icon-tab.php:347
+#: inc/elements/icon-tab.php:450 inc/elements/language-switcher.php:394
+#: inc/elements/list.php:291 inc/elements/list.php:321
+#: inc/elements/login.php:374 inc/elements/login.php:544
+#: inc/elements/login.php:618 inc/elements/login.php:648
+#: inc/elements/login.php:941 inc/elements/login.php:1081
+#: inc/elements/login.php:1163 inc/elements/login.php:1352
+#: inc/elements/member.php:231 inc/elements/member.php:300
+#: inc/elements/member.php:648 inc/elements/navbar.php:393
+#: inc/elements/navbar.php:680 inc/elements/navbar.php:737
+#: inc/elements/navbar.php:803 inc/elements/navbar.php:1044
+#: inc/elements/navbar.php:1110 inc/elements/navbar.php:1183
+#: inc/elements/navbar.php:1265 inc/elements/post-grid.php:698
+#: inc/elements/price.php:279 inc/elements/price.php:310
+#: inc/elements/price.php:982 inc/elements/price.php:1020
+#: inc/elements/scroll-to-top.php:251 inc/elements/scroll-to-top.php:330
+#: inc/elements/search.php:315 inc/elements/search.php:387
+#: inc/elements/search.php:456 inc/elements/search.php:654
+#: inc/elements/search.php:868 inc/elements/shop/archive-product.php:715
+#: inc/elements/shop/archive-product.php:946 inc/elements/shop/basket.php:220
+#: inc/elements/shop/basket.php:398 inc/elements/shop/basket.php:573
+#: inc/elements/shop/product-classic.php:877
+#: inc/elements/shop/product-classic.php:1108
+#: inc/elements/shop/product-meta.php:194
+#: inc/elements/shop/product-related.php:728
+#: inc/elements/shop/product-related.php:959 inc/elements/shop/product.php:711
+#: inc/elements/shop/product.php:885 inc/elements/shop/shop-elements.php:246
+#: inc/elements/shop/shop-elements.php:316
+#: inc/elements/shop/shop-elements.php:425
+#: inc/elements/shop/shop-elements.php:664
+#: inc/elements/shop/shop-elements.php:750
+#: inc/elements/shop/shop-elements.php:1117
+#: inc/elements/shop/shop-elements.php:1203
+#: inc/elements/shop/shop-elements.php:1363
+#: inc/elements/single/before-after.php:342
+#: inc/elements/single/before-after.php:509
+#: inc/elements/single/comments.php:113 inc/elements/single/comments.php:228
+#: inc/elements/single/comments.php:333 inc/elements/single/comments.php:416
+#: inc/elements/single/comments.php:516 inc/elements/single/comments.php:631
+#: inc/elements/single/comments.php:697 inc/elements/single/comments.php:757
+#: inc/elements/single/comments.php:810 inc/elements/single/post-info.php:627
+#: inc/elements/single/post-info.php:670 inc/elements/single/post-info.php:842
+#: inc/elements/single/post-info.php:884
+#: inc/elements/single/social-share.php:296
+#: inc/elements/single/social-share.php:349
+#: inc/elements/single/thumbnail.php:224 inc/elements/single/thumbnail.php:295
+#: inc/elements/tag-cloud.php:196 inc/elements/tag-cloud.php:274
+#: inc/elements/testimonial.php:341 inc/elements/whatsapp.php:461
+msgid "Border"
+msgstr ""
+
+#: inc/elements/category-list.php:326 inc/elements/category-list.php:404
+#: inc/elements/icon-tab.php:208 inc/elements/icon-tab.php:356
+#: inc/elements/icon-tab.php:459 inc/elements/language-switcher.php:436
+#: inc/elements/list.php:299 inc/elements/list.php:329
+#: inc/elements/login.php:382 inc/elements/login.php:949
+#: inc/elements/login.php:1089 inc/elements/login.php:1171
+#: inc/elements/login.php:1360 inc/elements/member.php:254
+#: inc/elements/post-list.php:441 inc/elements/post-list.php:480
+#: inc/elements/post-list.php:595 inc/elements/price.php:287
+#: inc/elements/price.php:318 inc/elements/scroll-to-top.php:260
+#: inc/elements/scroll-to-top.php:339 inc/elements/search.php:326
+#: inc/elements/search.php:879 inc/elements/shop/basket.php:228
+#: inc/elements/shop/basket.php:406 inc/elements/shop/basket.php:581
+#: inc/elements/single/before-after.php:353
+#: inc/elements/single/before-after.php:520
+#: inc/elements/single/post-info.php:635 inc/elements/single/post-info.php:678
+#: inc/elements/single/post-info.php:850 inc/elements/single/post-info.php:892
+#: inc/elements/single/social-share.php:288
+#: inc/elements/single/social-share.php:341
+#: inc/elements/single/thumbnail.php:216 inc/elements/single/thumbnail.php:287
+#: inc/elements/tag-cloud.php:205 inc/elements/tag-cloud.php:283
+#: inc/elements/testimonial.php:332 inc/elements/tmt-heading.php:645
+#: inc/elements/whatsapp.php:342 inc/elements/whatsapp.php:452
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/elements/category-list.php:332 inc/elements/cf-styler.php:641
+#: inc/elements/flip-box.php:1185 inc/elements/gravity-forms.php:966
+#: inc/elements/heading.php:900 inc/elements/icon-tab.php:270
+#: inc/elements/info-box-advanced.php:1122
+#: inc/elements/info-box-advanced.php:1833 inc/elements/info-box.php:1068
+#: inc/elements/info-box.php:1433 inc/elements/language-switcher.php:305
+#: inc/elements/list.php:305 inc/elements/list.php:515
+#: inc/elements/list.php:623 inc/elements/login.php:623
+#: inc/elements/login.php:829 inc/elements/login.php:1245
+#: inc/elements/member.php:366 inc/elements/member.php:715
+#: inc/elements/navbar.php:433 inc/elements/navbar.php:707
+#: inc/elements/post-carousel.php:456 inc/elements/post-carousel.php:584
+#: inc/elements/post-carousel.php:720 inc/elements/post-grid.php:715
+#: inc/elements/post-grid.php:961 inc/elements/post-grid.php:1119
+#: inc/elements/post-grid.php:1225 inc/elements/post-grid.php:1566
+#: inc/elements/post-grid.php:1765 inc/elements/post-grid.php:2038
+#: inc/elements/post-list.php:464 inc/elements/post-list.php:966
+#: inc/elements/price.php:293 inc/elements/price.php:387
+#: inc/elements/price.php:522 inc/elements/price.php:710
+#: inc/elements/price.php:798 inc/elements/price.php:988
+#: inc/elements/scroll-to-top.php:266 inc/elements/search.php:619
+#: inc/elements/search.php:786 inc/elements/shop/archive-product.php:176
+#: inc/elements/shop/archive-product.php:827
+#: inc/elements/shop/archive-product.php:1052 inc/elements/shop/basket.php:316
+#: inc/elements/shop/basket.php:501
+#: inc/elements/shop/product-add-to-cart.php:149
+#: inc/elements/shop/product-classic.php:468
+#: inc/elements/shop/product-classic.php:989
+#: inc/elements/shop/product-classic.php:1217
+#: inc/elements/shop/product-classic.php:1377
+#: inc/elements/shop/product-related.php:322
+#: inc/elements/shop/product-related.php:840 inc/elements/shop/product.php:388
+#: inc/elements/shop/product.php:779 inc/elements/shop/shop-elements.php:481
+#: inc/elements/shop/shop-elements.php:806
+#: inc/elements/shop/shop-elements.php:1259
+#: inc/elements/shop/shop-elements.php:1419
+#: inc/elements/single/before-after.php:392
+#: inc/elements/single/comments.php:1069 inc/elements/single/post-info.php:641
+#: inc/elements/single/post-info.php:856
+#: inc/elements/single/social-share.php:302
+#: inc/elements/single/thumbnail.php:256
+#: inc/elements/single/yoast-breadcrumb.php:143 inc/elements/slider.php:900
+#: inc/elements/slider.php:1043 inc/elements/slider.php:1294
+#: inc/elements/social-icons.php:239 inc/elements/social-icons.php:412
+#: inc/elements/tag-cloud.php:211 inc/elements/testimonial.php:787
+msgid "Hover"
+msgstr ""
+
+#: inc/elements/cf-styler.php:14
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/elements/cf-styler.php:49 inc/elements/cf-styler.php:1128
+msgid "You have not added any Contact Form 7 yet."
+msgstr ""
+
+#: inc/elements/cf-styler.php:91 inc/elements/gravity-forms.php:40
+#: inc/template-tags.php:91
+msgid "Select Form"
+msgstr ""
+
+#: inc/elements/cf-styler.php:100
+msgid "Field Style"
+msgstr ""
+
+#: inc/elements/cf-styler.php:104
+msgid "Box"
+msgstr ""
+
+#: inc/elements/cf-styler.php:105
+msgid "Underline"
+msgstr ""
+
+#: inc/elements/cf-styler.php:113
+msgid "Field Size"
+msgstr ""
+
+#: inc/elements/cf-styler.php:117 inc/elements/cf-styler.php:569
+#: inc/elements/flip-box.php:277 inc/elements/info-box.php:379
+msgid "Extra Small"
+msgstr ""
+
+#: inc/elements/cf-styler.php:118 inc/elements/cf-styler.php:570
+#: inc/elements/flip-box.php:278 inc/elements/info-box.php:380
+msgid "Small"
+msgstr ""
+
+#: inc/elements/cf-styler.php:119 inc/elements/cf-styler.php:571
+#: inc/elements/flip-box.php:279 inc/elements/info-box.php:381
+msgid "Medium"
+msgstr ""
+
+#: inc/elements/cf-styler.php:120 inc/elements/cf-styler.php:572
+#: inc/elements/flip-box.php:280 inc/elements/info-box.php:382
+msgid "Large"
+msgstr ""
+
+#: inc/elements/cf-styler.php:121 inc/elements/cf-styler.php:573
+#: inc/elements/flip-box.php:281 inc/elements/info-box.php:383
+msgid "Extra Large"
+msgstr ""
+
+#: inc/elements/cf-styler.php:129
+msgid "Field Padding"
+msgstr ""
+
+#: inc/elements/cf-styler.php:152
+msgid "Field Background Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:168 inc/elements/cf-styler.php:443
+msgid "Label Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:179
+msgid "Input Text / Placeholder Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:194 inc/elements/heading.php:811
+#: inc/elements/info-box.php:981 inc/elements/info-box.php:1324
+#: inc/elements/shop/shop-elements.php:233
+#: inc/elements/shop/shop-elements.php:303
+#: inc/elements/shop/shop-elements.php:651
+#: inc/elements/shop/shop-elements.php:985
+#: inc/elements/shop/shop-elements.php:1104
+msgid "Border Style"
+msgstr ""
+
+#: inc/elements/cf-styler.php:199 inc/elements/flip-box.php:49
+#: inc/elements/gallery.php:96 inc/elements/gravity-forms.php:486
+#: inc/elements/heading-advanced.php:309 inc/elements/heading-advanced.php:682
+#: inc/elements/heading.php:100 inc/elements/heading.php:816
+#: inc/elements/info-box-advanced.php:1159 inc/elements/info-box.php:314
+#: inc/elements/info-box.php:986 inc/elements/info-box.php:1329
+#: inc/elements/navbar.php:287 inc/elements/navbar.php:325
+#: inc/elements/post-carousel.php:136 inc/elements/post-carousel.php:194
+#: inc/elements/post-grid.php:186 inc/elements/post-grid.php:521
+#: inc/elements/post-grid.php:2047 inc/elements/post-list.php:164
+#: inc/elements/price.php:56 inc/elements/shop/product-classic.php:291
+#: inc/elements/single/post-info.php:317 inc/elements/single/thumbnail.php:54
+#: inc/elements/slider.php:466 inc/elements/slider.php:1310
+#: inc/elements/testimonial.php:185 inc/elements/tmt-heading.php:146
+msgid "None"
+msgstr ""
+
+#: inc/elements/cf-styler.php:201 inc/elements/gravity-forms.php:488
+#: inc/elements/heading.php:442 inc/elements/heading.php:818
+#: inc/elements/info-box.php:285 inc/elements/info-box.php:988
+#: inc/elements/info-box.php:1331 inc/elements/list.php:386
+#: inc/elements/post-grid.php:2051 inc/elements/single/post-info.php:489
+#: inc/elements/slider.php:1318 inc/elements/tmt-heading.php:418
+#: inc/elements/tmt-heading.php:687
+msgid "Double"
+msgstr ""
+
+#: inc/elements/cf-styler.php:216 inc/elements/cf-styler.php:471
+#: inc/elements/flip-box.php:748 inc/elements/gravity-forms.php:680
+#: inc/elements/heading.php:850 inc/elements/info-box.php:1020
+#: inc/elements/info-box.php:1361 inc/elements/shop/product-data-tabs.php:228
+#: inc/elements/shop/shop-elements.php:1000 inc/elements/slider.php:807
+msgid "Border Width"
+msgstr ""
+
+#: inc/elements/cf-styler.php:238 inc/elements/cf-styler.php:282
+#: inc/elements/cf-styler.php:457 inc/elements/flip-box.php:1222
+#: inc/elements/gravity-forms.php:526 inc/elements/gravity-forms.php:701
+#: inc/elements/gravity-forms.php:995 inc/elements/heading.php:834
+#: inc/elements/info-box-advanced.php:1180
+#: inc/elements/info-box-advanced.php:1862 inc/elements/info-box.php:1004
+#: inc/elements/info-box.php:1346 inc/elements/info-box.php:1468
+#: inc/elements/member.php:371 inc/elements/member.php:744
+#: inc/elements/navbar.php:462 inc/elements/navbar.php:531
+#: inc/elements/shop/archive-product.php:125
+#: inc/elements/shop/archive-product.php:194
+#: inc/elements/shop/archive-product.php:858
+#: inc/elements/shop/product-add-to-cart.php:137
+#: inc/elements/shop/product-add-to-cart.php:179
+#: inc/elements/shop/product-add-to-cart.php:307
+#: inc/elements/shop/product-add-to-cart.php:348
+#: inc/elements/shop/product-add-to-cart.php:489
+#: inc/elements/shop/product-classic.php:417
+#: inc/elements/shop/product-classic.php:486
+#: inc/elements/shop/product-classic.php:1020
+#: inc/elements/shop/product-data-tabs.php:74
+#: inc/elements/shop/product-data-tabs.php:118
+#: inc/elements/shop/product-related.php:271
+#: inc/elements/shop/product-related.php:340
+#: inc/elements/shop/product-related.php:871 inc/elements/shop/product.php:331
+#: inc/elements/shop/product.php:406 inc/elements/shop/product.php:808
+#: inc/elements/shop/shop-elements.php:510
+#: inc/elements/shop/shop-elements.php:835
+#: inc/elements/shop/shop-elements.php:1016
+#: inc/elements/shop/shop-elements.php:1288
+#: inc/elements/shop/shop-elements.php:1448 inc/elements/slider.php:891
+#: inc/elements/slider.php:925 inc/elements/social-icons.php:448
+#: inc/elements/whatsapp.php:150 inc/elements/whatsapp.php:266
+msgid "Border Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:257 inc/elements/cf-styler.php:861
+msgid "Border Size"
+msgstr ""
+
+#: inc/elements/cf-styler.php:300
+msgid "Border Active Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:328
+msgid "Field Alignment"
+msgstr ""
+
+#: inc/elements/cf-styler.php:356 inc/elements/gravity-forms.php:609
+msgid "Radio & Checkbox"
+msgstr ""
+
+#: inc/elements/cf-styler.php:362
+msgid "Override Current Style"
+msgstr ""
+
+#: inc/elements/cf-styler.php:364 inc/elements/cf-styler.php:750
+#: inc/elements/gallery.php:108 inc/elements/heading.php:132
+#: inc/elements/info-box.php:266 inc/elements/post-carousel.php:251
+#: inc/elements/post-grid.php:217 inc/elements/post-grid.php:236
+#: inc/elements/post-grid.php:270 inc/elements/post-grid.php:319
+#: inc/elements/post-list.php:184 inc/elements/post-list.php:204
+#: inc/elements/post-list.php:237 inc/elements/single/before-after.php:62
+msgid "Yes"
+msgstr ""
+
+#: inc/elements/cf-styler.php:365 inc/elements/cf-styler.php:751
+#: inc/elements/gallery.php:109 inc/elements/heading.php:133
+#: inc/elements/info-box.php:267 inc/elements/info-box.php:744
+#: inc/elements/post-carousel.php:255 inc/elements/post-grid.php:221
+#: inc/elements/post-grid.php:240 inc/elements/post-grid.php:274
+#: inc/elements/post-grid.php:323 inc/elements/post-list.php:188
+#: inc/elements/post-list.php:208 inc/elements/post-list.php:241
+#: inc/elements/single/before-after.php:63
+msgid "No"
+msgstr ""
+
+#: inc/elements/cf-styler.php:426
+msgid "Selected Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:495
+msgid "Checkbox Rounded Corners"
+msgstr ""
+
+#: inc/elements/cf-styler.php:519 inc/elements/gravity-forms.php:803
+msgid "Submit Button"
+msgstr ""
+
+#: inc/elements/cf-styler.php:525
+msgid "Button Alignment"
+msgstr ""
+
+#: inc/elements/cf-styler.php:551 inc/elements/gravity-forms.php:841
+#: inc/elements/gravity-forms.php:855 inc/elements/heading-advanced.php:333
+#: inc/elements/heading-advanced.php:706 inc/elements/heading.php:493
+#: inc/elements/info-box-advanced.php:459
+#: inc/elements/info-box-advanced.php:1597
+#: inc/elements/info-box-advanced.php:1652 inc/elements/info-box.php:867
+#: inc/elements/info-box.php:1205 inc/elements/list.php:428
+#: inc/elements/navbar.php:921 inc/elements/post-carousel.php:813
+#: inc/elements/post-carousel.php:889 inc/elements/post-grid.php:1881
+#: inc/elements/post-grid.php:1957 inc/elements/post-list.php:524
+#: inc/elements/search.php:402 inc/elements/search.php:471
+#: inc/elements/shop/archive-product.php:785
+#: inc/elements/shop/product-add-to-cart.php:393
+#: inc/elements/shop/product-classic.php:947
+#: inc/elements/shop/product-classic.php:1485
+#: inc/elements/shop/product-classic.php:1561
+#: inc/elements/shop/product-related.php:798
+#: inc/elements/single/comments.php:783 inc/elements/single/post-info.php:530
+#: inc/elements/single/short-link.php:95 inc/elements/single/thumbnail.php:113
+#: inc/elements/slider.php:1136 inc/elements/slider.php:1212
+#: inc/elements/testimonial.php:261 inc/elements/testimonial.php:411
+#: inc/elements/tmt-heading.php:470 inc/elements/tmt-heading.php:501
+#: inc/elements/tmt-heading.php:805
+msgid "Width"
+msgstr ""
+
+#: inc/elements/cf-styler.php:565 inc/elements/flip-box.php:273
+#: inc/elements/gravity-forms.php:626 inc/elements/info-box-advanced.php:973
+#: inc/elements/info-box.php:375 inc/elements/info-box.php:823
+#: inc/elements/list.php:528 inc/elements/post-list.php:864
+#: inc/elements/single/before-after.php:250
+#: inc/elements/single/before-after.php:440
+#: inc/elements/single/post-info.php:205 inc/elements/single/post-info.php:732
+#: inc/elements/single/social-share.php:360 inc/elements/social-icons.php:474
+#: inc/elements/tmt-heading.php:571 inc/elements/tmt-heading.php:594
+msgid "Size"
+msgstr ""
+
+#: inc/elements/cf-styler.php:655 inc/elements/heading.php:942
+#: inc/elements/info-box.php:1109
+msgid "Border Hover Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:679
+msgid "Success / Error Message"
+msgstr ""
+
+#: inc/elements/cf-styler.php:685
+msgid "Field Validation"
+msgstr ""
+
+#: inc/elements/cf-styler.php:693
+msgid "Message Position"
+msgstr ""
+
+#: inc/elements/cf-styler.php:697 inc/elements/flip-box.php:114
+#: inc/elements/gallery.php:107 inc/elements/gallery.php:122
+#: inc/elements/list.php:52 inc/elements/search.php:52
+#: inc/elements/single/post-info.php:53 inc/elements/single/post-info.php:318
+#: inc/elements/single/yoast-breadcrumb.php:68 inc/template-tags.php:53
+msgid "Default"
+msgstr ""
+
+#: inc/elements/cf-styler.php:698
+msgid "Bottom Right Side of Field"
+msgstr ""
+
+#: inc/elements/cf-styler.php:706 inc/elements/cf-styler.php:720
+msgid "Message Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:734
+msgid "Message Background Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:748
+msgid "Highlight Borders"
+msgstr ""
+
+#: inc/elements/cf-styler.php:760
+msgid "Highlight Border Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:781
+msgid "Form Success / Error Validation"
+msgstr ""
+
+#: inc/elements/cf-styler.php:789
+msgid "Success Message Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:800
+msgid "Success Message Background Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:811
+msgid "Success Border Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:825
+msgid "Error Message Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:836
+msgid "Error Message Background Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:847 inc/elements/gravity-forms.php:1079
+msgid "Error Border Color"
+msgstr ""
+
+#: inc/elements/cf-styler.php:879
+msgid "Rounded Corners"
+msgstr ""
+
+#: inc/elements/cf-styler.php:890
+msgid "Message Padding"
+msgstr ""
+
+#: inc/elements/cf-styler.php:918
+msgid "Between Label & Input"
+msgstr ""
+
+#: inc/elements/cf-styler.php:939
+msgid "Between Fields"
+msgstr ""
+
+#: inc/elements/cf-styler.php:970
+msgid "Form Label"
+msgstr ""
+
+#: inc/elements/cf-styler.php:985
+msgid "Input Text / Placeholder"
+msgstr ""
+
+#: inc/elements/cf-styler.php:1000 inc/elements/flip-box.php:1089
+#: inc/elements/info-box.php:316 inc/elements/login.php:149
+#: inc/elements/price.php:915 inc/elements/shop/archive-product.php:647
+#: inc/elements/shop/basket.php:76 inc/elements/shop/product-add-to-cart.php:35
+#: inc/elements/shop/product-classic.php:809
+#: inc/elements/shop/product-related.php:660 inc/elements/shop/product.php:667
+#: inc/elements/shop/shop-elements.php:697 inc/elements/slider.php:783
+msgid "Button"
+msgstr ""
+
+#: inc/elements/cf-styler.php:1016
+msgid "Radio Button & Checkbox"
+msgstr ""
+
+#: inc/elements/cf-styler.php:1099
+msgid "select"
+msgstr ""
+
+#: inc/elements/cf-styler.php:1113
+msgid "Please select a Contact Form 7."
+msgstr ""
+
+#: inc/elements/flip-box.php:14
+msgid "Flip Box"
+msgstr ""
+
+#: inc/elements/flip-box.php:34 inc/elements/flip-box.php:431
+msgid "Front"
+msgstr ""
+
+#: inc/elements/flip-box.php:45 inc/elements/info-box-advanced.php:39
+msgid "Icon Type"
+msgstr ""
+
+#: inc/elements/flip-box.php:53 inc/elements/flip-box.php:512
+#: inc/elements/info-box-advanced.php:51 inc/elements/info-box.php:136
+#: inc/elements/post-list.php:517 inc/elements/price.php:52
+#: inc/elements/price.php:469 inc/elements/shop/archive-product.php:355
+#: inc/elements/shop/product-classic.php:514
+#: inc/elements/shop/product-related.php:368 inc/elements/shop/product.php:434
+#: inc/elements/single/before-after.php:52
+#: inc/elements/single/before-after.php:430 inc/elements/testimonial.php:352
+msgid "Image"
+msgstr ""
+
+#: inc/elements/flip-box.php:68 inc/elements/price.php:83
+#: inc/elements/tmt-heading.php:190 inc/elements/whatsapp.php:104
+msgid "Choose Image"
+msgstr ""
+
+#: inc/elements/flip-box.php:84 inc/elements/heading.php:589
+#: inc/elements/price.php:480 inc/elements/shop/product.php:112
+msgid "Image Size"
+msgstr ""
+
+#: inc/elements/flip-box.php:115
+msgid "Stacked"
+msgstr ""
+
+#: inc/elements/flip-box.php:116
+msgid "Framed"
+msgstr ""
+
+#: inc/elements/flip-box.php:127 inc/elements/social-icons.php:308
+msgid "Shape"
+msgstr ""
+
+#: inc/elements/flip-box.php:131 inc/elements/language-switcher.php:111
+#: inc/elements/social-icons.php:314
+msgid "Circle"
+msgstr ""
+
+#: inc/elements/flip-box.php:132 inc/elements/social-icons.php:313
+msgid "Square"
+msgstr ""
+
+#: inc/elements/flip-box.php:144 inc/elements/flip-box.php:213
+#: inc/elements/info-box-advanced.php:93 inc/elements/slider.php:232
+msgid "Title & Description"
+msgstr ""
+
+#: inc/elements/flip-box.php:147 inc/elements/flip-box.php:216
+msgid "This is the heading"
+msgstr ""
+
+#: inc/elements/flip-box.php:148 inc/elements/flip-box.php:217
+msgid "Your Title"
+msgstr ""
+
+#: inc/elements/flip-box.php:156 inc/elements/flip-box.php:224
+#: inc/elements/flip-box.php:834 inc/elements/flip-box.php:1023
+#: inc/elements/gravity-forms.php:60 inc/elements/heading.php:75
+#: inc/elements/heading.php:361 inc/elements/info-box-advanced.php:1416
+#: inc/elements/info-box.php:74 inc/elements/info-box.php:640
+#: inc/elements/member.php:86 inc/elements/post-grid.php:588
+#: inc/elements/post-grid.php:600 inc/elements/slider.php:242
+#: inc/elements/slider.php:735 inc/elements/testimonial.php:52
+#: inc/elements/whatsapp.php:54
+msgid "Description"
+msgstr ""
+
+#: inc/elements/flip-box.php:159 inc/elements/flip-box.php:227
+#: inc/elements/slider.php:401 inc/elements/slider.php:407
+#: inc/elements/slider.php:413
+msgid ""
+"Click edit button to change this text. Lorem ipsum dolor sit amet "
+"consectetur adipiscing elit dolor"
+msgstr ""
+
+#: inc/elements/flip-box.php:160 inc/elements/flip-box.php:228
+msgid "Your Description"
+msgstr ""
+
+#: inc/elements/flip-box.php:161 inc/elements/flip-box.php:229
+msgid "Input image text here"
+msgstr ""
+
+#: inc/elements/flip-box.php:167 inc/elements/flip-box.php:291
+#: inc/elements/heading-advanced.php:448 inc/elements/heading-advanced.php:545
+#: inc/elements/heading.php:297 inc/elements/info-box-advanced.php:1756
+#: inc/elements/info-box-advanced.php:1852 inc/elements/member.php:288
+#: inc/elements/member.php:614 inc/elements/member.php:722
+#: inc/elements/navbar.php:520 inc/elements/price.php:380
+#: inc/elements/price.php:393 inc/elements/price.php:656
+#: inc/elements/price.php:791 inc/elements/price.php:804
+#: inc/elements/price.php:972 inc/elements/price.php:1010
+#: inc/elements/shop/archive-product.php:113
+#: inc/elements/shop/archive-product.php:183
+#: inc/elements/shop/product-classic.php:405
+#: inc/elements/shop/product-classic.php:475
+#: inc/elements/shop/product-related.php:259
+#: inc/elements/shop/product-related.php:329 inc/elements/shop/product.php:319
+#: inc/elements/shop/product.php:395 inc/elements/single/thumbnail.php:191
+#: inc/elements/single/thumbnail.php:261 inc/elements/slider.php:49
+#: inc/elements/slider.php:883 inc/elements/slider.php:917
+#: inc/elements/svg.php:68 inc/elements/tmt-heading.php:241
+#: inc/elements/tmt-heading.php:263 inc/elements/tmt-heading.php:316
+#: inc/elements/tmt-heading.php:338
+msgid "Background"
+msgstr ""
+
+#: inc/elements/flip-box.php:181 inc/elements/flip-box.php:305
+#: inc/elements/slider.php:201
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/elements/flip-box.php:202 inc/elements/flip-box.php:881
+msgid "Back"
+msgstr ""
+
+#: inc/elements/flip-box.php:236 inc/elements/slider.php:252
+msgid "Button Text"
+msgstr ""
+
+#: inc/elements/flip-box.php:239 inc/elements/info-box.php:342
+#: inc/elements/slider.php:254 inc/elements/slider.php:402
+#: inc/elements/slider.php:408 inc/elements/slider.php:414
+msgid "Click Here"
+msgstr ""
+
+#: inc/elements/flip-box.php:247 inc/elements/gallery.php:90
+#: inc/elements/heading-advanced.php:86 inc/elements/heading.php:61
+#: inc/elements/info-box.php:355 inc/elements/list.php:123
+#: inc/elements/login.php:56 inc/elements/login.php:95
+#: inc/elements/login.php:248 inc/elements/member.php:114
+#: inc/elements/price.php:205 inc/elements/shop/product-meta.php:262
+#: inc/elements/single/post-info.php:288 inc/elements/slider.php:261
+#: inc/elements/social-icons.php:180 inc/elements/tmt-heading.php:91
+msgid "Link"
+msgstr ""
+
+#: inc/elements/flip-box.php:250
+msgid "http://your-link.com"
+msgstr ""
+
+#: inc/elements/flip-box.php:257 inc/elements/slider.php:270
+msgid "Apply Link On"
+msgstr ""
+
+#: inc/elements/flip-box.php:260
+msgid "Whole Box"
+msgstr ""
+
+#: inc/elements/flip-box.php:261 inc/elements/slider.php:274
+msgid "Button Only"
+msgstr ""
+
+#: inc/elements/flip-box.php:327 inc/elements/login.php:274
+msgid "Settings"
+msgstr ""
+
+#: inc/elements/flip-box.php:334 inc/elements/heading-advanced.php:353
+#: inc/elements/heading-advanced.php:726
+#: inc/elements/info-box-advanced.php:1576 inc/elements/list.php:446
+#: inc/elements/post-carousel.php:275 inc/elements/post-carousel.php:378
+#: inc/elements/post-carousel.php:837 inc/elements/post-carousel.php:913
+#: inc/elements/post-grid.php:825 inc/elements/post-grid.php:853
+#: inc/elements/post-grid.php:1905 inc/elements/post-grid.php:1981
+#: inc/elements/post-list.php:348 inc/elements/post-list.php:707
+#: inc/elements/price.php:242 inc/elements/search.php:135
+#: inc/elements/shop/product-classic.php:1509
+#: inc/elements/shop/product-classic.php:1585
+#: inc/elements/shop/product-related.php:179
+#: inc/elements/single/post-info.php:507 inc/elements/single/thumbnail.php:140
+#: inc/elements/slider.php:424 inc/elements/slider.php:1160
+#: inc/elements/slider.php:1236 inc/elements/tmt-heading.php:447
+#: inc/elements/tmt-heading.php:782
+msgid "Height"
+msgstr ""
+
+#: inc/elements/flip-box.php:375
+msgid "Flip Effect"
+msgstr ""
+
+#: inc/elements/flip-box.php:379
+msgid "Flip"
+msgstr ""
+
+#: inc/elements/flip-box.php:380 inc/elements/slider.php:515
+#: inc/elements/testimonial.php:234 inc/elements/testimonial.php:253
+msgid "Slide"
+msgstr ""
+
+#: inc/elements/flip-box.php:381
+msgid "Push"
+msgstr ""
+
+#: inc/elements/flip-box.php:382
+msgid "Zoom In"
+msgstr ""
+
+#: inc/elements/flip-box.php:383
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/elements/flip-box.php:384 inc/elements/slider.php:516
+#: inc/elements/testimonial.php:235
+msgid "Fade"
+msgstr ""
+
+#: inc/elements/flip-box.php:393
+msgid "Flip Direction"
+msgstr ""
+
+#: inc/elements/flip-box.php:399
+msgid "Up"
+msgstr ""
+
+#: inc/elements/flip-box.php:400
+msgid "Down"
+msgstr ""
+
+#: inc/elements/flip-box.php:416
+msgid "3D Depth"
+msgstr ""
+
+#: inc/elements/flip-box.php:478 inc/elements/flip-box.php:929
+#: inc/elements/slider.php:328 inc/elements/slider.php:632
+msgid "Vertical Position"
+msgstr ""
+
+#: inc/elements/flip-box.php:483 inc/elements/flip-box.php:934
+#: inc/elements/heading.php:117 inc/elements/info-box-advanced.php:162
+#: inc/elements/info-box-advanced.php:185 inc/elements/info-box.php:805
+#: inc/elements/navbar.php:288 inc/elements/navbar.php:326
+#: inc/elements/post-list.php:138 inc/elements/slider.php:333
+#: inc/elements/slider.php:638 inc/elements/tabs.php:117
+#: inc/elements/tabs.php:157 inc/elements/testimonial.php:149
+#: inc/elements/testimonial.php:363 inc/elements/tmt-heading.php:162
+msgid "Top"
+msgstr ""
+
+#: inc/elements/flip-box.php:487 inc/elements/flip-box.php:938
+#: inc/elements/info-box-advanced.php:189 inc/elements/info-box.php:809
+#: inc/elements/slider.php:337 inc/elements/slider.php:642
+msgid "Middle"
+msgstr ""
+
+#: inc/elements/flip-box.php:491 inc/elements/flip-box.php:942
+#: inc/elements/heading-advanced.php:380 inc/elements/heading-advanced.php:753
+#: inc/elements/heading.php:118 inc/elements/info-box-advanced.php:193
+#: inc/elements/navbar.php:291 inc/elements/navbar.php:329
+#: inc/elements/slider.php:341 inc/elements/slider.php:646
+#: inc/elements/tabs.php:118 inc/elements/tabs.php:165
+#: inc/elements/testimonial.php:150 inc/elements/testimonial.php:371
+#: inc/elements/tmt-heading.php:163
+msgid "Bottom"
+msgstr ""
+
+#: inc/elements/flip-box.php:542
+msgid "Size (%)"
+msgstr ""
+
+#: inc/elements/flip-box.php:566 inc/elements/member.php:323
+#: inc/elements/member.php:385
+msgid "Opacity (%)"
+msgstr ""
+
+#: inc/elements/flip-box.php:591 inc/elements/shop/archive-product.php:364
+#: inc/elements/shop/product-classic.php:523
+#: inc/elements/shop/product-related.php:377 inc/elements/shop/product.php:443
+msgid "Image Border"
+msgstr ""
+
+#: inc/elements/flip-box.php:656 inc/elements/heading.php:698
+#: inc/elements/heading.php:754 inc/elements/info-box-advanced.php:838
+#: inc/elements/info-box-advanced.php:1129 inc/elements/info-box.php:933
+#: inc/elements/language-switcher.php:255 inc/elements/list.php:139
+#: inc/elements/login.php:781 inc/elements/login.php:867
+#: inc/elements/login.php:1180 inc/elements/login.php:1194
+#: inc/elements/login.php:1249 inc/elements/login.php:1263
+#: inc/elements/member.php:146 inc/elements/navbar.php:990
+#: inc/elements/navbar.php:1242 inc/elements/post-carousel.php:561
+#: inc/elements/post-carousel.php:588 inc/elements/post-carousel.php:694
+#: inc/elements/post-carousel.php:729 inc/elements/post-grid.php:1092
+#: inc/elements/post-grid.php:1123 inc/elements/post-grid.php:1552
+#: inc/elements/post-grid.php:1715 inc/elements/post-grid.php:1774
+#: inc/elements/post-list.php:655 inc/elements/post-list.php:840
+#: inc/elements/price.php:148 inc/elements/price.php:443
+#: inc/elements/price.php:700 inc/elements/price.php:725
+#: inc/elements/scroll-to-top.php:179 inc/elements/scroll-to-top.php:271
+#: inc/elements/search.php:767 inc/elements/search.php:801
+#: inc/elements/shop/basket.php:482 inc/elements/shop/basket.php:516
+#: inc/elements/shop/basket.php:596 inc/elements/shop/product-classic.php:1349
+#: inc/elements/shop/product-classic.php:1386
+#: inc/elements/single/before-after.php:365
+#: inc/elements/single/before-after.php:396
+#: inc/elements/single/breadcrumb.php:82
+#: inc/elements/single/social-share.php:255
+#: inc/elements/single/social-share.php:307 inc/elements/slider.php:1017
+#: inc/elements/slider.php:1052 inc/elements/social-icons.php:212
+#: inc/elements/social-icons.php:244 inc/elements/social-icons.php:385
+#: inc/elements/social-icons.php:417 inc/elements/testimonial.php:763
+#: inc/elements/testimonial.php:792 inc/elements/whatsapp.php:161
+#: inc/elements/whatsapp.php:277 inc/elements/whatsapp.php:396
+msgid "Icon Color"
+msgstr ""
+
+#: inc/elements/flip-box.php:672
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/elements/flip-box.php:709 inc/elements/login.php:809
+msgid "Icon Padding"
+msgstr ""
+
+#: inc/elements/flip-box.php:730
+msgid "Icon Rotate"
+msgstr ""
+
+#: inc/elements/flip-box.php:1233 inc/elements/member.php:406
+msgid "Animation"
+msgstr ""
+
+#: inc/elements/gallery.php:14
+msgid "Masonry Image Gallery"
+msgstr ""
+
+#: inc/elements/gallery.php:38
+msgid "Image Gallery"
+msgstr ""
+
+#: inc/elements/gallery.php:44
+msgid "Add Images"
+msgstr ""
+
+#: inc/elements/gallery.php:55 inc/elements/gallery.php:63
+#: inc/elements/post-grid.php:116 inc/elements/post-grid.php:439
+#: inc/elements/shop/product-classic.php:209 inc/elements/shop/product.php:26
+#: inc/elements/testimonial.php:117
+msgid "Columns"
+msgstr ""
+
+#: inc/elements/gallery.php:94
+msgid "Media File"
+msgstr ""
+
+#: inc/elements/gallery.php:95
+msgid "Attachment Page"
+msgstr ""
+
+#: inc/elements/gallery.php:103
+msgid "Lightbox"
+msgstr ""
+
+#: inc/elements/gallery.php:119 inc/elements/shop/product-related.php:84
+msgid "Order By"
+msgstr ""
+
+#: inc/elements/gallery.php:123 inc/elements/shop/product-classic.php:160
+#: inc/elements/shop/product-related.php:93 inc/elements/shop/product.php:225
+msgid "Random"
+msgstr ""
+
+#: inc/elements/gallery.php:144
+msgid "Images"
+msgstr ""
+
+#: inc/elements/gallery.php:151 inc/elements/gallery.php:159
+#: inc/elements/post-grid.php:646
+msgid "Spacing Between Columns"
+msgstr ""
+
+#: inc/elements/gallery.php:178 inc/elements/gallery.php:186
+#: inc/elements/post-grid.php:672
+msgid "Spacing Between Row"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:14
+msgid "Gravity Forms"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:33 inc/elements/list.php:47
+#: inc/elements/member.php:32 inc/elements/shop/product.php:19
+#: inc/elements/single/post-info.php:48 inc/elements/tabs.php:113
+msgid "Layout"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:69
+msgid "Use Ajax"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:71
+msgid "Use ajax to submit the form"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:80
+#: inc/elements/shop/product-add-to-cart.php:430
+#: inc/elements/shop/shop-elements.php:82
+#: inc/elements/shop/shop-elements.php:533
+msgid "Label"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:110 inc/elements/shop/shop-elements.php:126
+#: inc/elements/shop/shop-elements.php:566
+#: inc/elements/shop/shop-elements.php:1047
+msgid "Input"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:209 inc/elements/list.php:635
+msgid "Text Indent"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:232
+msgid "Input Width"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:251
+msgid "Input Height"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:272
+msgid "Textarea Width"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:290 inc/elements/shop/shop-elements.php:174
+msgid "Textarea Height"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:357 inc/elements/search.php:426
+#: inc/elements/shop/product-add-to-cart.php:319
+msgid "Focus"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:404
+msgid "Field Description"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:453
+msgid "Section Field"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:482
+msgid "Border Type"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:502
+msgid "Border Height"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:555 inc/elements/shop/archive-product.php:524
+#: inc/elements/shop/archive-product.php:582 inc/elements/shop/basket.php:246
+#: inc/elements/shop/product-classic.php:158
+#: inc/elements/shop/product-classic.php:686
+#: inc/elements/shop/product-classic.php:744
+#: inc/elements/shop/product-price.php:37
+#: inc/elements/shop/product-price.php:71
+#: inc/elements/shop/product-related.php:90
+#: inc/elements/shop/product-related.php:537
+#: inc/elements/shop/product-related.php:595 inc/elements/shop/product.php:223
+#: inc/elements/shop/product.php:282 inc/elements/shop/product.php:581
+msgid "Price"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:563
+msgid "Price Label Color"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:574
+msgid "Price Color"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:587 inc/elements/search.php:62
+msgid "Placeholder"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:617
+msgid "Custom Styles"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:715
+msgid "Checkbox"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:742
+msgid "Radio Buttons"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:771
+msgid "Checked"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:845
+msgid "Full Width"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:846 inc/elements/single/post-info.php:81
+#: inc/elements/single/post-info.php:99 inc/elements/single/post-info.php:138
+#: inc/elements/single/post-info.php:273 inc/elements/single/post-info.php:319
+#: inc/elements/slider.php:288 inc/elements/social-icons.php:201
+#: inc/elements/social-icons.php:374
+msgid "Custom"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:946
+msgid "Margin Top"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1032
+msgid "Errors"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1040
+msgid "Error Messages"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1059
+msgid "Validation Errors"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1068
+msgid "Error Description Color"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1091
+msgid "Error Field Background Color"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1102
+msgid "Error Field Label Color"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1113
+msgid "Error Field Input Border Color"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1125
+msgid "Error Field Input Border Width"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1142
+msgid "Additional Option"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1150
+msgid "Fullwidth Input"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1162
+msgid "Fullwidth Texarea"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1173 inc/elements/shop/product.php:747
+msgid "Fullwidth Button"
+msgstr ""
+
+#: inc/elements/gravity-forms.php:1188
+msgid "Please select a Contact Form From Setting!"
+msgstr ""
+
+#: inc/elements/header.php:14
+msgid "Header Page"
+msgstr ""
+
+#: inc/elements/header.php:44 inc/elements/info-box.php:588
+#: inc/elements/post-carousel.php:114 inc/elements/post-grid.php:164
+#: inc/elements/post-list.php:219 inc/elements/single/title.php:41
+msgid "Title Tag"
+msgstr ""
+
+#: inc/elements/header.php:55 inc/elements/heading.php:240
+#: inc/elements/info-box.php:473 inc/elements/info-box.php:771
+msgid "Overall Alignment"
+msgstr ""
+
+#: inc/elements/header.php:77
+msgid "Title Size"
+msgstr ""
+
+#: inc/elements/header.php:102
+msgid "Breadcrumbs Size"
+msgstr ""
+
+#: inc/elements/header.php:127 inc/elements/post-carousel.php:427
+#: inc/elements/post-carousel.php:461 inc/elements/post-grid.php:931
+#: inc/elements/post-grid.php:966 inc/elements/price.php:568
+#: inc/elements/single/before-after.php:227 inc/elements/single/title.php:82
+msgid "Title Color"
+msgstr ""
+
+#: inc/elements/header.php:139 inc/elements/single/breadcrumb.php:116
+msgid "Active Breadcrumbs Color"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:14 inc/elements/heading-advanced.php:135
+#: inc/elements/heading-advanced.php:141 inc/elements/heading-advanced.php:146
+#: inc/elements/heading-advanced.php:790
+msgid "Advanced Heading"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:33 inc/elements/heading.php:14
+#: inc/elements/heading.php:49 inc/elements/heading.php:270
+#: inc/elements/shop/product-data-tabs.php:193
+#: inc/elements/shop/product-related.php:114 inc/elements/tmt-heading.php:14
+#: inc/elements/tmt-heading.php:56 inc/elements/tmt-heading.php:59
+#: inc/elements/whatsapp.php:46
+msgid "Heading"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:40 inc/elements/heading-advanced.php:268
+#: inc/elements/tmt-heading.php:47
+msgid "Sub Heading"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:43
+msgid "Enter your Sub title"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:44
+msgid "SUB HEADING HERE"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:51 inc/elements/heading-advanced.php:417
+msgid "Main Heading"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:54
+msgid "Enter your main heading here"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:55
+msgid "I am Advanced Heading"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:62
+msgid "Split Main Heading"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:71 inc/elements/heading-advanced.php:76
+#: inc/elements/heading-advanced.php:517
+msgid "Split Text"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:75
+msgid "Enter your split text"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:96 inc/elements/heading.php:277
+#: inc/elements/single/yoast-breadcrumb.php:65
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:144
+msgid "Enter your advanced heading"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:145
+msgid ""
+"This heading will show as style as background and you can move and style "
+"many way."
+msgstr ""
+
+#: inc/elements/heading-advanced.php:179
+msgid "X Offset"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:202
+msgid "Y Offset"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:225
+msgid "Rotate Origin"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:226
+msgid "Origin work when you set rotate value"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:237 inc/elements/info-box-advanced.php:525
+#: inc/elements/info-box-advanced.php:637
+#: inc/elements/info-box-advanced.php:1009
+#: inc/elements/info-box-advanced.php:1217 inc/elements/info-box.php:849
+msgid "Rotate"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:310 inc/elements/heading-advanced.php:683
+#: inc/elements/heading.php:101 inc/elements/info-box-advanced.php:1511
+#: inc/elements/tmt-heading.php:147
+msgid "Line"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:319 inc/elements/heading-advanced.php:692
+msgid "Style Color"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:373 inc/elements/heading-advanced.php:746
+msgid "Style Position"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:377 inc/elements/heading-advanced.php:750
+#: inc/elements/price.php:680
+msgid "After"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:378 inc/elements/heading-advanced.php:751
+#: inc/elements/price.php:679 inc/elements/single/post-info.php:182
+msgid "Before"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:379 inc/elements/heading-advanced.php:752
+msgid "After and Before"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:391 inc/elements/heading-advanced.php:764
+msgid "Style Spacing"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:481 inc/elements/heading-advanced.php:608
+#: inc/elements/info-box-advanced.php:887
+#: inc/elements/info-box-advanced.php:911
+#: inc/elements/info-box-advanced.php:1195
+#: inc/elements/language-switcher.php:424
+#: inc/elements/single/before-after.php:320
+#: inc/elements/single/before-after.php:487
+#: inc/elements/single/post-info.php:720 inc/elements/single/post-info.php:943
+#: inc/elements/testimonial.php:309 inc/elements/testimonial.php:465
+msgid "Radius"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:560
+msgid "Split Space"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:650 inc/elements/info-box.php:724
+msgid "Advanced"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:657 inc/elements/heading-advanced.php:801
+msgid "Advanced Style"
+msgstr ""
+
+#: inc/elements/heading-advanced.php:913
+#: inc/elements/info-box-advanced.php:1076
+#: inc/elements/info-box-advanced.php:1281
+#: inc/elements/single/thumbnail.php:231 inc/elements/single/thumbnail.php:302
+msgid "Opacity"
+msgstr ""
+
+#: inc/elements/heading.php:55
+msgid "Design is a funny word"
+msgstr ""
+
+#: inc/elements/heading.php:63 inc/elements/info-box-advanced.php:286
+#: inc/elements/list.php:129 inc/elements/login.php:76
+#: inc/elements/login.php:105 inc/elements/login.php:250
+#: inc/elements/price.php:207 inc/elements/slider.php:263
+#: inc/elements/social-icons.php:189
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/elements/heading.php:89 inc/elements/info-box.php:257
+#: inc/elements/info-box.php:264 inc/elements/info-box.php:1155
+#: inc/elements/shop/basket.php:277 inc/elements/tmt-heading.php:136
+msgid "Separator"
+msgstr ""
+
+#: inc/elements/heading.php:102 inc/elements/tmt-heading.php:148
+msgid "Line With Icon"
+msgstr ""
+
+#: inc/elements/heading.php:103 inc/elements/tmt-heading.php:149
+msgid "Line With Image"
+msgstr ""
+
+#: inc/elements/heading.php:104 inc/elements/tmt-heading.php:150
+msgid "Line With Text"
+msgstr ""
+
+#: inc/elements/heading.php:111 inc/elements/tmt-heading.php:157
+msgid "Separator Position"
+msgstr ""
+
+#: inc/elements/heading.php:116
+msgid "Between Heading & Description"
+msgstr ""
+
+#: inc/elements/heading.php:119
+msgid "Heading Side"
+msgstr ""
+
+#: inc/elements/heading.php:130
+msgid "Out Separator"
+msgstr ""
+
+#: inc/elements/heading.php:147 inc/elements/info-box.php:162
+#: inc/elements/info-box.php:405 inc/elements/post-grid.php:1031
+#: inc/elements/post-list.php:615
+msgid "Select Icon"
+msgstr ""
+
+#: inc/elements/heading.php:163 inc/elements/info-box.php:190
+msgid "Photo Source"
+msgstr ""
+
+#: inc/elements/heading.php:168 inc/elements/info-box.php:195
+msgid "Media Library"
+msgstr ""
+
+#: inc/elements/heading.php:169 inc/elements/info-box.php:196
+msgid "URL"
+msgstr ""
+
+#: inc/elements/heading.php:179 inc/elements/info-box.php:206
+#: inc/elements/member.php:274
+msgid "Photo"
+msgstr ""
+
+#: inc/elements/heading.php:196 inc/elements/info-box.php:224
+msgid "Photo URL"
+msgstr ""
+
+#: inc/elements/heading.php:213
+msgid "Enter Text"
+msgstr ""
+
+#: inc/elements/heading.php:215
+msgid "Wordpress"
+msgstr ""
+
+#: inc/elements/heading.php:293 inc/elements/post-carousel.php:139
+#: inc/elements/post-grid.php:189 inc/elements/post-list.php:167
+#: inc/elements/single/thumbnail.php:57
+msgid "Fill"
+msgstr ""
+
+#: inc/elements/heading.php:337
+msgid "Heading Margin"
+msgstr ""
+
+#: inc/elements/heading.php:396
+msgid "Description Margin"
+msgstr ""
+
+#: inc/elements/heading.php:423
+msgid "Separator - Line"
+msgstr ""
+
+#: inc/elements/heading.php:468 inc/elements/info-box.php:1180
+#: inc/elements/post-grid.php:2062 inc/elements/slider.php:1333
+msgid "Thickness"
+msgstr ""
+
+#: inc/elements/heading.php:527
+msgid "Separator - Icon / Image / Text"
+msgstr ""
+
+#: inc/elements/heading.php:614 inc/elements/info-box-advanced.php:579
+#: inc/elements/scroll-to-top.php:93 inc/elements/search.php:544
+#: inc/elements/single/thumbnail.php:69 inc/elements/whatsapp.php:192
+msgid "Position"
+msgstr ""
+
+#: inc/elements/heading.php:682
+msgid "Select Style"
+msgstr ""
+
+#: inc/elements/heading.php:687
+msgid "Simple"
+msgstr ""
+
+#: inc/elements/heading.php:688 inc/elements/info-box.php:122
+msgid "Design your own"
+msgstr ""
+
+#: inc/elements/heading.php:714 inc/elements/heading.php:910
+#: inc/elements/info-box.php:948 inc/elements/info-box.php:1078
+#: inc/elements/price.php:456
+msgid "Icon Hover Color"
+msgstr ""
+
+#: inc/elements/heading.php:729 inc/elements/heading.php:958
+#: inc/elements/info-box-advanced.php:1171
+#: inc/elements/info-box-advanced.php:1884 inc/elements/info-box.php:1125
+#: inc/elements/info-box.php:1140 inc/elements/info-box.php:1483
+#: inc/elements/post-grid.php:1622 inc/elements/post-list.php:504
+#: inc/elements/scroll-to-top.php:347 inc/elements/single/thumbnail.php:345
+#: inc/elements/social-icons.php:463
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/elements/heading.php:926 inc/elements/info-box.php:1093
+#: inc/elements/info-box.php:1456
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/elements/icon-tab.php:16
+msgid "Icon Tab"
+msgstr ""
+
+#: inc/elements/icon-tab.php:64
+msgid "Tab Title"
+msgstr ""
+
+#: inc/elements/icon-tab.php:73
+msgid "Tab Content"
+msgstr ""
+
+#: inc/elements/icon-tab.php:84 inc/elements/icon-tab.php:317
+msgid "Color Title"
+msgstr ""
+
+#: inc/elements/icon-tab.php:95 inc/elements/icon-tab.php:335
+msgid "Color Content"
+msgstr ""
+
+#: inc/elements/icon-tab.php:105
+msgid "Icon Normal"
+msgstr ""
+
+#: inc/elements/icon-tab.php:113 inc/elements/icon-tab.php:251
+#: inc/elements/shop/archive-product.php:310
+msgid "Color Icon"
+msgstr ""
+
+#: inc/elements/icon-tab.php:125 inc/elements/icon-tab.php:263
+msgid "Color Background Icon"
+msgstr ""
+
+#: inc/elements/icon-tab.php:134
+msgid "Icon Hover"
+msgstr ""
+
+#: inc/elements/icon-tab.php:142 inc/elements/icon-tab.php:275
+msgid "Hover Color Icon"
+msgstr ""
+
+#: inc/elements/icon-tab.php:154 inc/elements/icon-tab.php:287
+#: inc/elements/icon-tab.php:377
+msgid "Hover Color Background Icon"
+msgstr ""
+
+#: inc/elements/icon-tab.php:166 inc/elements/login.php:262
+#: inc/elements/price.php:159
+msgid "Repeater List"
+msgstr ""
+
+#: inc/elements/icon-tab.php:171 inc/elements/price.php:164
+msgid "Title #1"
+msgstr ""
+
+#: inc/elements/icon-tab.php:172 inc/elements/icon-tab.php:176
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: inc/elements/icon-tab.php:175 inc/elements/price.php:167
+msgid "Title #2"
+msgstr ""
+
+#: inc/elements/icon-tab.php:309 inc/elements/price.php:558
+#: inc/elements/single/before-after.php:220
+msgid "Title Typography"
+msgstr ""
+
+#: inc/elements/icon-tab.php:328
+msgid "Content Typography"
+msgstr ""
+
+#: inc/elements/icon-tab.php:397 inc/elements/single/post-info.php:789
+#: inc/elements/tmt-heading.php:368
+msgid "Space"
+msgstr ""
+
+#: inc/elements/icon-tab.php:420
+msgid "background"
+msgstr ""
+
+#: inc/elements/icon-tab.php:429 inc/elements/icon-tab.php:438
+msgid "Background "
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:14
+msgid "Advanced Info Box"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:32
+msgid "Icon Box"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:78
+msgid "Image Icon"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:98
+msgid "Icon Box Heading"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:99
+msgid "Enter your title"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:107
+msgid "Title Link"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:117
+msgid "Title Link URL"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:131
+#: inc/elements/info-box-advanced.php:1496
+msgid "Title Separator"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:141
+msgid ""
+"Click edit button to change this text. Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, "
+"pulvinar dapibus leo."
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:142
+msgid "Enter your description"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:152
+#: inc/elements/info-box-advanced.php:341 inc/elements/info-box.php:419
+#: inc/elements/post-list.php:128 inc/elements/price.php:675
+#: inc/elements/single/post-info.php:584
+msgid "Icon Position"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:181
+msgid "Icon Vertical Alignment"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:209
+msgid "Read More Button"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:218
+#: inc/elements/info-box-advanced.php:449
+#: inc/elements/info-box-advanced.php:1898
+msgid "Indicator"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:226
+#: inc/elements/info-box-advanced.php:556
+#: inc/elements/info-box-advanced.php:1949
+#: inc/elements/shop/archive-product.php:880
+#: inc/elements/shop/product-classic.php:1042
+#: inc/elements/shop/product-related.php:893 inc/elements/shop/product.php:828
+msgid "Badge"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:234
+msgid "Global Link"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:237
+msgid ""
+"Be aware! When Global Link activated then title link and read more link will "
+"not work"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:244
+msgid "Global Link URL"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:259
+#: inc/elements/info-box-advanced.php:272
+#: inc/elements/info-box-advanced.php:273
+#: inc/elements/info-box-advanced.php:1697 inc/elements/info-box.php:327
+#: inc/elements/post-carousel.php:1040 inc/elements/post-grid.php:290
+#: inc/elements/post-grid.php:1515 inc/elements/post-grid.php:2379
+#: inc/elements/post-grid.php:2393
+msgid "Read More"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:269 inc/elements/info-box.php:315
+#: inc/elements/info-box.php:325 inc/elements/info-box.php:340
+#: inc/elements/list.php:96 inc/elements/list.php:603
+#: inc/elements/member.php:518 inc/elements/search.php:77
+#: inc/elements/search.php:85 inc/elements/search.php:165
+#: inc/elements/shop/basket.php:82 inc/elements/shop/product-meta.php:234
+#: inc/elements/single/post-info.php:808 inc/elements/testimonial.php:492
+#: inc/elements/tmt-heading.php:205
+msgid "Text"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:280
+msgid "Link to"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:300
+msgid "OnClick"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:312
+msgid "OnClick Event"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:315
+#, php-format
+msgid "For details please look <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:357 inc/elements/info-box.php:437
+#: inc/elements/member.php:702
+msgid "Icon Spacing"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:381
+msgid "Show on Hover"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:390
+#: inc/elements/info-box-advanced.php:477
+#: inc/elements/info-box-advanced.php:589
+msgid "Horizontal Offset"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:416
+#: inc/elements/info-box-advanced.php:501
+#: inc/elements/info-box-advanced.php:613
+msgid "Vertical Offset"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:566
+msgid "Badge Text"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:668
+msgid "Additional Options"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:675
+#: inc/elements/info-box-advanced.php:764
+msgid "Icon Vertical Offset"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:695
+#: inc/elements/info-box-advanced.php:718
+#: inc/elements/info-box-advanced.php:741
+msgid "Icon Horizontal Offset"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:806
+msgid "Icon/Image"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:903
+msgid "Advanced Radius"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:912
+#, php-format
+msgid ""
+"For example: <b>%1s</b> or Go <a href=\"%2s\" target=\"_blank\">this link</"
+"a> and copy and paste the radius value."
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:995
+msgid "Image Fullwidth"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1032
+#: inc/elements/info-box-advanced.php:1238
+msgid "Background Rotate"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1053
+#: inc/elements/info-box-advanced.php:1258
+msgid "Image Effect"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1097
+#: inc/elements/shop/product-add-to-cart.php:190
+#: inc/elements/shop/product-add-to-cart.php:359
+#: inc/elements/single/thumbnail.php:328 inc/sticky/element-extension.php:153
+#: inc/sticky/element-extension.php:337
+msgid "Transition Duration"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1154
+msgid "Effect"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1160
+msgid "Effect A"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1161
+msgid "Effect B"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1162
+msgid "Effect C"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1163
+msgid "Effect D"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1164
+msgid "Effect E"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1507
+msgid "Separator Type"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1512
+msgid "Bloomstar"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1513
+msgid "Bobbleaf"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1514
+msgid "Demaxa"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1515
+msgid "Fill Circle"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1516
+msgid "Finalio"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1518
+msgid "Jemik"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1520
+msgid "Leaf Line"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1522
+msgid "Multinus"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1524
+msgid "Rotate Box"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1525
+msgid "Sarator"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1526
+msgid "Separk"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1527
+msgid "Slash Line"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1529
+msgid "Tripline"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1530
+msgid "Vague"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1531
+msgid "Zigzag Dot"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1532
+msgid "Zozobe"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1541 inc/elements/tmt-heading.php:142
+#: inc/elements/tmt-heading.php:394
+msgid "Separator Style"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1548 inc/elements/tmt-heading.php:420
+#: inc/elements/tmt-heading.php:689
+msgid "Groove"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1623
+#: inc/elements/info-box-advanced.php:1925
+msgid "Fill Color"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1637
+#: inc/elements/info-box-advanced.php:1936
+msgid "Stroke Color"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1678
+msgid "Separator Spacing"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1809
+msgid "Full Width Read More"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1909
+msgid "Indicator Style"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1913
+msgid "Style 1"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1914
+msgid "Style 2"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1915
+msgid "Style 3"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1916
+msgid "Style 4"
+msgstr ""
+
+#: inc/elements/info-box-advanced.php:1917
+msgid "Style 5"
+msgstr ""
+
+#: inc/elements/info-box.php:14 inc/elements/info-box.php:68
+msgid "Info Box"
+msgstr ""
+
+#: inc/elements/info-box.php:51 inc/elements/info-box.php:502
+msgid "Title Prefix"
+msgstr ""
+
+#: inc/elements/info-box.php:80
+msgid ""
+"Enter description text here.Lorem ipsum dolor sit amet, consectetur "
+"adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar "
+"dapibus leo."
+msgstr ""
+
+#: inc/elements/info-box.php:90
+msgid "Image/Icon"
+msgstr ""
+
+#: inc/elements/info-box.php:97
+msgid "Select Position"
+msgstr ""
+
+#: inc/elements/info-box.php:102
+msgid "Above Heading"
+msgstr ""
+
+#: inc/elements/info-box.php:103
+msgid "Below Heading"
+msgstr ""
+
+#: inc/elements/info-box.php:104
+msgid "Left of Heading"
+msgstr ""
+
+#: inc/elements/info-box.php:105
+msgid "Right of Heading"
+msgstr ""
+
+#: inc/elements/info-box.php:106
+msgid "Left of Text and Heading"
+msgstr ""
+
+#: inc/elements/info-box.php:107
+msgid "Right of Text and Heading"
+msgstr ""
+
+#: inc/elements/info-box.php:114 inc/elements/info-box.php:761
+msgid "Image/Icon Style"
+msgstr ""
+
+#: inc/elements/info-box.php:120
+msgid "Circle Background"
+msgstr ""
+
+#: inc/elements/info-box.php:121
+msgid "Square / Rectangle Background"
+msgstr ""
+
+#: inc/elements/info-box.php:132
+msgid "Image Type"
+msgstr ""
+
+#: inc/elements/info-box.php:140
+msgid "Font Icon"
+msgstr ""
+
+#: inc/elements/info-box.php:151
+msgid "Icon Basics"
+msgstr ""
+
+#: inc/elements/info-box.php:180
+msgid "Image Basics"
+msgstr ""
+
+#: inc/elements/info-box.php:302 inc/elements/info-box.php:1239
+msgid "Call To Action"
+msgstr ""
+
+#: inc/elements/info-box.php:309 inc/elements/price.php:44
+#: inc/elements/search.php:72 inc/elements/single/post-info.php:72
+msgid "Type"
+msgstr ""
+
+#: inc/elements/info-box.php:317
+msgid "Complete Box"
+msgstr ""
+
+#: inc/elements/info-box.php:424 inc/elements/single/before-after.php:148
+msgid "After Text"
+msgstr ""
+
+#: inc/elements/info-box.php:425 inc/elements/single/before-after.php:94
+msgid "Before Text"
+msgstr ""
+
+#: inc/elements/info-box.php:514
+msgid "Prefix Tag"
+msgstr ""
+
+#: inc/elements/info-box.php:667 inc/elements/post-grid.php:1457
+msgid "Justify"
+msgstr ""
+
+#: inc/elements/info-box.php:693
+msgid "Description Color"
+msgstr ""
+
+#: inc/elements/info-box.php:732
+msgid "Box animation on hover"
+msgstr ""
+
+#: inc/elements/info-box.php:739
+msgid "Responsive Support"
+msgstr ""
+
+#: inc/elements/info-box.php:740
+msgid "Choose on what breakpoint the Infobox will stack."
+msgstr ""
+
+#: inc/elements/info-box.php:745
+msgid "For Tablet & Mobile"
+msgstr ""
+
+#: inc/elements/info-box.php:746
+msgid "For Mobile Only"
+msgstr ""
+
+#: inc/elements/info-box.php:800
+msgid "Vertical Alignment"
+msgstr ""
+
+#: inc/elements/info-box.php:1442
+msgid "Text Hover Color"
+msgstr ""
+
+#: inc/elements/info-box.php:1503
+msgid "Margins"
+msgstr ""
+
+#: inc/elements/info-box.php:1510
+msgid "Title Margin"
+msgstr ""
+
+#: inc/elements/info-box.php:1533
+msgid "Prefix Margin"
+msgstr ""
+
+#: inc/elements/info-box.php:1556
+msgid "Image/Icon Margin"
+msgstr ""
+
+#: inc/elements/info-box.php:1571
+msgid "Description Margins"
+msgstr ""
+
+#: inc/elements/info-box.php:1594
+msgid "Separator Margins"
+msgstr ""
+
+#: inc/elements/info-box.php:1617
+msgid "CTA Margin"
+msgstr ""
+
+#: inc/elements/language-switcher.php:15
+msgid "Language Switcher"
+msgstr ""
+
+#: inc/elements/language-switcher.php:39
+msgid "Languages"
+msgstr ""
+
+#: inc/elements/language-switcher.php:50 inc/elements/list.php:226
+#: inc/elements/price.php:120 inc/elements/single/post-info.php:387
+msgid "List"
+msgstr ""
+
+#: inc/elements/language-switcher.php:51 inc/elements/login.php:55
+#: inc/elements/login.php:94 inc/elements/navbar.php:190
+#: inc/elements/navbar.php:614 inc/elements/search.php:53
+msgid "Dropdown"
+msgstr ""
+
+#: inc/elements/language-switcher.php:59
+msgid "Show Vertical"
+msgstr ""
+
+#: inc/elements/language-switcher.php:95
+msgid "Show Flags"
+msgstr ""
+
+#: inc/elements/language-switcher.php:106
+msgid "Flags Style"
+msgstr ""
+
+#: inc/elements/language-switcher.php:122
+msgid "Show Names"
+msgstr ""
+
+#: inc/elements/language-switcher.php:134
+msgid "Names Style"
+msgstr ""
+
+#: inc/elements/language-switcher.php:138 inc/elements/member.php:64
+#: inc/elements/member.php:426 inc/elements/single/comments.php:851
+#: inc/elements/testimonial.php:72 inc/elements/testimonial.php:572
+#: inc/elements/testimonial.php:642 inc/elements/whatsapp.php:67
+msgid "Name"
+msgstr ""
+
+#: inc/elements/language-switcher.php:139
+msgid "Slug"
+msgstr ""
+
+#: inc/elements/language-switcher.php:150
+msgid "Show Current"
+msgstr ""
+
+#: inc/elements/language-switcher.php:161
+msgid "Show Current Flag"
+msgstr ""
+
+#: inc/elements/language-switcher.php:185
+msgid "Show Current Name"
+msgstr ""
+
+#: inc/elements/language-switcher.php:209
+msgid "Dropdown Weight"
+msgstr ""
+
+#: inc/elements/language-switcher.php:280
+#: inc/elements/language-switcher.php:331
+msgid "Dropdown Text Color"
+msgstr ""
+
+#: inc/elements/language-switcher.php:293
+#: inc/elements/language-switcher.php:344
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: inc/elements/list.php:14
+msgid "List Text"
+msgstr ""
+
+#: inc/elements/list.php:40
+msgid "Icon List"
+msgstr ""
+
+#: inc/elements/list.php:56 inc/elements/single/post-info.php:57
+msgid "Inline"
+msgstr ""
+
+#: inc/elements/list.php:71 inc/elements/post-carousel.php:103
+#: inc/elements/post-grid.php:100 inc/elements/post-list.php:83
+#: inc/elements/shop/archive-product.php:38
+#: inc/elements/shop/product-classic.php:67
+#: inc/elements/shop/product-related.php:53
+msgid "Number of Columns"
+msgstr ""
+
+#: inc/elements/list.php:75 inc/elements/post-grid.php:104
+#: inc/elements/post-grid.php:120 inc/elements/post-grid.php:442
+#: inc/elements/post-grid.php:461 inc/elements/post-grid.php:480
+#: inc/elements/post-list.php:86 inc/elements/shop/archive-product.php:42
+#: inc/elements/shop/product-classic.php:71
+#: inc/elements/shop/product-classic.php:212
+#: inc/elements/shop/product-classic.php:231
+#: inc/elements/shop/product-classic.php:250
+#: inc/elements/shop/product-related.php:57
+msgid "1 Columns"
+msgstr ""
+
+#: inc/elements/list.php:76 inc/elements/post-grid.php:105
+#: inc/elements/post-grid.php:121 inc/elements/post-grid.php:443
+#: inc/elements/post-grid.php:462 inc/elements/post-grid.php:481
+#: inc/elements/post-list.php:87 inc/elements/shop/archive-product.php:43
+#: inc/elements/shop/product-classic.php:72
+#: inc/elements/shop/product-classic.php:213
+#: inc/elements/shop/product-classic.php:232
+#: inc/elements/shop/product-classic.php:251
+#: inc/elements/shop/product-related.php:58
+msgid "2 Columns"
+msgstr ""
+
+#: inc/elements/list.php:77 inc/elements/post-grid.php:106
+#: inc/elements/post-grid.php:122 inc/elements/post-grid.php:444
+#: inc/elements/post-grid.php:463 inc/elements/post-grid.php:482
+#: inc/elements/post-list.php:88 inc/elements/shop/archive-product.php:44
+#: inc/elements/shop/product-classic.php:73
+#: inc/elements/shop/product-classic.php:214
+#: inc/elements/shop/product-classic.php:233
+#: inc/elements/shop/product-classic.php:252
+#: inc/elements/shop/product-related.php:59
+msgid "3 Columns"
+msgstr ""
+
+#: inc/elements/list.php:78 inc/elements/post-grid.php:107
+#: inc/elements/post-grid.php:123 inc/elements/post-grid.php:445
+#: inc/elements/post-grid.php:464 inc/elements/post-grid.php:483
+#: inc/elements/post-list.php:89 inc/elements/shop/archive-product.php:45
+#: inc/elements/shop/product-classic.php:74
+#: inc/elements/shop/product-classic.php:215
+#: inc/elements/shop/product-classic.php:234
+#: inc/elements/shop/product-classic.php:253
+#: inc/elements/shop/product-related.php:60
+msgid "4 Columns"
+msgstr ""
+
+#: inc/elements/list.php:79 inc/elements/post-grid.php:108
+#: inc/elements/post-grid.php:124 inc/elements/post-grid.php:446
+#: inc/elements/post-grid.php:465 inc/elements/post-grid.php:484
+#: inc/elements/post-list.php:90 inc/elements/shop/archive-product.php:46
+#: inc/elements/shop/product-classic.php:75
+#: inc/elements/shop/product-classic.php:216
+#: inc/elements/shop/product-classic.php:235
+#: inc/elements/shop/product-classic.php:254
+#: inc/elements/shop/product-related.php:61
+msgid "5 Columns"
+msgstr ""
+
+#: inc/elements/list.php:80 inc/elements/post-grid.php:109
+#: inc/elements/post-grid.php:125 inc/elements/post-grid.php:447
+#: inc/elements/post-grid.php:466 inc/elements/post-grid.php:485
+#: inc/elements/post-list.php:91 inc/elements/shop/archive-product.php:47
+#: inc/elements/shop/product-classic.php:76
+#: inc/elements/shop/product-classic.php:217
+#: inc/elements/shop/product-classic.php:236
+#: inc/elements/shop/product-classic.php:255
+#: inc/elements/shop/product-related.php:62
+msgid "6 Columns"
+msgstr ""
+
+#: inc/elements/list.php:99 inc/elements/list.php:100
+msgid "List Item"
+msgstr ""
+
+#: inc/elements/list.php:194
+msgid "List Item #1"
+msgstr ""
+
+#: inc/elements/list.php:201
+msgid "List Item #2"
+msgstr ""
+
+#: inc/elements/list.php:208
+msgid "List Item #3"
+msgstr ""
+
+#: inc/elements/list.php:234 inc/elements/login.php:1226
+#: inc/elements/shop/product-add-to-cart.php:419
+#: inc/elements/shop/product-rating.php:105
+#: inc/elements/single/post-info.php:395 inc/elements/single/post-info.php:472
+msgid "Space Between"
+msgstr ""
+
+#: inc/elements/list.php:310
+msgid "Hover background color"
+msgstr ""
+
+#: inc/elements/list.php:370 inc/elements/single/post-info.php:459
+#: inc/elements/single/post-info.php:474
+msgid "Off"
+msgstr ""
+
+#: inc/elements/list.php:371 inc/elements/single/post-info.php:460
+#: inc/elements/single/post-info.php:475
+msgid "On"
+msgstr ""
+
+#: inc/elements/login.php:15 inc/elements/login.php:45
+#: inc/elements/shop/basket.php:40
+msgid "Login"
+msgstr ""
+
+#: inc/elements/login.php:51
+msgid "Skin Before Login"
+msgstr ""
+
+#: inc/elements/login.php:64
+msgid "Enable Register"
+msgstr ""
+
+#: inc/elements/login.php:74
+msgid "Before Login Link"
+msgstr ""
+
+#: inc/elements/login.php:90
+msgid "Skin After Login"
+msgstr ""
+
+#: inc/elements/login.php:103
+msgid "After Login Link"
+msgstr ""
+
+#: inc/elements/login.php:155
+msgid "Before Login Text"
+msgstr ""
+
+#: inc/elements/login.php:157 inc/elements/login.php:165
+#: inc/elements/login.php:217 inc/elements/search.php:167
+#: inc/elements/shop/basket.php:84 inc/elements/tmt-heading.php:50
+#: inc/elements/tmt-heading.php:60 inc/elements/tmt-heading.php:206
+msgid "Type your text here"
+msgstr ""
+
+#: inc/elements/login.php:163
+msgid "After Login Text"
+msgstr ""
+
+#: inc/elements/login.php:205
+msgid "Drop Down After Login"
+msgstr ""
+
+#: inc/elements/login.php:214
+msgid "Text Before Name"
+msgstr ""
+
+#: inc/elements/login.php:216
+msgid "Welcome"
+msgstr ""
+
+#: inc/elements/login.php:229 inc/elements/price.php:130
+msgid "List Title"
+msgstr ""
+
+#: inc/elements/login.php:267
+msgid "Bills"
+msgstr ""
+
+#: inc/elements/login.php:281
+msgid "Support"
+msgstr ""
+
+#: inc/elements/login.php:294
+msgid "Show Logout"
+msgstr ""
+
+#: inc/elements/login.php:315 inc/elements/search.php:226
+#: inc/elements/shop/basket.php:142
+msgid "DropDown Width"
+msgstr ""
+
+#: inc/elements/login.php:392 inc/elements/single/comments.php:48
+#: inc/elements/single/comments.php:56
+msgid "Form Style"
+msgstr ""
+
+#: inc/elements/login.php:427
+msgid "Label Options"
+msgstr ""
+
+#: inc/elements/login.php:435
+msgid "Label Space"
+msgstr ""
+
+#: inc/elements/login.php:471 inc/elements/login.php:628
+msgid "Input Options"
+msgstr ""
+
+#: inc/elements/login.php:551 inc/elements/login.php:655
+msgid "Submit Options"
+msgstr ""
+
+#: inc/elements/login.php:691 inc/elements/shop/basket.php:416
+#: inc/elements/shop/shop-elements.php:383
+#: inc/elements/shop/shop-elements.php:708
+#: inc/elements/shop/shop-elements.php:1161
+#: inc/elements/shop/shop-elements.php:1321
+msgid "Button Style"
+msgstr ""
+
+#: inc/elements/login.php:699 inc/elements/login.php:1204
+#: inc/elements/search.php:722 inc/elements/shop/basket.php:424
+msgid "Icon Space"
+msgstr ""
+
+#: inc/elements/login.php:769 inc/elements/login.php:855
+#: inc/elements/post-carousel.php:573 inc/elements/post-carousel.php:600
+#: inc/elements/post-grid.php:1106 inc/elements/post-grid.php:1137
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/elements/login.php:802 inc/elements/login.php:894
+msgid "Icon Box Shadow"
+msgstr ""
+
+#: inc/elements/login.php:820
+msgid "Icon Border Radius"
+msgstr ""
+
+#: inc/elements/login.php:879
+msgid "Icon Border Color"
+msgstr ""
+
+#: inc/elements/login.php:960
+msgid "Drop Down After Login Style"
+msgstr ""
+
+#: inc/elements/login.php:970
+msgid "Header Options"
+msgstr ""
+
+#: inc/elements/login.php:986
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/elements/login.php:1000
+msgid "Text Header Color"
+msgstr ""
+
+#: inc/elements/login.php:1014
+msgid "Avatar Size"
+msgstr ""
+
+#: inc/elements/login.php:1032
+msgid "Avatar Space"
+msgstr ""
+
+#: inc/elements/login.php:1097 inc/elements/single/comments.php:567
+msgid "Main Options"
+msgstr ""
+
+#: inc/elements/login.php:1279
+msgid "Register Style"
+msgstr ""
+
+#: inc/elements/login.php:1447
+msgid "Register"
+msgstr ""
+
+#: inc/elements/login.php:1462
+msgid "Log Out"
+msgstr ""
+
+#: inc/elements/member.php:13 inc/elements/member.php:190
+msgid "Member"
+msgstr ""
+
+#: inc/elements/member.php:38
+msgid "Member Style"
+msgstr ""
+
+#: inc/elements/member.php:42 inc/elements/post-grid.php:52
+#: inc/elements/post-grid.php:305 inc/elements/single/comments.php:60
+msgid "Style One"
+msgstr ""
+
+#: inc/elements/member.php:43 inc/elements/post-grid.php:53
+#: inc/elements/single/comments.php:61
+msgid "Style Two"
+msgstr ""
+
+#: inc/elements/member.php:44 inc/elements/post-grid.php:54
+#: inc/elements/single/comments.php:62
+msgid "Style Three"
+msgstr ""
+
+#: inc/elements/member.php:45 inc/elements/single/comments.php:63
+msgid "Style Four"
+msgstr ""
+
+#: inc/elements/member.php:52 inc/elements/testimonial.php:61
+msgid "Choose Photo"
+msgstr ""
+
+#: inc/elements/member.php:66 inc/elements/testimonial.php:74
+#: inc/elements/whatsapp.php:69 inc/elements/whatsapp.php:181
+msgid "Ali Amini"
+msgstr ""
+
+#: inc/elements/member.php:67
+msgid "Member Name"
+msgstr ""
+
+#: inc/elements/member.php:75 inc/elements/member.php:472
+#: inc/elements/whatsapp.php:75
+msgid "Role"
+msgstr ""
+
+#: inc/elements/member.php:77
+msgid "Managing Director"
+msgstr ""
+
+#: inc/elements/member.php:78
+msgid "Member Role"
+msgstr ""
+
+#: inc/elements/member.php:88
+msgid ""
+"Type here some info about this team member, the man very important person of "
+"our company."
+msgstr ""
+
+#: inc/elements/member.php:89
+msgid "Member Description"
+msgstr ""
+
+#: inc/elements/member.php:98 inc/elements/member.php:550
+msgid "Social Icon"
+msgstr ""
+
+#: inc/elements/member.php:116
+msgid "http://www.facebook.com/test/"
+msgstr ""
+
+#: inc/elements/member.php:123 inc/elements/single/post-info.php:331
+msgid "Choose Icon"
+msgstr ""
+
+#: inc/elements/member.php:135
+msgid "Icon Background"
+msgstr ""
+
+#: inc/elements/member.php:161
+msgid "https://www.facebook.com/test/"
+msgstr ""
+
+#: inc/elements/member.php:166
+msgid "https://www.twitter.com/test/"
+msgstr ""
+
+#: inc/elements/member.php:171
+msgid "https://www.instagram.com/themento.net/"
+msgstr ""
+
+#: inc/elements/member.php:176
+msgid "https://www.telegram.me/test/"
+msgstr ""
+
+#: inc/elements/member.php:201
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/elements/member.php:262 inc/elements/shop/product.php:374
+msgid "Description Padding"
+msgstr ""
+
+#: inc/elements/member.php:344
+msgid "Image Padding"
+msgstr ""
+
+#: inc/elements/member.php:355
+msgid "Image Margin"
+msgstr ""
+
+#: inc/elements/member.php:558
+msgid "Icons Background"
+msgstr ""
+
+#: inc/elements/member.php:636
+msgid "Top Border Color"
+msgstr ""
+
+#: inc/elements/navbar.php:16 inc/elements/navbar.php:53
+#: inc/elements/navbar.php:340
+msgid "Navbar"
+msgstr ""
+
+#: inc/elements/navbar.php:34 inc/elements/navbar.php:60
+msgid "Select Menu"
+msgstr ""
+
+#: inc/elements/navbar.php:127
+msgid "Menu Height"
+msgstr ""
+
+#: inc/elements/navbar.php:145
+msgid "Submenu Icon"
+msgstr ""
+
+#: inc/elements/navbar.php:197
+msgid "Item Alignment"
+msgstr ""
+
+#: inc/elements/navbar.php:221
+msgid "Dropdown Padding"
+msgstr ""
+
+#: inc/elements/navbar.php:240
+msgid "Dropdown Width"
+msgstr ""
+
+#: inc/elements/navbar.php:262
+msgid "Dropdown Offset"
+msgstr ""
+
+#: inc/elements/navbar.php:283
+msgid "Dropdown Animation"
+msgstr ""
+
+#: inc/elements/navbar.php:292
+msgid "2D Bottom"
+msgstr ""
+
+#: inc/elements/navbar.php:300
+msgid "Dropdown Submenu Offset"
+msgstr ""
+
+#: inc/elements/navbar.php:321
+msgid "Dropdown SubMenu Animation"
+msgstr ""
+
+#: inc/elements/navbar.php:374
+msgid "Gap"
+msgstr ""
+
+#: inc/elements/navbar.php:422 inc/elements/navbar.php:494
+#: inc/elements/navbar.php:562 inc/elements/navbar.php:696
+#: inc/elements/navbar.php:764 inc/elements/navbar.php:830
+msgid "Drop Down Icon Color"
+msgstr ""
+
+#: inc/elements/navbar.php:577 inc/elements/navbar.php:846
+msgid "Drop Down Icon"
+msgstr ""
+
+#: inc/elements/navbar.php:585 inc/elements/navbar.php:854
+msgid "Offset"
+msgstr ""
+
+#: inc/elements/navbar.php:885
+msgid "Responsive"
+msgstr ""
+
+#: inc/elements/navbar.php:892 inc/elements/search.php:48
+msgid "Skin"
+msgstr ""
+
+#: inc/elements/navbar.php:896
+msgid "Fix"
+msgstr ""
+
+#: inc/elements/navbar.php:897
+msgid "Under Bottom"
+msgstr ""
+
+#: inc/elements/navbar.php:905
+msgid "Open Position"
+msgstr ""
+
+#: inc/elements/navbar.php:948
+msgid "Open Sub Menu"
+msgstr ""
+
+#: inc/elements/navbar.php:957 inc/elements/navbar.php:1233
+msgid "Icon Setting"
+msgstr ""
+
+#: inc/elements/navbar.php:965
+msgid "Icon Alignment"
+msgstr ""
+
+#: inc/elements/navbar.php:1074
+msgid "Menu Setting"
+msgstr ""
+
+#: inc/elements/navbar.php:1083
+msgid "Background Color Menu"
+msgstr ""
+
+#: inc/elements/navbar.php:1155
+msgid "Sub Menu"
+msgstr ""
+
+#: inc/elements/navbar.php:1253
+msgid "Background Icon Color"
+msgstr ""
+
+#: inc/elements/post-carousel.php:14
+msgid "Post Carousel"
+msgstr ""
+
+#: inc/elements/post-carousel.php:38 inc/elements/post-grid.php:42
+#: inc/elements/post-grid.php:579 inc/elements/post-list.php:38
+msgid "Post Settings"
+msgstr ""
+
+#: inc/elements/post-carousel.php:44 inc/elements/post-grid.php:62
+#: inc/elements/post-list.php:44 inc/elements/shop/product-classic.php:39
+msgid "Post Type"
+msgstr ""
+
+#: inc/elements/post-carousel.php:82 inc/elements/post-grid.php:136
+#: inc/elements/post-list.php:106 inc/elements/shop/product-classic.php:87
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/elements/post-carousel.php:90 inc/elements/post-grid.php:148
+#: inc/elements/post-list.php:115 inc/elements/shop/product-classic.php:95
+#: inc/elements/shop/product-related.php:102 inc/elements/shop/product.php:233
+msgid "Order"
+msgstr ""
+
+#: inc/elements/post-carousel.php:93 inc/elements/post-grid.php:151
+#: inc/elements/post-list.php:118 inc/elements/shop/product-classic.php:98
+#: inc/elements/shop/product.php:238
+msgid "Ascending"
+msgstr ""
+
+#: inc/elements/post-carousel.php:94 inc/elements/post-grid.php:152
+#: inc/elements/post-list.php:119 inc/elements/shop/product-classic.php:99
+#: inc/elements/shop/product.php:237
+msgid "Descending"
+msgstr ""
+
+#: inc/elements/post-carousel.php:133 inc/elements/post-grid.php:183
+#: inc/elements/post-list.php:161
+msgid "Image Fit"
+msgstr ""
+
+#: inc/elements/post-carousel.php:137 inc/elements/post-grid.php:187
+#: inc/elements/post-list.php:165 inc/elements/single/thumbnail.php:55
+msgid "Cover"
+msgstr ""
+
+#: inc/elements/post-carousel.php:138 inc/elements/post-grid.php:188
+#: inc/elements/post-list.php:166 inc/elements/single/thumbnail.php:56
+msgid "Contain"
+msgstr ""
+
+#: inc/elements/post-carousel.php:140 inc/elements/post-grid.php:190
+#: inc/elements/post-list.php:168 inc/elements/single/thumbnail.php:58
+msgid "Scale Down"
+msgstr ""
+
+#: inc/elements/post-carousel.php:151
+msgid "Enable Light Box Icon"
+msgstr ""
+
+#: inc/elements/post-carousel.php:160
+msgid "Enable Link Icon"
+msgstr ""
+
+#: inc/elements/post-carousel.php:169
+msgid "Enable Full Link"
+msgstr ""
+
+#: inc/elements/post-carousel.php:181
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/elements/post-carousel.php:187 inc/elements/post-carousel.php:618
+#: inc/elements/post-grid.php:514 inc/elements/shop/product-classic.php:284
+#: inc/elements/slider.php:459 inc/elements/slider.php:941
+#: inc/elements/testimonial.php:178 inc/elements/testimonial.php:698
+msgid "Navigation"
+msgstr ""
+
+#: inc/elements/post-carousel.php:191 inc/elements/post-grid.php:518
+#: inc/elements/shop/product-classic.php:288 inc/elements/slider.php:463
+#: inc/elements/testimonial.php:182
+msgid "Arrows and Dots"
+msgstr ""
+
+#: inc/elements/post-carousel.php:192 inc/elements/post-carousel.php:628
+#: inc/elements/post-grid.php:519 inc/elements/shop/product-classic.php:289
+#: inc/elements/slider.php:464 inc/elements/slider.php:951
+#: inc/elements/testimonial.php:183 inc/elements/testimonial.php:708
+msgid "Arrows"
+msgstr ""
+
+#: inc/elements/post-carousel.php:193 inc/elements/post-carousel.php:788
+#: inc/elements/post-grid.php:520 inc/elements/shop/product-classic.php:290
+#: inc/elements/slider.php:465 inc/elements/slider.php:1111
+#: inc/elements/testimonial.php:184 inc/elements/testimonial.php:821
+msgid "Dots"
+msgstr ""
+
+#: inc/elements/post-carousel.php:201 inc/elements/post-grid.php:528
+#: inc/elements/shop/product-classic.php:298 inc/elements/slider.php:473
+#: inc/elements/testimonial.php:192
+msgid "Pause on Hover"
+msgstr ""
+
+#: inc/elements/post-carousel.php:209 inc/elements/post-grid.php:536
+#: inc/elements/shop/product-classic.php:306 inc/elements/slider.php:481
+#: inc/elements/testimonial.php:200
+msgid "Autoplay"
+msgstr ""
+
+#: inc/elements/post-carousel.php:217 inc/elements/post-grid.php:552
+#: inc/elements/shop/product-classic.php:322 inc/elements/slider.php:489
+#: inc/elements/testimonial.php:208
+msgid "Autoplay Speed"
+msgstr ""
+
+#: inc/elements/post-carousel.php:231 inc/elements/post-grid.php:560
+#: inc/elements/shop/product-classic.php:330 inc/elements/slider.php:503
+#: inc/elements/testimonial.php:222
+msgid "Infinite Loop"
+msgstr ""
+
+#: inc/elements/post-carousel.php:239 inc/elements/post-grid.php:568
+#: inc/elements/shop/product-classic.php:338
+msgid "Center Mode"
+msgstr ""
+
+#: inc/elements/post-carousel.php:247 inc/elements/post-list.php:200
+msgid "Show Title"
+msgstr ""
+
+#: inc/elements/post-carousel.php:268
+msgid "Post Carousel Style"
+msgstr ""
+
+#: inc/elements/post-carousel.php:300 inc/elements/post-grid.php:748
+msgid "Hover Post Background Color"
+msgstr ""
+
+#: inc/elements/post-carousel.php:339 inc/elements/post-grid.php:770
+#: inc/elements/post-list.php:697
+msgid "Title Style"
+msgstr ""
+
+#: inc/elements/post-carousel.php:353 inc/elements/post-grid.php:800
+#: inc/elements/post-list.php:747
+msgid "Title Alignment"
+msgstr ""
+
+#: inc/elements/post-carousel.php:403 inc/elements/post-grid.php:881
+msgid "Title Width"
+msgstr ""
+
+#: inc/elements/post-carousel.php:439 inc/elements/post-carousel.php:472
+#: inc/elements/post-grid.php:943 inc/elements/post-grid.php:978
+msgid "Title Background"
+msgstr ""
+
+#: inc/elements/post-carousel.php:514
+msgid "Icons"
+msgstr ""
+
+#: inc/elements/post-carousel.php:639 inc/elements/post-grid.php:1678
+#: inc/elements/shop/product-classic.php:1312 inc/elements/slider.php:962
+#: inc/elements/testimonial.php:719
+msgid "Right Arrow"
+msgstr ""
+
+#: inc/elements/post-carousel.php:653 inc/elements/post-grid.php:1692
+#: inc/elements/shop/product-classic.php:1326 inc/elements/slider.php:976
+#: inc/elements/testimonial.php:730
+msgid "Left Arrow"
+msgstr ""
+
+#: inc/elements/post-carousel.php:667 inc/elements/slider.php:990
+#: inc/elements/testimonial.php:741
+msgid "Arrows Size"
+msgstr ""
+
+#: inc/elements/post-carousel.php:799 inc/elements/post-grid.php:1867
+#: inc/elements/shop/product-classic.php:1471 inc/elements/slider.php:1122
+#: inc/elements/testimonial.php:832
+msgid "Dots Position"
+msgstr ""
+
+#: inc/elements/post-carousel.php:861 inc/elements/post-grid.php:1929
+#: inc/elements/shop/product-classic.php:1533 inc/elements/slider.php:1184
+#: inc/elements/testimonial.php:889
+msgid "Dots Color"
+msgstr ""
+
+#: inc/elements/post-carousel.php:875 inc/elements/slider.php:1198
+msgid "Active Dot Color"
+msgstr ""
+
+#: inc/elements/post-grid.php:14
+msgid "Post Grid"
+msgstr ""
+
+#: inc/elements/post-grid.php:48
+msgid "Post Style"
+msgstr ""
+
+#: inc/elements/post-grid.php:55
+msgid "style four"
+msgstr ""
+
+#: inc/elements/post-grid.php:201 inc/elements/post-list.php:327
+#: inc/elements/shop/product-classic.php:167
+msgid "Show Pagination"
+msgstr ""
+
+#: inc/elements/post-grid.php:213 inc/elements/post-list.php:180
+msgid "Show Icon"
+msgstr ""
+
+#: inc/elements/post-grid.php:232
+msgid "Show excerpt"
+msgstr ""
+
+#: inc/elements/post-grid.php:254
+msgid "Excerpt Words"
+msgstr ""
+
+#: inc/elements/post-grid.php:266
+msgid "Show Read More"
+msgstr ""
+
+#: inc/elements/post-grid.php:288
+msgid "Read More Text"
+msgstr ""
+
+#: inc/elements/post-grid.php:300
+msgid "Animation Style"
+msgstr ""
+
+#: inc/elements/post-grid.php:304
+msgid "none"
+msgstr ""
+
+#: inc/elements/post-grid.php:315 inc/elements/post-list.php:233
+msgid "Show Meta"
+msgstr ""
+
+#: inc/elements/post-grid.php:337 inc/elements/post-list.php:252
+msgid "Meta Post"
+msgstr ""
+
+#: inc/elements/post-grid.php:343 inc/elements/post-list.php:258
+#: inc/elements/single/post-info.php:76
+msgid "Author"
+msgstr ""
+
+#: inc/elements/post-grid.php:344 inc/elements/post-list.php:259
+#: inc/elements/shop/product-classic.php:157
+#: inc/elements/shop/product-related.php:88 inc/elements/shop/product.php:222
+#: inc/elements/single/post-info.php:77
+msgid "Date"
+msgstr ""
+
+#: inc/elements/post-grid.php:345 inc/elements/post-list.php:260
+#: inc/elements/single/post-info.php:78
+msgid "Time"
+msgstr ""
+
+#: inc/elements/post-grid.php:346 inc/elements/post-list.php:261
+#: inc/elements/single/comments.php:15 inc/elements/single/post-info.php:79
+#: inc/elements/single/post-info.php:259
+msgid "Comments"
+msgstr ""
+
+#: inc/elements/post-grid.php:357 inc/elements/post-grid.php:371
+#: inc/elements/post-list.php:271 inc/elements/post-list.php:285
+msgid "Icon Date"
+msgstr ""
+
+#: inc/elements/post-grid.php:385 inc/elements/post-list.php:299
+msgid "Icon Author"
+msgstr ""
+
+#: inc/elements/post-grid.php:399 inc/elements/post-list.php:313
+msgid "Icon Comments"
+msgstr ""
+
+#: inc/elements/post-grid.php:413 inc/elements/shop/product-classic.php:184
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/elements/post-grid.php:429 inc/elements/shop/product-classic.php:199
+#: inc/elements/slider.php:14
+msgid "Slider"
+msgstr ""
+
+#: inc/elements/post-grid.php:458 inc/elements/shop/product-classic.php:228
+msgid "Columns Tablet"
+msgstr ""
+
+#: inc/elements/post-grid.php:477 inc/elements/shop/product-classic.php:247
+msgid "Columns Mobile"
+msgstr ""
+
+#: inc/elements/post-grid.php:497 inc/elements/shop/product-classic.php:267
+msgid "slides To Scroll"
+msgstr ""
+
+#: inc/elements/post-grid.php:544 inc/elements/shop/product-classic.php:314
+msgid "Speed"
+msgstr ""
+
+#: inc/elements/post-grid.php:594
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/elements/post-grid.php:606
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/elements/post-grid.php:615
+msgid "Post Grid Style"
+msgstr ""
+
+#: inc/elements/post-grid.php:622
+msgid "Post Grid Height"
+msgstr ""
+
+#: inc/elements/post-grid.php:777
+msgid "Title Position"
+msgstr ""
+
+#: inc/elements/post-grid.php:781
+msgid "In Thumbnail"
+msgstr ""
+
+#: inc/elements/post-grid.php:782
+msgid "Out Thumbnail"
+msgstr ""
+
+#: inc/elements/post-grid.php:906
+msgid "Title Space"
+msgstr ""
+
+#: inc/elements/post-grid.php:1157 inc/elements/post-list.php:898
+#: inc/elements/shop/archive-product.php:987
+#: inc/elements/shop/product-classic.php:1149
+msgid "Pagination"
+msgstr ""
+
+#: inc/elements/post-grid.php:1167 inc/elements/post-list.php:908
+#: inc/elements/shop/archive-product.php:994
+#: inc/elements/shop/product-classic.php:1159
+msgid "Pagination Alignment"
+msgstr ""
+
+#: inc/elements/post-grid.php:1195 inc/elements/post-grid.php:1230
+#: inc/elements/post-list.php:936 inc/elements/post-list.php:971
+#: inc/elements/shop/archive-product.php:1022
+#: inc/elements/shop/archive-product.php:1057
+#: inc/elements/shop/product-classic.php:1187
+#: inc/elements/shop/product-classic.php:1222
+msgid "Pagination Number Color"
+msgstr ""
+
+#: inc/elements/post-grid.php:1207 inc/elements/post-grid.php:1242
+#: inc/elements/post-list.php:948 inc/elements/post-list.php:983
+#: inc/elements/shop/archive-product.php:1034
+#: inc/elements/shop/archive-product.php:1069
+#: inc/elements/shop/product-classic.php:1199
+#: inc/elements/shop/product-classic.php:1234
+msgid "Pagination Background Color"
+msgstr ""
+
+#: inc/elements/post-grid.php:1276 inc/elements/post-list.php:1017
+#: inc/elements/shop/product-classic.php:1268
+msgid "Pagination Size"
+msgstr ""
+
+#: inc/elements/post-grid.php:1299 inc/elements/post-list.php:806
+msgid "Meta Style"
+msgstr ""
+
+#: inc/elements/post-grid.php:1310
+msgid "Meta Text Color"
+msgstr ""
+
+#: inc/elements/post-grid.php:1321
+msgid "background color"
+msgstr ""
+
+#: inc/elements/post-grid.php:1332
+msgid "Meta Icon Color"
+msgstr ""
+
+#: inc/elements/post-grid.php:1349
+msgid "Meta Text Size"
+msgstr ""
+
+#: inc/elements/post-grid.php:1403
+msgid "Mata Tag Position"
+msgstr ""
+
+#: inc/elements/post-grid.php:1418
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/elements/post-grid.php:1499
+msgid "padding"
+msgstr ""
+
+#: inc/elements/post-grid.php:1657 inc/elements/shop/product-classic.php:1291
+msgid "Slider Style"
+msgstr ""
+
+#: inc/elements/post-grid.php:1667 inc/elements/shop/product-classic.php:1301
+msgid "Arrows Style"
+msgstr ""
+
+#: inc/elements/post-grid.php:1809
+msgid "Border Hover Radius"
+msgstr ""
+
+#: inc/elements/post-grid.php:1856 inc/elements/shop/product-classic.php:1460
+msgid "Dots Style"
+msgstr ""
+
+#: inc/elements/post-grid.php:1943 inc/elements/shop/product-classic.php:1547
+msgid "Active Dots Color"
+msgstr ""
+
+#: inc/elements/post-grid.php:2043 inc/elements/slider.php:1302
+msgid "Style Outline"
+msgstr ""
+
+#: inc/elements/post-grid.php:2228
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/elements/post-grid.php:2234
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/elements/post-list.php:14
+msgid "Post List"
+msgstr ""
+
+#: inc/elements/post-list.php:341
+msgid "Post list Style"
+msgstr ""
+
+#: inc/elements/post-list.php:407
+msgid "Padding Info"
+msgstr ""
+
+#: inc/elements/post-list.php:828
+msgid "Hover Text Color"
+msgstr ""
+
+#: inc/elements/post-list.php:852
+msgid "Hover Icon Color"
+msgstr ""
+
+#: inc/elements/price.php:14
+msgid "Price Table"
+msgstr ""
+
+#: inc/elements/price.php:38 inc/elements/price.php:333
+msgid "Header"
+msgstr ""
+
+#: inc/elements/price.php:99 inc/elements/price.php:188
+#: inc/elements/price.php:198 inc/elements/price.php:224
+msgid "Default title"
+msgstr ""
+
+#: inc/elements/price.php:100
+msgid "Type your title here"
+msgstr ""
+
+#: inc/elements/price.php:107 inc/elements/price.php:594
+msgid "Sub Title"
+msgstr ""
+
+#: inc/elements/price.php:109
+msgid "Type your sub title here"
+msgstr ""
+
+#: inc/elements/price.php:179 inc/elements/price.php:746
+msgid "Footer"
+msgstr ""
+
+#: inc/elements/price.php:186 inc/elements/price.php:817
+msgid "Before Button"
+msgstr ""
+
+#: inc/elements/price.php:189
+msgid "Type your before button here"
+msgstr ""
+
+#: inc/elements/price.php:196
+msgid "Text Button"
+msgstr ""
+
+#: inc/elements/price.php:199
+msgid "Type your text button here"
+msgstr ""
+
+#: inc/elements/price.php:222 inc/elements/price.php:866
+msgid "After Button"
+msgstr ""
+
+#: inc/elements/price.php:225
+msgid "Type your after button here"
+msgstr ""
+
+#: inc/elements/price.php:581
+msgid "Title Hover Color"
+msgstr ""
+
+#: inc/elements/price.php:607
+msgid "Sub Title Typography"
+msgstr ""
+
+#: inc/elements/price.php:617
+msgid "Sub Title Color"
+msgstr ""
+
+#: inc/elements/price.php:630
+msgid "Sub Title Hover Color"
+msgstr ""
+
+#: inc/elements/price.php:829
+msgid "Before Button Typography"
+msgstr ""
+
+#: inc/elements/price.php:839
+msgid "Before Color"
+msgstr ""
+
+#: inc/elements/price.php:852
+msgid "Before Hover Color"
+msgstr ""
+
+#: inc/elements/price.php:878
+msgid "After Button Typography"
+msgstr ""
+
+#: inc/elements/price.php:888
+msgid "After Color"
+msgstr ""
+
+#: inc/elements/price.php:901
+msgid "After Hover Color"
+msgstr ""
+
+#: inc/elements/scroll-to-top.php:15
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/elements/scroll-to-top.php:77
+msgid "Position Type"
+msgstr ""
+
+#: inc/elements/scroll-to-top.php:81
+msgid "Static"
+msgstr ""
+
+#: inc/elements/scroll-to-top.php:82
+msgid "Floating"
+msgstr ""
+
+#: inc/elements/search.php:15 inc/elements/search.php:42
+msgid "Search Form"
+msgstr ""
+
+#: inc/elements/search.php:65 inc/elements/search.php:87
+#: inc/mj-wp-breadcrumb.php:117
+msgid "Search"
+msgstr ""
+
+#: inc/elements/search.php:156 inc/elements/search.php:711
+msgid "Button Dropdown"
+msgstr ""
+
+#: inc/elements/search.php:339
+msgid "Input Form"
+msgstr ""
+
+#: inc/elements/search.php:537
+msgid "Button Form"
+msgstr ""
+
+#: inc/elements/shop/archive-description.php:15
+msgid "Woo Archive Description"
+msgstr ""
+
+#: inc/elements/shop/archive-product.php:10
+msgid "Archive Product"
+msgstr ""
+
+#: inc/elements/shop/archive-product.php:31
+#: inc/elements/shop/product-classic.php:32
+#: inc/elements/shop/product-related.php:46
+msgid "product Settings"
+msgstr ""
+
+#: inc/elements/shop/archive-product.php:64
+#: inc/elements/shop/product-classic.php:356
+#: inc/elements/shop/product-related.php:210 inc/elements/shop/product.php:43
+msgid "Column Gap"
+msgstr ""
+
+#: inc/elements/shop/archive-product.php:84
+#: inc/elements/shop/product-classic.php:376
+#: inc/elements/shop/product-related.php:230 inc/elements/shop/product.php:64
+msgid "Row Gap"
+msgstr ""
+
+#: inc/elements/shop/archive-product.php:162
+#: inc/elements/shop/product-classic.php:454
+#: inc/elements/shop/product-related.php:308 inc/elements/shop/product.php:362
+msgid "Item Padding"
+msgstr ""
+
+#: inc/elements/shop/archive-product.php:222
+msgid "Sort By"
+msgstr ""
+
+#: inc/elements/shop/archive-product.php:251
+#: inc/elements/shop/archive-product.php:337
+msgid "Bachground Color"
+msgstr ""
+
+#: inc/elements/shop/archive-product.php:477
+#: inc/elements/shop/product-classic.php:176
+#: inc/elements/shop/product-classic.php:636
+#: inc/elements/shop/product-related.php:92
+#: inc/elements/shop/product-related.php:490 inc/elements/shop/product.php:273
+#: inc/elements/shop/product.php:532
+msgid "Rating"
+msgstr ""
+
+#: inc/elements/shop/archive-product.php:497
+#: inc/elements/shop/product-classic.php:659
+#: inc/elements/shop/product-related.php:510 inc/elements/shop/product.php:555
+msgid "Active Color"
+msgstr ""
+
+#: inc/elements/shop/archive-product.php:612
+#: inc/elements/shop/product-classic.php:774
+#: inc/elements/shop/product-price.php:101
+#: inc/elements/shop/product-related.php:625
+msgid "Price Del"
+msgstr ""
+
+#: inc/elements/shop/basket.php:15
+msgid "Basket Shop"
+msgstr ""
+
+#: inc/elements/shop/basket.php:121
+msgid "Show Count Cart"
+msgstr ""
+
+#: inc/elements/shop/basket.php:267
+msgid "Total Price"
+msgstr ""
+
+#: inc/elements/shop/basket.php:287
+msgid "Buttons"
+msgstr ""
+
+#: inc/elements/shop/basket.php:588
+msgid "Card Number Options"
+msgstr ""
+
+#: inc/elements/shop/basket.php:618
+msgid "Card Count Position"
+msgstr ""
+
+#: inc/elements/shop/product-add-to-cart.php:15
+msgid "Add To Cart"
+msgstr ""
+
+#: inc/elements/shop/product-add-to-cart.php:216
+msgid "Quantity"
+msgstr ""
+
+#: inc/elements/shop/product-add-to-cart.php:385
+msgid "Variations"
+msgstr ""
+
+#: inc/elements/shop/product-add-to-cart.php:458
+msgid "Select field"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:10
+msgid "Product Classic"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:43 inc/elements/shop/product.php:10
+msgid "Product"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:44
+msgid "Cross Sells"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:53 inc/elements/shop/product.php:186
+msgid "Show Product"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:57 inc/elements/shop/product.php:190
+msgid "All Products"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:58 inc/elements/shop/product.php:191
+msgid "On Sale"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:59 inc/elements/shop/product.php:192
+msgid "Featured"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:114
+#: inc/elements/shop/product-meta.php:89 inc/elements/shop/product-meta.php:322
+#: inc/elements/shop/product.php:151
+msgid "Categories"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:125 inc/elements/shop/product.php:166
+msgid "Exclude Product(s)"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:129 inc/elements/shop/product.php:170
+msgid ""
+"Write product id here, if you want to exclude multiple products so use comma "
+"as separator. Such as 1 , 2"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:136 inc/elements/shop/product.php:201
+msgid "Hide Free"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:145 inc/elements/shop/product.php:210
+msgid "Hide Out of Stock"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:153 inc/elements/shop/product.php:218
+msgid "Order by"
+msgstr ""
+
+#: inc/elements/shop/product-classic.php:159 inc/elements/shop/product.php:224
+msgid "Sales"
+msgstr ""
+
+#: inc/elements/shop/product-data-tabs.php:15
+msgid "Product Data Tabs"
+msgstr ""
+
+#: inc/elements/shop/product-data-tabs.php:35 inc/elements/tabs.php:14
+msgid "Tabs"
+msgstr ""
+
+#: inc/elements/shop/product-data-tabs.php:164
+msgid "Panel"
+msgstr ""
+
+#: inc/elements/shop/product-images.php:14
+msgid "Product Images"
+msgstr ""
+
+#: inc/elements/shop/product-images.php:45
+msgid "Sale Flash"
+msgstr ""
+
+#: inc/elements/shop/product-images.php:94
+msgid "Thumbnails"
+msgstr ""
+
+#: inc/elements/shop/product-images.php:135
+msgid "Onsale"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:15
+msgid "Product Meta"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:36
+msgid "Show SKU"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:45
+msgid "Show Category"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:54
+msgid "Show Tag"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:64 inc/elements/shop/product-meta.php:77
+#: inc/elements/shop/product-meta.php:321
+msgid "Category"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:75 inc/elements/shop/product-meta.php:111
+msgid "Singular"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:87 inc/elements/shop/product-meta.php:123
+msgid "Plural"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:99 inc/elements/shop/product-meta.php:113
+#: inc/elements/shop/product-meta.php:329
+msgid "Tag"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:125
+#: inc/elements/shop/product-meta.php:330
+msgid "Tags"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:135
+#: inc/elements/shop/product-meta.php:147
+#: inc/elements/shop/product-meta.php:149
+#: inc/elements/shop/product-meta.php:314
+msgid "SKU"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:159
+msgid "Missing"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:161
+#: inc/elements/shop/product-meta.php:315
+msgid "N/A"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:184
+msgid "Vertical"
+msgstr ""
+
+#: inc/elements/shop/product-meta.php:185
+msgid "Horizontal"
+msgstr ""
+
+#: inc/elements/shop/product-price.php:14
+msgid "Product Price"
+msgstr ""
+
+#: inc/elements/shop/product-rating.php:15
+msgid "Product Rating"
+msgstr ""
+
+#: inc/elements/shop/product-rating.php:43
+msgid "Star Color"
+msgstr ""
+
+#: inc/elements/shop/product-rating.php:54
+msgid "Empty Star Color"
+msgstr ""
+
+#: inc/elements/shop/product-rating.php:84
+msgid "Star Size"
+msgstr ""
+
+#: inc/elements/shop/product-related.php:15
+msgid "Product Related"
+msgstr ""
+
+#: inc/elements/shop/product-related.php:70
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/elements/shop/product-related.php:91
+msgid "Popularity"
+msgstr ""
+
+#: inc/elements/shop/product-related.php:94
+msgid "Menu Order"
+msgstr ""
+
+#: inc/elements/shop/product-related.php:106
+msgid "ASC"
+msgstr ""
+
+#: inc/elements/shop/product-related.php:107
+msgid "DESC"
+msgstr ""
+
+#: inc/elements/shop/product-related.php:142 inc/elements/slider.php:354
+#: inc/elements/slider.php:658
+msgid "Text Align"
+msgstr ""
+
+#: inc/elements/shop/product-short-description.php:15
+msgid "Short Description"
+msgstr ""
+
+#: inc/elements/shop/product.php:123
+msgid "Query"
+msgstr ""
+
+#: inc/elements/shop/product.php:130
+msgctxt "Posts Query Control"
+msgid "Source"
+msgstr ""
+
+#: inc/elements/shop/product.php:133
+msgid "Show All"
+msgstr ""
+
+#: inc/elements/shop/product.php:134
+msgid "Manual Selection"
+msgstr ""
+
+#: inc/elements/shop/product.php:177
+msgid "Product Limit"
+msgstr ""
+
+#: inc/elements/shop/product.php:255
+msgid "Show Badge"
+msgstr ""
+
+#: inc/elements/shop/product.php:291
+msgid "Add to Cart"
+msgstr ""
+
+#: inc/elements/shop/product.php:624
+msgid "Sale Price"
+msgstr ""
+
+#: inc/elements/shop/product.php:1120
+msgid "Ops! There is no product."
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:15
+msgid "Shop Elements"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:40
+#: inc/elements/shop/shop-elements.php:47
+msgid "Element"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:50
+msgid "Select"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:51
+msgid "Cart Page"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:52
+msgid "Single Product Page"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:53
+msgid "Checkout Page"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:54
+msgid "Order Tracking Form"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:55
+msgid "My Account"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:63
+msgid "Enter Product ID"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:104
+msgid "Required Color"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:137
+#: inc/elements/shop/shop-elements.php:577
+#: inc/elements/shop/shop-elements.php:1058
+msgid "Placeholder Color"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:213
+#: inc/elements/shop/shop-elements.php:631
+msgid "Element Space"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:279
+msgid "Order Table"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:348
+msgid "Payment"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:904
+msgid "Table Heading"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:940
+msgid "Table Content"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:1150
+msgid "Coupon/Update Button"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:1310
+msgid "Checkout Button"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:1470
+msgid "My Account Style"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:1509
+msgid "Please set a valid product"
+msgstr ""
+
+#: inc/elements/shop/shop-elements.php:1537
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: inc/elements/single/before-after.php:15
+msgid "Before & After Post"
+msgstr ""
+
+#: inc/elements/single/before-after.php:47
+msgid "Side Post"
+msgstr ""
+
+#: inc/elements/single/before-after.php:72
+msgid "Before Options"
+msgstr ""
+
+#: inc/elements/single/before-after.php:96
+msgid "Previous Post:"
+msgstr ""
+
+#: inc/elements/single/before-after.php:126
+msgid "After Options"
+msgstr ""
+
+#: inc/elements/single/before-after.php:150
+msgid "Next Post:"
+msgstr ""
+
+#: inc/elements/single/before-after.php:191
+msgid "Text Typography"
+msgstr ""
+
+#: inc/elements/single/breadcrumb.php:15 inc/elements/single/breadcrumb.php:34
+#: inc/elements/single/breadcrumb.php:66
+#: inc/elements/single/yoast-breadcrumb.php:35
+#: inc/elements/single/yoast-breadcrumb.php:92
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/elements/single/comments.php:64
+msgid "Style Five"
+msgstr ""
+
+#: inc/elements/single/comments.php:76
+msgid "Label Style"
+msgstr ""
+
+#: inc/elements/single/comments.php:191
+msgid "Note Style"
+msgstr ""
+
+#: inc/elements/single/comments.php:306
+msgid "Textarea Style"
+msgstr ""
+
+#: inc/elements/single/comments.php:389
+msgid "Input Style"
+msgstr ""
+
+#: inc/elements/single/comments.php:478
+msgid "Submit Style"
+msgstr ""
+
+#: inc/elements/single/comments.php:560
+msgid "Comments Style"
+msgstr ""
+
+#: inc/elements/single/comments.php:639
+msgid "Children Options"
+msgstr ""
+
+#: inc/elements/single/comments.php:704
+msgid "Admin Options"
+msgstr ""
+
+#: inc/elements/single/comments.php:768 inc/elements/single/comments.php:775
+#: inc/elements/single/post-info.php:194
+msgid "Avatar"
+msgstr ""
+
+#: inc/elements/single/comments.php:898
+msgid "Date & Time"
+msgstr ""
+
+#: inc/elements/single/comments.php:984
+msgid "Button Reply"
+msgstr ""
+
+#: inc/elements/single/content.php:103 inc/template-tags.php:71
+msgid "H1"
+msgstr ""
+
+#: inc/elements/single/content.php:111 inc/template-tags.php:72
+msgid "H2"
+msgstr ""
+
+#: inc/elements/single/content.php:119 inc/template-tags.php:73
+msgid "H3"
+msgstr ""
+
+#: inc/elements/single/content.php:127 inc/template-tags.php:74
+msgid "H4"
+msgstr ""
+
+#: inc/elements/single/content.php:135 inc/template-tags.php:75
+msgid "H5"
+msgstr ""
+
+#: inc/elements/single/content.php:143 inc/template-tags.php:76
+msgid "H6"
+msgstr ""
+
+#: inc/elements/single/end-loop.php:15 inc/elements/single/end-loop.php:35
+msgid "End Loop"
+msgstr ""
+
+#: inc/elements/single/end-loop.php:35 inc/elements/single/start-loop.php:35
+msgid "(Do not delete this element)"
+msgstr ""
+
+#: inc/elements/single/post-info.php:15
+msgid "Post Info"
+msgstr ""
+
+#: inc/elements/single/post-info.php:41
+msgid "Meta Data"
+msgstr ""
+
+#: inc/elements/single/post-info.php:80
+msgid "Terms"
+msgstr ""
+
+#: inc/elements/single/post-info.php:89
+msgid "Date Format"
+msgstr ""
+
+#: inc/elements/single/post-info.php:95
+msgctxt "Date Format"
+msgid "March 6, 2018 (F j, Y)"
+msgstr ""
+
+#: inc/elements/single/post-info.php:110
+msgid "Custom Date Format"
+msgstr ""
+
+#: inc/elements/single/post-info.php:120 inc/elements/single/post-info.php:159
+#, php-format
+msgid "Use the letters: %s"
+msgstr ""
+
+#: inc/elements/single/post-info.php:129
+msgid "Time Format"
+msgstr ""
+
+#: inc/elements/single/post-info.php:148
+msgid "Custom Time Format"
+msgstr ""
+
+#: inc/elements/single/post-info.php:168
+msgid "Taxonomy"
+msgstr ""
+
+#: inc/elements/single/post-info.php:219
+msgid "Custom Format"
+msgstr ""
+
+#: inc/elements/single/post-info.php:231 inc/elements/single/post-info.php:234
+#: inc/elements/single/post-info.php:1052
+msgid "No Comments"
+msgstr ""
+
+#: inc/elements/single/post-info.php:245 inc/elements/single/post-info.php:248
+#: inc/elements/single/post-info.php:1053
+msgid "One Comment"
+msgstr ""
+
+#: inc/elements/single/post-info.php:262 inc/elements/single/post-info.php:1054
+#, php-format
+msgid "%s Comments"
+msgstr ""
+
+#: inc/elements/single/post-info.php:300
+msgid "Custom URL"
+msgstr ""
+
+#: inc/elements/single/post-info.php:415
+msgid "Space Vertical"
+msgstr ""
+
+#: inc/elements/single/post-info.php:751
+msgid "Icon Text"
+msgstr ""
+
+#: inc/elements/single/post-info.php:903
+msgid "Indent"
+msgstr ""
+
+#: inc/elements/single/post-info.php:969
+msgid "Choose"
+msgstr ""
+
+#: inc/elements/single/short-link.php:15
+msgid "Short Link"
+msgstr ""
+
+#: inc/elements/single/social-share.php:42
+msgid "Social Share"
+msgstr ""
+
+#: inc/elements/single/social-share.php:94 inc/elements/social-icons.php:42
+#: inc/elements/social-icons.php:94 inc/elements/social-icons.php:278
+msgid "Social Icons"
+msgstr ""
+
+#: inc/elements/single/social-share.php:101
+msgid "Linkedin"
+msgstr ""
+
+#: inc/elements/single/social-share.php:112
+msgid "Pinterest"
+msgstr ""
+
+#: inc/elements/single/social-share.php:123
+msgid "Twitter"
+msgstr ""
+
+#: inc/elements/single/social-share.php:134
+msgid "Google Plus"
+msgstr ""
+
+#: inc/elements/single/social-share.php:145
+msgid "Facebook"
+msgstr ""
+
+#: inc/elements/single/social-share.php:156
+msgid "Mail"
+msgstr ""
+
+#: inc/elements/single/social-share.php:167 inc/elements/whatsapp.php:14
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/elements/single/social-share.php:178
+msgid "Telegram"
+msgstr ""
+
+#: inc/elements/single/start-loop.php:15 inc/elements/single/start-loop.php:35
+msgid "Start Loop"
+msgstr ""
+
+#: inc/elements/single/thumbnail.php:15
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/elements/single/thumbnail.php:51
+msgid "Object Fit"
+msgstr ""
+
+#: inc/elements/single/thumbnail.php:91
+msgid "Default Image"
+msgstr ""
+
+#: inc/elements/single/yoast-breadcrumb.php:15
+msgid "Yoast Breadcrumbs"
+msgstr ""
+
+#: inc/elements/single/yoast-breadcrumb.php:81
+msgid "Additional settings are available in the Yoast SEO"
+msgstr ""
+
+#: inc/elements/single/yoast-breadcrumb.php:81
+msgid "Breadcrumbs Panel"
+msgstr ""
+
+#: inc/elements/slider.php:43 inc/elements/slider.php:394
+#: inc/elements/slider.php:534 inc/elements/testimonial.php:42
+#: inc/elements/testimonial.php:89
+msgid "Slides"
+msgstr ""
+
+#: inc/elements/slider.php:90
+msgctxt "Background Control"
+msgid "Image"
+msgstr ""
+
+#: inc/elements/slider.php:98
+msgctxt "Background Control"
+msgid "Size"
+msgstr ""
+
+#: inc/elements/slider.php:102
+msgctxt "Background Control"
+msgid "None"
+msgstr ""
+
+#: inc/elements/slider.php:103
+msgctxt "Background Control"
+msgid "Cover"
+msgstr ""
+
+#: inc/elements/slider.php:104
+msgctxt "Background Control"
+msgid "Contain"
+msgstr ""
+
+#: inc/elements/slider.php:105
+msgctxt "Background Control"
+msgid "Auto"
+msgstr ""
+
+#: inc/elements/slider.php:119
+msgid "Background Animate"
+msgstr ""
+
+#: inc/elements/slider.php:132
+msgid "Background Animation Type"
+msgstr ""
+
+#: inc/elements/slider.php:147
+msgid "Background Animation Speed"
+msgstr ""
+
+#: inc/elements/slider.php:173
+msgid "Text Animate"
+msgstr ""
+
+#: inc/elements/slider.php:186
+msgid "Text Animation Type"
+msgstr ""
+
+#: inc/elements/slider.php:234
+msgid "Slide Heading"
+msgstr ""
+
+#: inc/elements/slider.php:244 inc/elements/testimonial.php:54
+msgid ""
+"I am slide content. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/elements/slider.php:273
+msgid "Whole Slide"
+msgstr ""
+
+#: inc/elements/slider.php:290
+msgid "Set custom style that will only affect this specific slide."
+msgstr ""
+
+#: inc/elements/slider.php:297 inc/elements/slider.php:601
+msgid "Horizontal Position"
+msgstr ""
+
+#: inc/elements/slider.php:380
+msgid "Content Color"
+msgstr ""
+
+#: inc/elements/slider.php:400
+msgid "Slide 1 Heading"
+msgstr ""
+
+#: inc/elements/slider.php:406
+msgid "Slide 2 Heading"
+msgstr ""
+
+#: inc/elements/slider.php:412
+msgid "Slide 3 Heading"
+msgstr ""
+
+#: inc/elements/slider.php:452 inc/elements/testimonial.php:160
+msgid "Slider Options"
+msgstr ""
+
+#: inc/elements/slider.php:511 inc/elements/testimonial.php:230
+msgid "Transition"
+msgstr ""
+
+#: inc/elements/slider.php:523 inc/elements/testimonial.php:242
+msgid "Transition Speed"
+msgstr ""
+
+#: inc/elements/slider.php:541
+msgid "Content Width"
+msgstr ""
+
+#: inc/elements/social-icons.php:200 inc/elements/social-icons.php:373
+msgid "Official Color"
+msgstr ""
+
+#: inc/elements/social-icons.php:312
+msgid "Rounded"
+msgstr ""
+
+#: inc/elements/svg.php:14
+msgid "Svg Cover"
+msgstr ""
+
+#: inc/elements/svg.php:77
+msgid "SVG Color"
+msgstr ""
+
+#: inc/elements/tabs.php:194
+msgid "Nav"
+msgstr ""
+
+#: inc/elements/tabs.php:202 inc/elements/tabs.php:225
+msgid "Nav Width"
+msgstr ""
+
+#: inc/elements/tag-cloud.php:15
+msgid "Tag Cloud"
+msgstr ""
+
+#: inc/elements/tag-cloud.php:59 inc/elements/whatsapp.php:84
+msgid "Number"
+msgstr ""
+
+#: inc/elements/testimonial.php:14
+msgid "Testimonial"
+msgstr ""
+
+#: inc/elements/testimonial.php:82
+msgid "CEO"
+msgstr ""
+
+#: inc/elements/testimonial.php:95 inc/elements/testimonial.php:100
+#: inc/elements/testimonial.php:105
+msgid "Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr ""
+
+#: inc/elements/testimonial.php:96
+msgid "Ali Amini 1"
+msgstr ""
+
+#: inc/elements/testimonial.php:97
+msgid "CEO 1"
+msgstr ""
+
+#: inc/elements/testimonial.php:101
+msgid "Ali Amini 2"
+msgstr ""
+
+#: inc/elements/testimonial.php:102
+msgid "CEO 2"
+msgstr ""
+
+#: inc/elements/testimonial.php:106
+msgid "Ali Amini 3"
+msgstr ""
+
+#: inc/elements/testimonial.php:107
+msgid "CEO 3"
+msgstr ""
+
+#: inc/elements/testimonial.php:129
+msgid "Image Position"
+msgstr ""
+
+#: inc/elements/testimonial.php:133
+msgid "Right Title"
+msgstr ""
+
+#: inc/elements/testimonial.php:134
+msgid "Left Title"
+msgstr ""
+
+#: inc/elements/testimonial.php:135
+msgid "Top Title"
+msgstr ""
+
+#: inc/elements/testimonial.php:136
+msgid "Bottom Title"
+msgstr ""
+
+#: inc/elements/testimonial.php:137
+msgid "Right Box"
+msgstr ""
+
+#: inc/elements/testimonial.php:138
+msgid "Left Box"
+msgstr ""
+
+#: inc/elements/testimonial.php:145
+msgid "Text Position"
+msgstr ""
+
+#: inc/elements/testimonial.php:167
+msgid "Slides To Scroll"
+msgstr ""
+
+#: inc/elements/testimonial.php:359
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/elements/testimonial.php:843
+msgid "Dots Width"
+msgstr ""
+
+#: inc/elements/testimonial.php:866
+msgid "Dots Height"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:66
+msgid "Sub Heading Tag"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:78
+msgid "Heading Tag"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:93
+msgid "https://www.themento.net/"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:161
+msgid "Between Sub Heading & Heading"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:164
+msgid "Before Heading"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:165
+msgid "After Heading"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:166
+msgid "Before & After Heading"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:218
+msgid "Sub Heading Style"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:236 inc/elements/tmt-heading.php:311
+msgid "Color Style"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:275 inc/elements/tmt-heading.php:350
+msgid "Text Shadow"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:296
+msgid "Heading Style"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:404
+msgid "Separator Options"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:412 inc/elements/tmt-heading.php:681
+msgid "Line Style"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:535
+msgid "Icon Options"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:546
+msgid "Text Options"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:655
+msgid "Second Line"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:670
+msgid "Second Line Options"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:702 inc/elements/tmt-heading.php:735
+msgid "Second Separator Alignment"
+msgstr ""
+
+#: inc/elements/tmt-heading.php:834
+msgid "Position Y"
+msgstr ""
+
+#: inc/elements/video.php:14
+msgid "Aparat"
+msgstr ""
+
+#: inc/elements/video.php:45
+msgid "Aparat ID"
+msgstr ""
+
+#: inc/elements/video.php:47
+msgid "jtTaW"
+msgstr ""
+
+#: inc/elements/video.php:48
+msgid ""
+"Paste the video ID from the address bar For example the video address "
+"https://www.aparat.com/v/jtTaW Just put jtTaW ID"
+msgstr ""
+
+#: inc/elements/whatsapp.php:48
+msgid "Start A Conversation"
+msgstr ""
+
+#: inc/elements/whatsapp.php:56
+msgid "Select a member and chat on WhatsApp"
+msgstr ""
+
+#: inc/elements/whatsapp.php:77 inc/elements/whatsapp.php:182
+msgid "Support Staff"
+msgstr ""
+
+#: inc/elements/whatsapp.php:87
+msgid "Enter the country code before the number."
+msgstr ""
+
+#: inc/elements/whatsapp.php:94
+msgid "Default Text In WhatsApp"
+msgstr ""
+
+#: inc/elements/whatsapp.php:96
+msgid "Hello Good Morning"
+msgstr ""
+
+#: inc/elements/whatsapp.php:118 inc/elements/whatsapp.php:219
+msgid "Name Color"
+msgstr ""
+
+#: inc/elements/whatsapp.php:128 inc/elements/whatsapp.php:237
+msgid "Role Color"
+msgstr ""
+
+#: inc/elements/whatsapp.php:176
+msgid "User List"
+msgstr ""
+
+#: inc/elements/whatsapp.php:230
+msgid "Name Typography"
+msgstr ""
+
+#: inc/elements/whatsapp.php:248
+msgid "Role Typography"
+msgstr ""
+
+#: inc/mj-wp-breadcrumb.php:122
+msgid "404"
+msgstr ""
+
+#: inc/post-type.php:7
+msgctxt "Post type general name"
+msgid "Projects"
+msgstr ""
+
+#: inc/post-type.php:8
+msgctxt "Post type singular name"
+msgid "Project"
+msgstr ""
+
+#: inc/post-type.php:9
+msgctxt "Admin Menu text"
+msgid "Projects"
+msgstr ""
+
+#: inc/post-type.php:10
+msgctxt "Add New on Toolbar"
+msgid "Project"
+msgstr ""
+
+#: inc/post-type.php:11 inc/post-type.php:63
+msgid "Add New"
+msgstr ""
+
+#: inc/post-type.php:12
+msgid "Add New Project"
+msgstr ""
+
+#: inc/post-type.php:13
+msgid "New Project"
+msgstr ""
+
+#: inc/post-type.php:14
+msgid "Edit Project"
+msgstr ""
+
+#: inc/post-type.php:15
+msgid "View Project"
+msgstr ""
+
+#: inc/post-type.php:16
+msgid "All Projects"
+msgstr ""
+
+#: inc/post-type.php:17
+msgid "Search Projects"
+msgstr ""
+
+#: inc/post-type.php:18
+msgid "Parent Projects:"
+msgstr ""
+
+#: inc/post-type.php:19
+msgid "No Projects found."
+msgstr ""
+
+#: inc/post-type.php:20
+msgid "No Projects found in Trash."
+msgstr ""
+
+#: inc/post-type.php:21
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Project Cover Image"
+msgstr ""
+
+#: inc/post-type.php:22
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set cover image"
+msgstr ""
+
+#: inc/post-type.php:23
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove cover image"
+msgstr ""
+
+#: inc/post-type.php:24
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use as cover image"
+msgstr ""
+
+#: inc/post-type.php:25
+msgctxt ""
+"The post type archive label used in nav menus. Default “Post Archives”. "
+"Added in 4.4"
+msgid "Project archives"
+msgstr ""
+
+#: inc/post-type.php:26
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into Project"
+msgstr ""
+
+#: inc/post-type.php:27
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this Project"
+msgstr ""
+
+#: inc/post-type.php:28
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter Projects list"
+msgstr ""
+
+#: inc/post-type.php:29
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Projects list navigation"
+msgstr ""
+
+#: inc/post-type.php:30
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Projects list"
+msgstr ""
+
+#: inc/post-type.php:59
+msgctxt "Post type general name"
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:60
+msgctxt "Post type singular name"
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:61
+msgctxt "Admin Menu text"
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:62
+msgctxt "Add New on Toolbar"
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:64
+msgid "Add New Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:65
+msgid "New Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:66
+msgid "Edit Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:67
+msgid "View Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:68
+msgid "All Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:69
+msgid "Search Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:70
+msgid "Parent Mega Menu:"
+msgstr ""
+
+#: inc/post-type.php:71
+msgid "No Mega Menu found."
+msgstr ""
+
+#: inc/post-type.php:72
+msgid "No Mega Menu found in Trash."
+msgstr ""
+
+#: inc/post-type.php:73
+msgctxt ""
+"The post type archive label used in nav Menu. Default “Post Archives”. Added "
+"in 4.4"
+msgid "Mega Menu archives"
+msgstr ""
+
+#: inc/post-type.php:74
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into Mega Menu"
+msgstr ""
+
+#: inc/post-type.php:75
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "Mega Menu list"
+msgstr ""
+
+#: inc/sticky/element-extension.php:64 inc/sticky/element-extension.php:223
+msgid "Sticky"
+msgstr ""
+
+#: inc/sticky/element-extension.php:72
+msgid "Sticky Column"
+msgstr ""
+
+#: inc/sticky/element-extension.php:82
+msgid "Hidden Before Active Column"
+msgstr ""
+
+#: inc/sticky/element-extension.php:231
+msgid "Sticky Section"
+msgstr ""
+
+#: inc/sticky/element-extension.php:241
+msgid "Fix To Top"
+msgstr ""
+
+#: inc/sticky/element-extension.php:252
+msgid "Fix To Bottom"
+msgstr ""
+
+#: inc/sticky/element-extension.php:264
+msgid "Sticky Section Style"
+msgstr ""
+
+#: inc/taxonomy.php:7 inc/taxonomy.php:9
+msgid "Project Categories"
+msgstr ""
+
+#: inc/taxonomy.php:8
+msgid "Project Category"
+msgstr ""
+
+#: inc/taxonomy.php:10
+msgid "Edit Project Category"
+msgstr ""
+
+#: inc/taxonomy.php:11
+msgid "Update Project Category"
+msgstr ""
+
+#: inc/taxonomy.php:12
+msgid "Add New Project Category"
+msgstr ""
+
+#: inc/taxonomy.php:13
+msgid "New Project Category Name"
+msgstr ""
+
+#: inc/taxonomy.php:14
+msgid "Parent Project Category"
+msgstr ""
+
+#: inc/taxonomy.php:15
+msgid "Parent Project Category:"
+msgstr ""
+
+#: inc/taxonomy.php:16
+msgid "All Project Categories"
+msgstr ""
+
+#: inc/taxonomy.php:17
+msgid "Search Project Categories"
+msgstr ""
+
+#: inc/taxonomy.php:18
+msgid "Popular Project Categories"
+msgstr ""
+
+#: inc/taxonomy.php:19
+msgid "Separate Project categories with commas"
+msgstr ""
+
+#: inc/taxonomy.php:20
+msgid "Add or remove Project categories"
+msgstr ""
+
+#: inc/taxonomy.php:21
+msgid "Choose from the most used Project categories"
+msgstr ""
+
+#: inc/taxonomy.php:22
+msgid "No Project categories found."
+msgstr ""
+
+#: inc/taxonomy.php:23
+msgid "Project categories list navigation"
+msgstr ""
+
+#: inc/taxonomy.php:24
+msgid "Project categories list"
+msgstr ""
+
+#: inc/taxonomy.php:48 inc/taxonomy.php:50
+msgid "Project Tags"
+msgstr ""
+
+#: inc/taxonomy.php:49
+msgid "Project Tag"
+msgstr ""
+
+#: inc/taxonomy.php:51
+msgid "Edit Project Tag"
+msgstr ""
+
+#: inc/taxonomy.php:52
+msgid "Update Project Tag"
+msgstr ""
+
+#: inc/taxonomy.php:53
+msgid "Add New Project Tag"
+msgstr ""
+
+#: inc/taxonomy.php:54
+msgid "New Project Tag Name"
+msgstr ""
+
+#: inc/taxonomy.php:55
+msgid "Parent Project Tag"
+msgstr ""
+
+#: inc/taxonomy.php:56
+msgid "Parent Project Tag:"
+msgstr ""
+
+#: inc/taxonomy.php:57
+msgid "All Project Tags"
+msgstr ""
+
+#: inc/taxonomy.php:58
+msgid "Search Project Tags"
+msgstr ""
+
+#: inc/taxonomy.php:59
+msgid "Popular Project Tags"
+msgstr ""
+
+#: inc/taxonomy.php:60
+msgid "Separate Project tags with commas"
+msgstr ""
+
+#: inc/taxonomy.php:61
+msgid "Add or remove Project tags"
+msgstr ""
+
+#: inc/taxonomy.php:62
+msgid "Choose from the most used Project tags"
+msgstr ""
+
+#: inc/taxonomy.php:63
+msgid "No Project tags found."
+msgstr ""
+
+#: inc/taxonomy.php:64
+msgid "Project tags list navigation"
+msgstr ""
+
+#: inc/taxonomy.php:65
+msgid "Project tags list"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Top Left"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Top Center"
+msgstr ""
+
+#: inc/template-tags.php:56
+msgid "Top Right"
+msgstr ""
+
+#: inc/template-tags.php:58
+msgid "Center Left"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgid "Center Right"
+msgstr ""
+
+#: inc/template-tags.php:60
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/template-tags.php:61
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "div"
+msgstr ""
+
+#: inc/template-tags.php:78
+msgid "span"
+msgstr ""
+
+#: inc/template-tags.php:79
+msgid "p"
+msgstr ""
+
+#: inc/template-tags.php:98
+msgid "Form Not Found!"
+msgstr ""
+
+#: inc/template-tags.php:109
+msgid "Karauos"
+msgstr ""
+
+#: inc/template-tags.php:116
+msgid "Single Karauos"
+msgstr ""
+
+#: inc/template-tags.php:123
+msgid "Shop Karauos"
+msgstr ""
+
+#: inc/template-tags.php:131
+msgid "Current loop"
+msgstr ""
+
+#: page-static.php:13
+msgid "Page Without Elementor"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:25
+msgid "Sort by: "
+msgstr ""
+
+#: woocommerce/loop/orderby.php:30
+msgid "Sort by "
+msgstr ""
+
+#: woocommerce/loop/orderby.php:31
+msgid "Sort "
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
