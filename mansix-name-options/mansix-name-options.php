@@ -2,7 +2,7 @@
 /**
  * Plugin Name: افزودن گزینه درج نام (تابلو)
  * Description: افزودن سه گزینه «نام با ورق طلا»، «نام با پلاک طلا» و «بدون نام» به صفحه محصولات یک دسته‌بندی خاص از ووکامرس، همراه با افزایش قیمت متناظر.
- * Version:     1.0.0
+ * Version:     1.1.0
  * Author:      Mansix
  * Text Domain: mansix-name-options
  * Requires Plugins: woocommerce
@@ -112,6 +112,16 @@ final class Mansix_Name_Options
         ));
     }
 
+    /**
+     * Options that add a name/text to the product require the text field.
+     */
+    public static function option_requires_text($key)
+    {
+        $options = self::options();
+
+        return !empty($options[$key]) && $options[$key]['price'] > 0;
+    }
+
     public static function render_fields()
     {
         global $product;
@@ -126,12 +136,15 @@ final class Mansix_Name_Options
         if (!array_key_exists($selected, $options)) {
             $selected = 'none';
         }
+
+        $text_value = isset($_POST['mansix_name_text']) ? sanitize_textarea_field(wp_unslash($_POST['mansix_name_text'])) : '';
+        $show_text  = self::option_requires_text($selected);
         ?>
         <div class="mansix-name-options">
             <p class="mansix-name-options__title"><strong><?php esc_html_e('گزینه درج نام:', self::TEXT_DOMAIN); ?></strong></p>
             <?php foreach ($options as $key => $option) : ?>
                 <label class="mansix-name-options__option">
-                    <input type="radio" name="mansix_name_option" value="<?php echo esc_attr($key); ?>" <?php checked($key, $selected); ?> />
+                    <input type="radio" name="mansix_name_option" value="<?php echo esc_attr($key); ?>" data-requires-text="<?php echo self::option_requires_text($key) ? '1' : '0'; ?>" <?php checked($key, $selected); ?> />
                     <span>
                         <?php echo esc_html($option['label']); ?>
                         <?php if ($option['price'] > 0) : ?>
@@ -140,8 +153,29 @@ final class Mansix_Name_Options
                     </span>
                 </label>
             <?php endforeach; ?>
-            <p class="mansix-name-options__note"><?php esc_html_e('در صورت انتخاب درج نام یا متن، لطفاً متن موردنظر را به‌طور کامل در بخش توضیحات سفارش وارد نمایید.', self::TEXT_DOMAIN); ?></p>
+
+            <div class="mansix-name-options__text-wrap" id="mansix-name-text-wrap" style="<?php echo $show_text ? '' : 'display:none;'; ?>">
+                <label for="mansix_name_text" class="mansix-name-options__text-label"><?php esc_html_e('متن مورد نظر برای درج روی تابلو:', self::TEXT_DOMAIN); ?></label>
+                <textarea id="mansix_name_text" name="mansix_name_text" rows="3" placeholder="<?php esc_attr_e('متن دقیق مورد نظر خود را اینجا بنویسید...', self::TEXT_DOMAIN); ?>"><?php echo esc_textarea($text_value); ?></textarea>
+            </div>
+
+            <p class="mansix-name-options__note"><?php esc_html_e('لطفاً متن موردنظر را به‌طور کامل و دقیق در فیلد بالا وارد نمایید.', self::TEXT_DOMAIN); ?></p>
         </div>
+        <script>
+        (function () {
+            var wrap = document.getElementById('mansix-name-text-wrap');
+            if (!wrap) { return; }
+            var radios = document.querySelectorAll('input[name="mansix_name_option"]');
+            function toggle() {
+                var checked = document.querySelector('input[name="mansix_name_option"]:checked');
+                wrap.style.display = (checked && checked.getAttribute('data-requires-text') === '1') ? '' : 'none';
+            }
+            for (var i = 0; i < radios.length; i++) {
+                radios[i].addEventListener('change', toggle);
+            }
+            toggle();
+        })();
+        </script>
         <?php
     }
 
@@ -156,6 +190,9 @@ final class Mansix_Name_Options
 .mansix-name-options__title{margin:0 0 10px}
 .mansix-name-options__option{display:flex;align-items:center;gap:8px;margin-bottom:8px;cursor:pointer;font-weight:normal}
 .mansix-name-options__option input{margin:0}
+.mansix-name-options__text-wrap{margin-top:10px}
+.mansix-name-options__text-label{display:block;margin-bottom:6px;font-weight:bold}
+.mansix-name-options__text-wrap textarea{width:100%;max-width:100%;box-sizing:border-box;padding:8px;border:1px solid #ccc;border-radius:4px;font-family:inherit;resize:vertical}
 .mansix-name-options__note{margin:10px 0 0;font-size:13px;color:#c0392b}
 ';
 
@@ -178,6 +215,15 @@ final class Mansix_Name_Options
             return false;
         }
 
+        if (self::option_requires_text($selected)) {
+            $text = isset($_POST['mansix_name_text']) ? sanitize_textarea_field(wp_unslash($_POST['mansix_name_text'])) : '';
+
+            if ('' === trim($text)) {
+                wc_add_notice(__('لطفاً متن مورد نظر برای درج روی تابلو را وارد کنید.', self::TEXT_DOMAIN), 'error');
+                return false;
+            }
+        }
+
         return $passed;
     }
 
@@ -195,6 +241,14 @@ final class Mansix_Name_Options
         }
 
         $cart_item_data['mansix_name_option'] = $selected;
+
+        if (self::option_requires_text($selected)) {
+            $text = isset($_POST['mansix_name_text']) ? sanitize_textarea_field(wp_unslash($_POST['mansix_name_text'])) : '';
+
+            if ('' !== trim($text)) {
+                $cart_item_data['mansix_name_text'] = $text;
+            }
+        }
 
         return $cart_item_data;
     }
@@ -258,6 +312,13 @@ final class Mansix_Name_Options
             'value' => $value,
         );
 
+        if (!empty($cart_item['mansix_name_text'])) {
+            $item_data[] = array(
+                'key'   => __('متن مورد نظر', self::TEXT_DOMAIN),
+                'value' => nl2br(esc_html($cart_item['mansix_name_text'])),
+            );
+        }
+
         return $item_data;
     }
 
@@ -274,6 +335,10 @@ final class Mansix_Name_Options
         }
 
         $item->add_meta_data(__('گزینه درج نام', self::TEXT_DOMAIN), $value, true);
+
+        if (!empty($values['mansix_name_text'])) {
+            $item->add_meta_data(__('متن مورد نظر', self::TEXT_DOMAIN), $values['mansix_name_text'], true);
+        }
     }
 }
 
