@@ -8,6 +8,7 @@ require wp_directory . '/inc/menus.php';
 require wp_directory . '/inc/customizer/customizer-repeater/functions.php';
 require wp_directory .'/inc/customizer/customizer.php';
 require wp_directory .'/inc/sticky/sticky.php';
+require wp_directory .'/inc/woo-name-options.php';
 
 /**
  * Load Karauos custom Elementor widgets once Elementor's widgets manager is ready.

@@ -90,6 +90,11 @@ jQuery(document).ready(function ($) {
             variation_id: variation_id,
         };
 
+        var karauosNameOption = $form.find('input[name="karauos_name_option"]:checked').val();
+        if (typeof karauosNameOption !== 'undefined') {
+            data.karauos_name_option = karauosNameOption;
+        }
+
         $(document.body).trigger('adding_to_cart', [$thisbutton, data]);
 
         $.ajax({
