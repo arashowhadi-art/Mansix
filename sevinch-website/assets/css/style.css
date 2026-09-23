@@ -299,16 +299,22 @@ p{color:var(--ink-soft)}
 
 /* ---------------- Page hero (inner pages) ---------------- */
 .page-hero{
-  background:var(--green-dark) url('../img/photos/product-lineup.jpg') center/cover no-repeat;
-  position:relative;padding:90px 0 70px;color:#fff;
+  position:relative;padding:100px 0 76px;color:#fff;background:var(--green-dark);overflow:hidden;
 }
-.page-hero::after{content:"";position:absolute;inset:0;background:rgba(18,74,41,.82)}
-.page-hero .container{position:relative}
-.page-hero h1{color:#fff;margin-bottom:10px}
-.page-hero p{color:rgba(255,255,255,.85);max-width:560px}
-.page-hero .breadcrumb{color:rgba(255,255,255,.7);padding:0 0 18px}
-.page-hero .breadcrumb a{color:rgba(255,255,255,.85)}
-.page-hero .breadcrumb .current{color:var(--orange)}
+.page-hero-bg{position:absolute;inset:0;z-index:0}
+.page-hero-bg img{width:100%;height:100%;object-fit:cover;filter:blur(3px) brightness(.55) saturate(1.05);transform:scale(1.08)}
+.page-hero-bg::after{
+  content:"";position:absolute;inset:0;
+  background:linear-gradient(180deg,rgba(12,54,30,.78) 0%,rgba(12,54,30,.9) 100%);
+}
+.page-hero-content{position:relative;z-index:1}
+.page-hero h1{color:#fff;margin-bottom:10px;text-shadow:0 2px 16px rgba(0,0,0,.35)}
+.page-hero p{color:rgba(255,255,255,.9);max-width:560px}
+.page-hero .breadcrumb{color:rgba(255,255,255,.75);padding:0 0 18px}
+.page-hero .breadcrumb a{color:rgba(255,255,255,.92)}
+.page-hero .breadcrumb .current{color:var(--orange);font-weight:700}
+.page-hero .eyebrow{color:var(--orange)}
+.page-hero .eyebrow::before{background:var(--orange)}
 
 /* ---------------- About page ---------------- */
 .values-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:24px;padding:0 0 96px}
