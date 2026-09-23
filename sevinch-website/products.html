@@ -49,10 +49,145 @@
 <section class="products-section">
   <div class="container">
     <div class="filter-row reveal">
-      {''.join(f'<button class="filter-btn{" active" if c[0]=="all" else ""}" data-filter="{c[0]}">{c[1]}</button>' for c in CATS)}
+      <button class="filter-btn active" data-filter="all">همه محصولات</button><button class="filter-btn" data-filter="bean">لوبیاها</button><button class="filter-btn" data-filter="lentil">عدسی‌ها</button><button class="filter-btn" data-filter="other">سایر دانه‌ها</button>
     </div>
     <div class="product-grid">
-      {''.join(product_card(p, base) for p in PRODUCTS)}
+      <div class="product-card reveal" data-category="lentil">
+  <a href="products/lentil.html" class="thumb">
+    <span class="tag">عدسی‌ها</span>
+    <img src="assets/img/products/lentil-thumb.jpg" alt="عدس سوینج">
+  </a>
+  <div class="body">
+    <span class="en">Lentil</span>
+    <h3><a href="products/lentil.html">عدس</a></h3>
+    <p class="desc">عدس درجه‌یک، دستچین و پاک‌شده؛ سرشار از پروتئین و آهن گیاهی، انتخابی عالی برای عدسی و آش.</p>
+    <div class="meta">
+      <span class="weight">وزن خالص ۹۰۰ و ۴۵۰ گرم</span>
+      <a href="products/lentil.html" class="more">مشاهده <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</div>
+<div class="product-card reveal" data-category="lentil">
+  <a href="products/red-split-lentil.html" class="thumb">
+    <span class="tag">عدسی‌ها</span>
+    <img src="assets/img/products/red-split-lentil-thumb.jpg" alt="دال عدس سوینج">
+  </a>
+  <div class="body">
+    <span class="en">Red Split Lentils</span>
+    <h3><a href="products/red-split-lentil.html">دال عدس</a></h3>
+    <p class="desc">دال عدس نارنجی‌رنگ و ریزدانه با زمان پخت کوتاه؛ مناسب سوپ‌های کِرمی و دال هندی.</p>
+    <div class="meta">
+      <span class="weight">وزن خالص ۹۰۰ و ۴۵۰ گرم</span>
+      <a href="products/red-split-lentil.html" class="more">مشاهده <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</div>
+<div class="product-card reveal" data-category="other">
+  <a href="products/split-pea.html" class="thumb">
+    <span class="tag">سایر دانه‌ها</span>
+    <img src="assets/img/products/split-pea-thumb.jpg" alt="لپه سوینج">
+  </a>
+  <div class="body">
+    <span class="en">Split Pea</span>
+    <h3><a href="products/split-pea.html">لپه</a></h3>
+    <p class="desc">لپه زرد پوست‌کنده با پخت سریع و طعمی ملایم؛ جزو لاینفک خورش قیمه و آش.</p>
+    <div class="meta">
+      <span class="weight">وزن خالص ۹۰۰ و ۴۵۰ گرم</span>
+      <a href="products/split-pea.html" class="more">مشاهده <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</div>
+<div class="product-card reveal" data-category="other">
+  <a href="products/mung-bean.html" class="thumb">
+    <span class="tag">سایر دانه‌ها</span>
+    <img src="assets/img/products/mung-bean-thumb.jpg" alt="ماش سوینج">
+  </a>
+  <div class="body">
+    <span class="en">Mung Beans</span>
+    <h3><a href="products/mung-bean.html">ماش</a></h3>
+    <p class="desc">ماش سبز درشت و یک‌دست، سرشار از پروتئین گیاهی؛ انتخاب کلاسیک آش ماش.</p>
+    <div class="meta">
+      <span class="weight">وزن خالص ۹۰۰ و ۴۵۰ گرم</span>
+      <a href="products/mung-bean.html" class="more">مشاهده <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</div>
+<div class="product-card reveal" data-category="other">
+  <a href="products/chickpea.html" class="thumb">
+    <span class="tag">سایر دانه‌ها</span>
+    <img src="assets/img/products/chickpea-thumb.jpg" alt="نخود سوینج">
+  </a>
+  <div class="body">
+    <span class="en">Chickpeas</span>
+    <h3><a href="products/chickpea.html">نخود</a></h3>
+    <p class="desc">نخود کرمانی درشت و یک‌دست، دستچین‌شده برای بیشترین کیفیت؛ لاینفک آبگوشت ایرانی.</p>
+    <div class="meta">
+      <span class="weight">وزن خالص ۹۰۰ و ۴۵۰ گرم</span>
+      <a href="products/chickpea.html" class="more">مشاهده <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</div>
+<div class="product-card reveal" data-category="bean">
+  <a href="products/pinto-bean.html" class="thumb">
+    <span class="tag">لوبیاها</span>
+    <img src="assets/img/products/pinto-bean-thumb.jpg" alt="لوبیا چیتی سوینج">
+  </a>
+  <div class="body">
+    <span class="en">Pinto Beans</span>
+    <h3><a href="products/pinto-bean.html">لوبیا چیتی</a></h3>
+    <p class="desc">لوبیا چیتی خوش‌پخت با طرح پوستی خاص؛ گزینه محبوب خورش لوبیا و لوبیاپلو.</p>
+    <div class="meta">
+      <span class="weight">وزن خالص ۹۰۰ و ۴۵۰ گرم</span>
+      <a href="products/pinto-bean.html" class="more">مشاهده <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</div>
+<div class="product-card reveal" data-category="bean">
+  <a href="products/black-eyed-pea.html" class="thumb">
+    <span class="tag">لوبیاها</span>
+    <img src="assets/img/products/black-eyed-pea-thumb.jpg" alt="لوبیا چشم‌بلبلی سوینج">
+  </a>
+  <div class="body">
+    <span class="en">Black-Eyed Peas</span>
+    <h3><a href="products/black-eyed-pea.html">لوبیا چشم‌بلبلی</a></h3>
+    <p class="desc">لوبیا چشم‌بلبلی معطر با طعمی خاص و فیبر بالا؛ عالی برای سالاد و خورش‌های محلی.</p>
+    <div class="meta">
+      <span class="weight">وزن خالص ۹۰۰ و ۴۵۰ گرم</span>
+      <a href="products/black-eyed-pea.html" class="more">مشاهده <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</div>
+<div class="product-card reveal" data-category="bean">
+  <a href="products/white-bean.html" class="thumb">
+    <span class="tag">لوبیاها</span>
+    <img src="assets/img/products/white-bean-thumb.jpg" alt="لوبیا سفید سوینج">
+  </a>
+  <div class="body">
+    <span class="en">White Kidney Beans</span>
+    <h3><a href="products/white-bean.html">لوبیا سفید</a></h3>
+    <p class="desc">لوبیا سفید درشت و یک‌دست، دستچین و پاک‌شده؛ انتخاب اول خورش لوبیا سفید.</p>
+    <div class="meta">
+      <span class="weight">وزن خالص ۹۰۰ و ۴۵۰ گرم</span>
+      <a href="products/white-bean.html" class="more">مشاهده <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</div>
+<div class="product-card reveal" data-category="bean">
+  <a href="products/kidney-bean.html" class="thumb">
+    <span class="tag">لوبیاها</span>
+    <img src="assets/img/products/kidney-bean-thumb.jpg" alt="لوبیا قرمز سوینج">
+  </a>
+  <div class="body">
+    <span class="en">Kidney Beans</span>
+    <h3><a href="products/kidney-bean.html">لوبیا قرمز</a></h3>
+    <p class="desc">لوبیا قرمز پرمغذی و خوش‌رنگ؛ جزو ارکان خورش قرمه‌سبزی و چیلی.</p>
+    <div class="meta">
+      <span class="weight">وزن خالص ۹۰۰ و ۴۵۰ گرم</span>
+      <a href="products/kidney-bean.html" class="more">مشاهده <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a>
+    </div>
+  </div>
+</div>
+
     </div>
   </div>
 </section>
