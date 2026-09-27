@@ -152,7 +152,8 @@ p{color:var(--ink-soft)}
 .trust-item svg{flex-shrink:0;color:var(--orange)}
 
 /* ---------------- About brief / split sections ---------------- */
-.split{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center;padding:96px 0}
+.split{padding:96px 0}
+.split-grid{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center}
 .split .text{text-align:center}
 .split .text-list li{justify-content:center}
 .split .media{position:relative}
@@ -161,7 +162,6 @@ p{color:var(--ink-soft)}
   position:absolute;bottom:-22px;right:-22px;background:#fff;border-radius:var(--radius-md);
   padding:18px 22px;box-shadow:var(--shadow-md);display:flex;align-items:center;gap:12px;
 }
-.split.reverse{grid-template-columns:1fr 1fr}
 .split.reverse .media{order:2}
 .split.reverse .text{order:1}
 .text-list{margin-top:22px;display:grid;gap:14px}
@@ -169,7 +169,8 @@ p{color:var(--ink-soft)}
 .text-list li svg{flex-shrink:0;margin-top:3px;color:var(--green)}
 
 @media(max-width:860px){
-  .split,.split.reverse{grid-template-columns:1fr;gap:36px;padding:64px 0}
+  .split{padding:64px 0}
+  .split-grid{grid-template-columns:1fr;gap:36px}
   .split.reverse .media,.split.reverse .text{order:initial}
 }
 
