@@ -153,6 +153,8 @@ p{color:var(--ink-soft)}
 
 /* ---------------- About brief / split sections ---------------- */
 .split{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center;padding:96px 0}
+.split .text{text-align:center}
+.split .text-list li{justify-content:center}
 .split .media{position:relative}
 .split .media img{border-radius:var(--radius-lg);box-shadow:var(--shadow-md);width:100%;aspect-ratio:4/5;object-fit:cover}
 .split .media .media-badge{
